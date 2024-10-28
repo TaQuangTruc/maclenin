@@ -11,7 +11,7 @@ const { test } = require("./utils/crawl");
   let confirmPage;
 
   for (let i = 1; i < 50; i++) {
-    browser = await puppeteer.launch({ headless: false });
+    browser = await puppeteer.launch({ headless: true });
     page = await browser.newPage();
     const student = await randomStudent(page);
 
