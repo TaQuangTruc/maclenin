@@ -1,12 +1,12 @@
 const { getEmail } = require("./getEmail");
-const { getLastName, getFirstName, getUserName, getRandomStudentId, getRandomPhoneNumber } = require("../helper")
+const { getLastName, getFirstName, getUserName, getRandomStudentId, getRandomPhoneNumber, getRandomEmailFromName } = require("./helper")
 
 async function randomStudent(emailPage) {
   try {
     const lastName = await getLastName();
     const firstName = await getFirstName();
-    const email = await getEmail(emailPage);
     const username = getUserName(lastName, firstName);
+    const email = await getRandomEmailFromName(username);
     const studentId = await getRandomStudentId();
     const phoneNumber = await getRandomPhoneNumber();
     return {
@@ -15,7 +15,8 @@ async function randomStudent(emailPage) {
         username,
         email,
         password: "!@#QWE123qwe",
-        school: "Đoàn Trường Đại học Công nghệ Thông tin, ĐHQG-HCM",
+        school: "Đoàn Trường Đại học Bách Khoa, ĐHQG-HCM",
+        branch: "Đoàn Trường Đại học Bách Khoa",
         phoneNumber,
         studentId, 
         emailLeader: "abc@gmail.com"

@@ -1,0 +1,452 @@
+[
+  {
+    "question": "Thị tộc xuất hiện vào thời kỳ:",
+    "answers": [
+      "Đồ đồng",
+      "Đồ đá cũ",
+      "Đồ đá mới",
+      "Đồ sắt"
+    ]
+  },
+  {
+    "question": "Điền cụm từ còn thế để hoàn chỉnh luận điểm của Hồ Chí Minh\n“Một dân tộc dốt là một dân tộc…”",
+    "answers": [
+      "Yếu",
+      "Lạc hậu",
+      "Chậm phát triển",
+      "Hèn"
+    ]
+  },
+  {
+    "question": "Theo tư tưởng Hồ Chí Minh, nền văn hóa dân tộc phải được xây dựng trên 5 yếu tố nào sau đây?",
+    "answers": [
+      "Xây dựng xã hội, kinh tế, chính trị, đạo đức và luân lý",
+      "Xây dựng xã hội, kinh tế, chính trị, tâm lý và đạo đức",
+      "Xây dựng xã hội, kinh tế, chính trị, tâm lý và luân lý",
+      "Xây dựng xã hội, kinh tế, chính trị, đạo đức và nhân quyền"
+    ]
+  },
+  {
+    "question": "Tìm cụm từ thích hợp điền vào chỗ trống cho chính xác với câu nói của Chủ tịch Hồ Chí Minh: “Ai làm cách mạng trong thế giới …. của dân An Nam”",
+    "answers": [
+      "Đều là đồng chí",
+      "Đều là bạn bè",
+      "Đều là anh em",
+      "Đều là cộng sự."
+    ]
+  },
+  {
+    "question": "Vấn đề thứ ba mà Chủ tịch Hồ Chí Minh nhắc đến trong Di chúc sau khi nói về Đảng và đoàn kết là gì?",
+    "answers": [
+      "Về việc riêng",
+      "Đoàn viên thanh niên",
+      "Đảng viên",
+      "Đoàn kết quốc tế"
+    ]
+  },
+  {
+    "question": "“Kẻ thù muốn giết tôi. Tôi không sợ chết. Tôi chỉ có một điều ân hận là đã sớm sa vào tay giặc, chưa hoàn thành được nhiệm vụ của mình, không còn được tiếp tục chiến đấu để giải phóng dân tộc, giải phóng giai cấp, thực hiện được lý tưởng của đời tôi”. Câu nói nổi tiếng này của:",
+    "answers": [
+      "Nguyễn Văn Trỗi",
+      "Hoàng Văn Thụ",
+      "Lê Hồng Phong",
+      "Lý Tự Trọng"
+    ]
+  },
+  {
+    "question": "Sự kiện nào đánh dấu giai cấp công nhân Việt Nam đi vào đấu tranh tự giác?",
+    "answers": [
+      "Cuộc bãi công của công nhân thợ nhuộm Chợ Lớn (1922)",
+      "Cuộc tổng bãi công của công nhân miền Bắc (1922)",
+      "Cuộc bãi công của công nhân nhà máy sợi Nam Định (1930)",
+      "Cuộc bãi công của thợ máy xưởng Ba Son cảng Sài Gòn ngăn cản tàu chiến Pháp đi đàn áp cách mạng Trung Quốc (8/1925)"
+    ]
+  },
+  {
+    "question": "Phong trào “Sinh viên 5 tốt” của Hội Sinh viên Việt Nam phát động gồm những tiêu chí nào?",
+    "answers": [
+      "Đạo đức tốt - Học tập tốt - Thể lực tốt - Kỹ năng tốt - Hội nhập tốt",
+      "Đạo đức tốt - Học tập tốt - Thể lực tốt - Tình nguyện tốt - Hội nhập tốt",
+      "Đạo đức tốt - Học tập tốt - Thể lực tốt - Tình nguyện tốt - Sáng tạo tốt",
+      "Đạo đức tốt - Học tập tốt - Thể lực tốt - Sáng tạo tốt - Hội nhập tốt"
+    ]
+  },
+  {
+    "question": "Khách sạn được xây dựng sớm nhất ở Sài Gòn thời Pháp thuộc hiện nay mang tên gì?",
+    "answers": [
+      "Continental",
+      "Caravelle",
+      "Palace",
+      "Majestic"
+    ]
+  },
+  {
+    "question": "Ông đỗ Hoàng Giáp năm 28 tuổi, từng giữ chức Bộ trưởng Bộ Nội vụ trong Chính phủ liên hiệp kháng chiến. Khi ông mất, Hồ Chủ tịch đã gửi thư vĩnh biệt, trong thư, Hồ Chủ tịch đánh giá ông là người “học hành rất rộng, chí khí rất bền, đạo đức rất cao”. Ông là ai ?",
+    "answers": [
+      "Trần Huy Liệu",
+      "Vũ Đình Hòe",
+      "Dương Đức Hiền",
+      "Huỳnh Thúc Kháng"
+    ]
+  },
+  {
+    "question": "Điều kiện quyết định để tiền biến thành tư bản là:",
+    "answers": [
+      "Sự tách biệt về kinh tế",
+      "Chế độ tư hữu về tư liệu sản xuất",
+      "Phân công lao động xã hội",
+      "Sức lao động biến thành hàng hóa"
+    ]
+  },
+  {
+    "question": "Tác phẩm ra đời năm 1847, Các Mác đã phê phán tính chất thỏa hiệp tiểu tư sản của Pruđông muốn dùng phương pháp cải lương, điều hòa mâu thuẫn, và thỏa hiệp chính trị trong cuộc đấu tranh xóa bỏ chủ nghĩa tư bản và xây dựng chủ nghĩa xã hội. Tên của tác phẩm này là gì?",
+    "answers": [
+      "Bản thảo Kinh tế - Triết học",
+      "Gia đình thần thánh",
+      "Biện chứng của tự nhiên",
+      "Sự khốn cùng của Triết học"
+    ]
+  },
+  {
+    "question": "Hàng hóa có hai thuộc tính cơ bản là:",
+    "answers": [
+      "Giá trị và giá trị trao đổi",
+      "Giá trị và giá cả",
+      "Giá trị sử dụng và giá trị",
+      "Giá trị sử dụng và công dụng"
+    ]
+  },
+  {
+    "question": "Vùng căn cứ kháng chiến nổi tiếng ở vùng ven Sài Gòn trong kháng chiến chống Mỹ, được địch xem là “Sở chỉ huy Quân khu IV Việt Cộng”, rằng căn cứ này còn thì Sài Gòn mất. Đó là vùng căn cứ nào?",
+    "answers": [
+      "Củ Chi",
+      "Trung ương Cục miền Nam",
+      "Khu căn cứ K20",
+      "Căn cứ cách mạng Khu ủy Sài Gòn – Gia Định"
+    ]
+  },
+  {
+    "question": "Ai là người đã khởi thảo bản Luận cương chính trị tại Hội nghị lần I BCH TW lâm thời ĐCS Việt Nam (10/1930)?",
+    "answers": [
+      "Nguyễn Ái Quốc",
+      "Trần Phú",
+      "Trường Chinh",
+      "Lê Hồng Phong"
+    ]
+  },
+  {
+    "question": "Lúc mới thành lập 1930, Thành ủy lâm thời thành phố Sài Gòn gồm mấy người, ai làm Bí thư?",
+    "answers": [
+      "Năm người, do đồng chí Nguyễn Văn Lợi làm bí thư",
+      "Bảy người, do đồng chí Trần Trọng Mân là bí thư",
+      "Ba người, do đồng chí Trần Văn Giàu làm bí thư",
+      "Năm người, do đồng chí Võ Văn Tần làm bí thư"
+    ]
+  },
+  {
+    "question": "Bản Cương lĩnh chính trị đầu tiên của Đảng đã xác định lực lượng của cách mạng Việt nam bao gồm:",
+    "answers": [
+      "Công nhân, nông dân, tư sản, tiểu tư sản",
+      "Công nhân, nông dân, trí thức, tiểu tư sản và trung tiểu địa chủ",
+      "Công nhân, nông dân, tiểu tư sản và trí thức",
+      "Công nhân, nông dân,tư sản, trí thức"
+    ]
+  },
+  {
+    "question": "Ngôn ngữ đóng vai trò:",
+    "answers": [
+      "Nội dung trung tâm của ý thức",
+      "“Cái vỏ vật chất” của ý thức",
+      "Nội dung của ý thức",
+      "Cả ba đáp án trên"
+    ]
+  },
+  {
+    "question": "Có sự khác nhau nào giữa “khái niệm” và “phạm trù”?",
+    "answers": [
+      "“Khái niệm” phải là những “phạm trù” rộng nhất",
+      "“Khái niệm” chính là “phạm trù” (không có sự khác nhau)",
+      "“Khái niệm” không bao giờ là một “phạm trù”",
+      "“Phạm trù” phải là những “khái niệm” rộng nhất"
+    ]
+  },
+  {
+    "question": "Nội dung Cương lĩnh dân tộc của Lênin là:",
+    "answers": [
+      "Các dân tộc đoàn kết, bình đẳng và liên hiệp công nhân tất cả các dân tộc lại.",
+      "Các dân tộc có quyền tự quyết, các dân tộc có quyền bình đẳng, liên hiệp công nhân tất cả các dân tộc lại.",
+      "Các dân tộc hoàn toàn bình đẳng, tự quyết và liên hiệp công nhân các nước.",
+      "Các dân tộc hoàn toàn bình đẳng, các dân tộc được quyền tự quyết, liên hiệp công nhân tất cả các dân tộc lại."
+    ]
+  },
+  {
+    "question": "V.I Lênin nói hai quan niệm cơ bản về sự phát triển:\n“Sự phát triển coi như là giảm đi và tăng lên, như là lặp lại”\n“Sự phát triển coi như là sự thống nhất của các mặt độc lập”\nCâu nói này của V.I. Lênin trong tác phẩm nào?",
+    "answers": [
+      "Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán",
+      "Về vai trò của chủ nghĩa duy vật chiến đấu.",
+      "Bút ký triết học",
+      "Những người bạn dân là thế nào và họ đấu tranh chống những người dân chủ ra sao?"
+    ]
+  },
+  {
+    "question": "Lịch sử triết học Hy Lạp cổ đại là lịch sử đấu tranh của hai trường phái đối lập nhau, được khái quát thành cuộc đấu tranh của hai đường lối mang tên của hai nhà triết học tiêu biểu cho chủ nghĩa duy vật và chủ nghĩa duy tâm. Đấy là cuộc đấu tranh của hai đường lối của ai?",
+    "answers": [
+      "Pla-tông và Aritxtốt",
+      "Đê-mô-crit và Pla-tông",
+      "Ta-lét và Đê-mô-crit",
+      "Hê-ghen và Phơ-bách"
+    ]
+  },
+  {
+    "question": "Trong năm 1947, Chủ tịch Hồ Chí Minh đã hoàn thành tác phẩm quan trọng giới thiệu vắn tắt, rõ ràng, dễ hiểu nội dung của đời sống mới và nêu yêu cầu cụ thể đối với mỗi người, mỗi gia đình, từng giới, từng ngành. Đó là cuốn sách nào?",
+    "answers": [
+      "Cả 3 câu trên đều sai",
+      "Đời sống mới",
+      "Thiếu óc tổ chức",
+      "Sửa đổi lối làm việc"
+    ]
+  },
+  {
+    "question": "Theo Hồ Chí Minh: “Giải phóng dân tộc, giải phóng giai cấp, giải phóng con người thống nhất nhau là tư tưởng cách mạng […]”. Trong ba chấm là gì?",
+    "answers": [
+      "Triệt để nhất",
+      "An toàn nhất",
+      "Toàn diện nhất",
+      "Phù hợp nhất"
+    ]
+  },
+  {
+    "question": "Ngày 08/4/1975, một phi công đã ném bom xuống Dinh Độc Lập. Hãy cho biết tên người phi công này?",
+    "answers": [
+      "Nguyễn Văn Lương",
+      "Lê Văn Phong",
+      "Nguyễn Thành Trung",
+      "Nguyễn Văn Hiệu"
+    ]
+  },
+  {
+    "question": "Tác giả của bài văn bia tưởng niệm các anh hùng liệt sĩ tại đền Bến Dược - Củ Chi là ai?",
+    "answers": [
+      "Nhà thơ Viễn Phương",
+      "Nhà văn Nguyễn Quang Sáng",
+      "Nhà văn Anh Đức",
+      "Nhà văn Bảo Định Giang"
+    ]
+  },
+  {
+    "question": "Hoạt động mang ý nghĩa nhân văn sâu sắc do Trung tâm Hỗ trợ Thanh niên công nhân Thành phố tổ chức hằng năm nhằm hỗ trợ cho thanh niên công nhân có hoàn cảnh khó khăn trên địa bàn Thành phố, đồng thời tôn vinh nét đẹp văn hóa Việt. Đó là hoạt động gì?",
+    "answers": [
+      "Chương trình “Lễ cưới tập thể”",
+      "Chương trình “Bán hàng bình ổn giá”",
+      "Chương trình “Tiếp sức đến trường”",
+      "Chương trình “Căn phòng mơ ước”"
+    ]
+  },
+  {
+    "question": "Kết quả của cuộc Tổng tiến công và nổi dậy Tết Mậu Thân 1968 là gì ?",
+    "answers": [
+      "Tất cả đều đúng",
+      "Hoa Kỳ chấp nhận ngồi vào bàn đàm phán hòa bình ở Paris.",
+      "Hoa Kỳ đơn phương xuống thang chiến tranh, ngừng ném bom miền Bắc.",
+      "Chiến lược Chiến tranh cục bộ của Hoa Kỳ phá sản."
+    ]
+  },
+  {
+    "question": "Nước nào tiến hành Công nghiệp hóa đầu tiên trên thế giới?",
+    "answers": [
+      "Đức",
+      "Pháp",
+      "Mỹ",
+      "Anh"
+    ]
+  },
+  {
+    "question": "Tác phẩm nào được xem là tác phẩm đầu tiên viết bằng văn xuôi quốc ngữ được xuất bản ở Sài Gòn năm 1887?",
+    "answers": [
+      "“Truyền Thầy Lazaro Phiền” của Nguyễn Trọng Quảng",
+      "“Truyện đời xưa” của Trương Vĩnh Ký",
+      "“U Tình Lục” của Hồ Biểu Chánh",
+      "“Hà Hương Phong Nguyệt” của Lê Hoằng Mưu"
+    ]
+  },
+  {
+    "question": "Trường Đại học An Giang trở thành trường đại học thành viên của Đại học Quốc gia Thành phố Hồ Chí Minh từ thời gian nào?",
+    "answers": [
+      "Ngày 05/9/2021",
+      "Ngày 12/12/2020",
+      "Ngày 20/11/2019",
+      "Ngày 13/8/2019"
+    ]
+  },
+  {
+    "question": "Tuần hoàn tư bản gồm những giai đoạn nào?",
+    "answers": [
+      "Lưu thông – Sản xuất – Tiêu dùng",
+      "Lưu thông – Sản xuất – Lưu thông",
+      "Sản xuất – Lưu thông – Sản xuất",
+      "Sản xuất – Lưu thông – Tiêu dùng"
+    ]
+  },
+  {
+    "question": "Phân công lao động xã hội là sự phân chia lao động xã hội thành:",
+    "answers": [
+      "Các vùng khác nhau của nền sản xuất xã hội.",
+      "Các lĩnh vực khác nhau của nền sản xuất xã hội.",
+      "Các ngành nghề khác nhau của nền sản xuất xã hội.",
+      "Các bộ phận khác nhau của nền sản xuất xã hội."
+    ]
+  },
+  {
+    "question": "Công thức chung của tư bản là:",
+    "answers": [
+      "H – T – T’",
+      "H - T – H",
+      "T - H – H",
+      "T - H – T’"
+    ]
+  },
+  {
+    "question": "Đại biểu các tổ chức cộng sản nào đã tham dự Hội nghị hợp nhất thành lập Đảng đầu năm 1930?",
+    "answers": [
+      "Đông Dương Cộng sản Đảng và Đông Dương Cộng sản Liên đoàn",
+      "An Nam Cộng sản Đảng và Đông Dương Cộng sản Liên đoàn",
+      "Đông Dương Cộng sản Đảng, An Nam Cộng sản Đảng và Đông Dương Cộng sản Liên đoàn",
+      "Đông Dương Cộng sản Đảng và An Nam Cộng sản Đảng"
+    ]
+  },
+  {
+    "question": "Đường lối đổi mới của Đảng nên hiểu như thế nào cho đúng?",
+    "answers": [
+      "Nước ta không thay đổi mục tiêu đi lên chủ nghĩa xã hội nhưng thực hiện thông qua việc xây dựng nền kinh tế tư bản chủ nghĩa",
+      "Đổi mới đi lên chủ nghĩa xã hội cần xây dựng đất nước giàu mạnh - dân chủ - văn minh",
+      "Nước ta xây dựng chủ nghĩa xã hội cho phù hợp với hoàn cảnh thực tiễn của Việt Nam",
+      "Đổi mới không phải là thay đổi mục tiêu của chủ nghĩa xã hội mà làm cho mục tiêu ấy được thực hiện có hiệu quả"
+    ]
+  },
+  {
+    "question": "Đại hội đại biểu toàn quốc lần thứ III của Đảng diễn ra vào thời gian nào? Tại đâu?",
+    "answers": [
+      "Tháng 12/1960 tại Hà Nội",
+      "Tháng 6/1960 tại Hà Nội",
+      "Tháng 3/1960 tại Pác Bó",
+      "Tháng 9/1960 tại Hà Nội"
+    ]
+  },
+  {
+    "question": "Cho các phát biểu sau:\n1. Đức là quê hương của Các Mác.\n2. Tác phẩm “Hệ tư tưởng Đức” của Ph. Ăng – ghen.\n3. Tác phẩm “Tư bản” được viết năm 1867.\n4. Tác phẩm “Tuyên ngôn của Đảng Cộng sản” được hoàn thành chỉ trong 6 tuần.\n5. Đức là quê hương của Ph. Ăng – ghen.",
+    "answers": [
+      "5",
+      "3",
+      "4",
+      "2"
+    ]
+  },
+  {
+    "question": "Khái niệm nào dùng để chỉ mâu thuẫn quy định bản chất của sự vật, quy định sự vận động ở tất cả các giai đoạn tồn tại của sự vật?",
+    "answers": [
+      "Mâu thuẫn thứ yếu",
+      "Mâu thuẫn không cơ bản",
+      "Mâu thuẫn cơ bản",
+      "Mâu thuẫn chủ yếu"
+    ]
+  },
+  {
+    "question": "Tiêu chí cơ bản để đánh giá tiến bộ xã hội:",
+    "answers": [
+      "Sự phát triển của sản xuất vật chất và sản xuất tinh thần",
+      "Sự phát triển đồng bộ của kinh tế chính trị, văn hoá và xã hội",
+      "Sự phát triển của lực lượng sản xuất",
+      "Sự phát triển toàn diện con người"
+    ]
+  },
+  {
+    "question": "Nguồn gốc sự hình thành tư tưởng, đạo đức, phong cách Hồ Chí Minh về ý chí tự lực, tự cường, khát vọng phát triển đất nước phồn vinh, hạnh phúc?",
+    "answers": [
+      "Chủ nghĩa Mác – Lênin",
+      "Sự nghiệp cách mạng của Nguyễn Ái Quốc",
+      "Vấn đề độc lập dân tộc và khát vọng tự do cho nhân dân",
+      "Các giá trị văn hoá của dân tộc và nhân loại"
+    ]
+  },
+  {
+    "question": "Trong xây dựng Đảng, Hồ Chí Minh xác định: “Mục đích phê bình cốt để […], giúp nhau tiến bộ”. Trong dấu ba chấm là gì?",
+    "answers": [
+      "Giúp nhau cải tạo",
+      "Chỉ ra sai lầm",
+      "Giúp nhau sửa chữa",
+      "Sửa chữa sai lầm"
+    ]
+  },
+  {
+    "question": "Trận đánh và cũng là chiến thắng đầu tiên của đội Việt Nam Tuyên truyền giải phóng quân là trận nào?",
+    "answers": [
+      "Trận Phai Khắt (Cao Bằng)",
+      "Trận Nà Ngần (Cao Bằng)",
+      "Trận Phai Khắt và Nà Ngần (Cao Bằng)",
+      "Giải phóng thị xã Thái Nguyên"
+    ]
+  },
+  {
+    "question": "Những câu thơ sau nói về người nữ anh hùng liệt sĩ nào?\n“Em là bông mùa xuân\nVạt trắng áo dài cài tên thành phố\nMáu đỏ ngực em dù hơn mươi năm\nNhưng anh vẫn thấy\nGương mặt em\nVẫn cười hiên ngang phố chợ”",
+    "answers": [
+      "Nhất Chi Mai",
+      "Trần Bội Cơ",
+      "Quách Thị Trang",
+      "Nguyễn Thị Minh Khai"
+    ]
+  },
+  {
+    "question": "Đại hội đại biểu Đảng bộ thành phố Hồ Chí Minh lần thứ X thông qua bao nhiêu chương trình đột phá liên quan đến các lĩnh vực cơ bản và trọng yếu của sự nghiệp xây dựng, bảo vệ, phát triển thành phố?",
+    "answers": [
+      "5 chương trình",
+      "6 chương trình",
+      "7 chương trình",
+      "8 chương trình"
+    ]
+  },
+  {
+    "question": "“Gia Định tam gia” là danh hiệu của 3 nhân vật lỗi lạc trên lĩnh vực văn hóa ở Gia Định thế kỉ XVIII – Đầu thế kỉ XIX. Đó là ai?",
+    "answers": [
+      "Phan Văn Trị – Bùi Hữu Nghĩa – Huỳnh Mẫn Đạt",
+      "Võ Trường Toản – Lê Quang Định – Trịnh Hoài Đức",
+      "Trịnh Hoài Đức – Lê Quang Định – Ngô Nhân Tĩnh",
+      "Phan Thanh Giản – Nguyễn Đình Chiểu -  Nguyễn Hữu Huân"
+    ]
+  },
+  {
+    "question": "Trong kháng chiến chống Mỹ ở Miền Bắc có phong trào “Ba sẵn sàng” thì ở Miền Nam có phong trào gì?",
+    "answers": [
+      "Năm tích cực",
+      "Năm xung phong",
+      "Ba tích cực",
+      "Ba xung phong"
+    ]
+  },
+  {
+    "question": "Năm 1054, nhà Lý đổi tên nước ta thành gì?",
+    "answers": [
+      "Đại Nam",
+      "Việt Nam",
+      "Đại Việt",
+      "Nam Việt"
+    ]
+  },
+  {
+    "question": "Cuộc khởi nghĩa Hương Khê được xem là cuộc khởi nghĩa có quy mô lớn và thời gian kéo dài nhất của phong trào khởi nghĩa Cần Vương. Cuộc khởi nghĩa diễn ra từ năm nào đến năm nào?",
+    "answers": [
+      "1885 - 1896",
+      "1885 – 1887",
+      "1887 - 1892",
+      "1883 - 1892"
+    ]
+  },
+  {
+    "question": "Mâu thuẫn cơ bản của sản xuất hàng hóa là:",
+    "answers": [
+      "Mâu thuẫn giữa lao động trừu tượng với lao động xã hội",
+      "Mâu thuẫn giữa lao động tư nhân với lao động xã hội",
+      "Mâu thuẫn giữa lao động cụ thể với lao động phức tạp",
+      "Mâu thuẫn giữa lao động tư nhân với lao động phức tạp"
+    ]
+  }
+]

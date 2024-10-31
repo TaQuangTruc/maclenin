@@ -1,0 +1,452 @@
+[
+  {
+    "question": "Sự kiện được xem là bước ngoặt trong hoạt động cách mạng của Nguyễn Ái Quốc, đưa người từ chủ nghĩa yêu nước đến với chủ nghĩa Mác – Lênin và đi theo con đường cách mạng vô sản là gì?",
+    "answers": [
+      "Lập Hội liên hiệp thuộc địa.",
+      "Đọc Luận cương của Lênin.",
+      "Tham dự Đại hội Đảng xã hội Pháp (12/1920), bỏ phiếu tán thành việc gia nhập Quốc tế III và tham gia sáng lập Đảng cộng sản Pháp.",
+      "Gửi yêu sách đến Hội nghị Véc – xai."
+    ]
+  },
+  {
+    "question": "Điểm nào sau đây chỉ rõ điểm khác nhau giữa Cương lĩnh chính trị đầu tiên của Đảng và Luận cương chính trị tháng 10/1930 do đồng chí Trần Phú soạn thảo?",
+    "answers": [
+      "Vai trò lãnh đạo cách mạng",
+      "Phương pháp cách mạng",
+      "Chủ trương tập hợp lực lượng cách mạng",
+      "Phương hướng chiến lược của cách mạng"
+    ]
+  },
+  {
+    "question": "Chọn đáp án đúng ở các chỗ trống của nhiệm vụ đầu tiên trong sáu nhiệm vụ trọng tâm mà Đại hội XII của Đảng ta đã xác định : “tăng cường xây dựng, chỉnh đốn Đảng; ngăn chặn, đẩy lùi sự suy thoái về tư tưởng chính trị, đạo đức, lối sống, biểu hiện “.....”, “.....” trong nội bộ. Tập trung xây dựng đội ngũ cán bộ, nhất là đội ngũ cán bộ cấp chiến lược, đủ năng lực, phẩm chất và uy tín, ngang tầm nhiệm vụ.”",
+    "answers": [
+      "“lợi ích nhóm”, “nhũng nhiễu”",
+      "“lãng phí”, “quan liêu”",
+      "“tự diễn biến”, “tự chuyển hóa”",
+      "“tham ô”, “nhũng nhiễu”"
+    ]
+  },
+  {
+    "question": "Tháng 1/1961, tổ chức Đảng trực tiếp lãnh đạo cách mạng miền Nam đã được thành lập với tên gọi là gì?",
+    "answers": [
+      "Trung ương Cục miền Nam",
+      "Xứ ủy Nam bộ",
+      "Xứ ủy Nam kỳ",
+      "Đảng nhân dân cách mạng miền Nam"
+    ]
+  },
+  {
+    "question": "Không gian và thời gian là gì?",
+    "answers": [
+      "Không gian và thời gian là những phương thức cơ bản của tồn tại vật chất",
+      "Không gian là phương thức tồn tại của vật chất, còn thời gian là hình thức tồn tại của vật chất",
+      "Không gian là hình thức tồn tại của vật chất, còn thời gian là phương thức tồn tại của vật chất",
+      "Không gian và thời gian là những hình thức cơ bản của tồn tại vật chất"
+    ]
+  },
+  {
+    "question": "Tập trung tư bản là quá trình liên kết, hợp nhất các tư bản:",
+    "answers": [
+      "Cá biệt trong xã hội thành một tư bản lớn hơn",
+      "Thương nghiệp trong xã hội thành một tư bản lớn hơn",
+      "Tiền tệ trong xã hội thành một tư bản lớn hơn",
+      "Xã hội thành một tư bản lớn hơn"
+    ]
+  },
+  {
+    "question": "Nhận định “Nhân tố kinh tế là nhân tố quyết định duy nhất trong lịch sử” thuộc lập trường triết học nào?",
+    "answers": [
+      "Chủ nghĩa duy vật tầm thường",
+      "Chủ nghĩa duy tâm chủ quan",
+      "Chủ nghĩa duy tâm khách quan",
+      "Chủ nghĩa duy vật biện chứng"
+    ]
+  },
+  {
+    "question": "Ông cho rằng sự giàu nghèo, sống chết, hoạ phúc, thành bại không phải do số mệnh quy định mà là do hành vi con người gây nên. Ông là ai?",
+    "answers": [
+      "Khổng Tử",
+      "Mặc Tử",
+      "Khổng Tử",
+      "Hàn Phi Tử"
+    ]
+  },
+  {
+    "question": "Cơ cấu xã hội nào có vai trò quan trọng nhất",
+    "answers": [
+      "Cơ cấu dân tộc",
+      "Cơ cấu giai cấp",
+      "Cơ cấu nghề nghiệp",
+      "Cơ cấu dân cư"
+    ]
+  },
+  {
+    "question": "Điều kiện cơ bản nhất đưa con người sang “Vương quốc chân chính của tự do”, theo phân tích của C. Mác là:",
+    "answers": [
+      "Đấu tranh giai cấp",
+      "Xoá bỏ chế độ tư hữu tư bản.",
+      "Sự phát triển tự do củ",
+      "Rút ngắn thời gian lao động."
+    ]
+  },
+  {
+    "question": "Người đầu tiên đưa ra quan niệm: Muốn xóa bỏ áp bức, bóc lột, bất công – cần xóa bỏ chế độ tư hữu là :",
+    "answers": [
+      "Sác-lơ Phu-ri-ê.",
+      "Tô-ma-đô Cam-pa-nen-la.",
+      "Giăng Mê-li-ê.",
+      "Tô-mát Mo-rơ."
+    ]
+  },
+  {
+    "question": "Thuyết “Chính danh” là thuyết của triết học nào?",
+    "answers": [
+      "Nho gia",
+      "Danh gia",
+      "Đạo gia",
+      "Pháp gia"
+    ]
+  },
+  {
+    "question": "Cho các phát biểu sau:\n1. Đỉnh cao của quan niệm duy vật cổ đại về phạm trù vật chất là nguyên tử của Đề-mô-crít.\n2. Quan điểm \"Hết thảy mọi sự vật đều chuyển hóa thành lửa, lửa cũng chuyển hóa thành hết thảy sự vật\" của Hê-ra-clít.\n3. A-na-xi-men là một nhà triết học Hy Lạp cổ đại thời kỳ Tiền Socrates, ông nghiên cứu Nhất nguyên luận vật chất.\n4. Hê - ghen được coi là người sáng lập ra chủ nghĩa duy tâm Đức.\n5. Kant là tác giả của học thuyết \"Triết học siêu nghiệm\".",
+    "answers": [
+      "4",
+      "3",
+      "5",
+      "2"
+    ]
+  },
+  {
+    "question": "Thời gian bị giam giữ trong các nhà tù ở Quảng Tây (Trung Quốc), Hồ Chí Minh đã viết tập thơ “Nhật ký trong tù”. Tập thơ đó có bao nhiêu bài?",
+    "answers": [
+      "334 bài",
+      "34 bài",
+      "133 bài",
+      "234 bài"
+    ]
+  },
+  {
+    "question": "Sáng ngày 3-9-1945, tại Bắc Bộ phủ, chủ toạ phiên họp đầu tiên của Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hoà, Chủ tịch Hồ Chí Minh đã nêu ra bao nhiêu vấn đề cấp bách để cứu nguy dân tộc trước tình hình mới?",
+    "answers": [
+      "5 vấn đề cấp bách",
+      "8 vấn đề cấp bách",
+      "7 vấn đề cấp bách",
+      "6 vấn đề cấp bách"
+    ]
+  },
+  {
+    "question": "Chủ tịch Hồ Chí Minh bắt đầu soạn thảo bản Tuyên ngôn độc lập vào thời gian nào?",
+    "answers": [
+      "Ngày 26/8/1945",
+      "Ngày 27/8/1945",
+      "Ngày 25/8/1945",
+      "Ngày 28/8/1945"
+    ]
+  },
+  {
+    "question": "Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam được bầu ra tại đại hội/hội nghị nào?",
+    "answers": [
+      "Hội nghị Bộ Chính trị (4/1969)",
+      "Đại hội Đại biểu quốc dân miền Nam (6-8/6/1969)",
+      "Hội nghị Trung ương cục lần thứ VII (6/1969)",
+      "Đại hội Đại biểu quốc dân miền Nam (6/1970)"
+    ]
+  },
+  {
+    "question": "Mục tiêu trước mắt của cao trào cách mạng giai đoạn 1936 – 1939 là gì?",
+    "answers": [
+      "Độc lập dân tộc",
+      "Các quyền dân chủ cơ bản",
+      "Tất cả các mục tiêu trên",
+      "Ruộng đất cho dân cày"
+    ]
+  },
+  {
+    "question": "“Nước Việt Nam có quyền được hưởng tự do độc lập và thật sự trở thành một nước tự do độc lập. Toàn thể dân tộc Việt Nam quyết đem tất cả tinh thần và lực lượng, tính mạng và của cải để giữ vững quyền tự do độc lập ấy”. Câu nói này được Bác nêu trong tác phẩm nào?",
+    "answers": [
+      "Chính cương vắn tắt -  Sách lược vắn tắt của Đảng Cộng sản Việt Nam",
+      "Hiến pháp nước Việt Nam",
+      "Lời kêu gọi toàn quốc kháng chiến",
+      "Tuyên ngôn độc lập"
+    ]
+  },
+  {
+    "question": "Đại hội Đoàn Thanh niên Nhân dân Cách mạng Việt Nam lần thứ I (tháng 3/1965) đã phát động phong trào mang tính hiệu triệu thanh niên miền Nam vượt qua những khó khăn, gian khổ để quyết tâm cùng Nhân dân giành thắng lợi của cuộc cách mạng. Đó là phong trào gì?",
+    "answers": [
+      "Ba đảm đang",
+      "Năm xung kích",
+      "Năm xung phong",
+      "Ba sẵn sàng"
+    ]
+  },
+  {
+    "question": "Được xem như đô thị đầu tiên của nước ta, thành Cổ Loa hình thành vào khoảng thời gian nào?",
+    "answers": [
+      "Thế kỷ I TCN",
+      "Thế kỷ I sau CN",
+      "Thế kỷ II TCN",
+      "Thế kỷ III TCN"
+    ]
+  },
+  {
+    "question": "Năm 1882, giặc Pháp tấn công Thành Hà Nội. Ông đã lãnh đạo nhân dân và binh sĩ chiến đấu quyết liệt bảo vệ Thành. Khi không thể duy trì cuộc chiến đấu được nữa, ông đã tự vẫn để không rơi vào tay giặc. Ông là ai?",
+    "answers": [
+      "Tôn Thất Thuyết",
+      "Hoàng Diệu",
+      "Tô Hiến Thành",
+      "Nguyễn Tri Phương"
+    ]
+  },
+  {
+    "question": "Hãy xếp theo thứ tự thời gian (từ trước đến sau) tên những anh hùng dân tộc đã lãnh đạo quân ta làm nên chiến thắng oanh liệt trên sông Bạch Đằng từ thế kỷ X đến thế kỷ XIII.",
+    "answers": [
+      "Ngô Quyền - Trần Hưng Đạo - Lê Hoàn",
+      "Lê Hoàn - Ngô Quyền - Trần Hưng Đạo",
+      "Trần Hưng Đạo - Ngô Quyền - Lê Hoàn.",
+      "Ngô Quyền - Lê Hoàn - Trần Hưng Đạo"
+    ]
+  },
+  {
+    "question": "Địa bàn Thành phố Hồ Chí Minh ngày nay thuộc địa phận tỉnh nào trong “Lục tỉnh Nam kỳ” thời triều Nguyễn?",
+    "answers": [
+      "Gia Định và Định Tường",
+      "Gia Định và Biên Hòa",
+      "Gia Định và Phiên An",
+      "Gia Định, Biên Hòa và Phiên An"
+    ]
+  },
+  {
+    "question": "Tên gọi Thành Đoàn có từ lúc nào?",
+    "answers": [
+      "Cuối năm 1967, tại lớp học Nghị Quyết Quang Trung",
+      "Đầu năm 1968, trước chiến dịch Mậu Thân",
+      "Sau giải phóng đất nước 1975",
+      "Tháng 5/1975 sau khi ta tiếp quản số 4 Duy Tân"
+    ]
+  },
+  {
+    "question": "Cuối thế kỉ XVIII, ở Sài Gòn – Gia Định có ngôi trường tư thục nổi tiếng được đặt tên theo một vị danh sư có nhiều môn sinh nổi tiếng ở đất Nam kỳ theo học như: Lê Quang Định, Ngô Nhơn Tịnh. Vị danh sư này là ai?",
+    "answers": [
+      "Võ Trường Toản.",
+      "Nguyễn Đình Chiểu.",
+      "Trịnh Hoài Đức.",
+      "Phan Văn Trị."
+    ]
+  },
+  {
+    "question": "Trong khoa thi năm 1247, vua Trần Thái Tông đã cho lập ra Tam khôi (Trạng nguyên, Bảng nhãn, Thám hoa) dành cho ba bậc đỗ cao nhất. Trạng nguyên chính thức đầu tiên của nước Việt là ai?",
+    "answers": [
+      "Nguyễn Hiền",
+      "Lương Thế Vinh",
+      "Mạc Đĩnh Chi",
+      "Lê Văn Thịnh"
+    ]
+  },
+  {
+    "question": "HDI là tên viết tắt của chỉ số nào sau đây?",
+    "answers": [
+      "Chỉ số hài lòng với Chính phủ",
+      "Chỉ số Hạnh phúc công dân",
+      "Chỉ số Phát triển con người",
+      "Chỉ số độ nét"
+    ]
+  },
+  {
+    "question": "“Hỡi anh chị em thanh niên Nam Bộ!\nTôi thề cùng các bạn giữ vững nền độc lập tự do của nước Việt Nam. Dẫu có phải hy sinh đến nửa số dân tộc, ta cũng quyết hy sinh. Cuộc kháng chiến __________ của dân tộc Việt Nam phải toàn thắng”.",
+    "answers": [
+      "thống nhất hai miền",
+      "cứu quốc",
+      "vì độc lập, thống nhất",
+      "tự vệ chính nghĩa"
+    ]
+  },
+  {
+    "question": "Câu nói: “Miền Nam là máu của máu Việt Nam, là thịt của thịt Việt Nam. Sông có thể cạn, núi có thể mòn song chân lý đó không bao giờ thay đổi” là của ai?",
+    "answers": [
+      "Lê Duẩn",
+      "Hồ Chí Minh",
+      "Nguyễn Đức Thọ",
+      "Trường Chinh"
+    ]
+  },
+  {
+    "question": "Theo “Chiến lược phát triển Đại học Quốc gia Thành phố Hồ Chí Minh giai đoạn 2021-2030, tầm nhìn 2045”, nội dung nào dưới đây KHÔNG PHẢI là một trong các nhiệm vụ trọng tâm đã được xác lập?",
+    "answers": [
+      "Phát triển nguồn lực tài chính bền vững",
+      "Tập trung xây dựng không gian đô thị đại học xanh, thông minh, bền vững",
+      "Thu hút, đào tạo, bồi dưỡng nhân tài",
+      "Mở rộng đào tạo, nghiên cứu liên ngành"
+    ]
+  },
+  {
+    "question": "Ngày 03/6/2024, Phó Thủ tướng Chính phủ Trần Hồng Hà ký quyết định số 472/QĐ-TTg thành lập một đơn vị thành viên của Đại học Quốc gia Thành phố Hồ Chí Minh. Hãy cho biết tên của đơn vị thành viên này?",
+    "answers": [
+      "Trường Đại học Khoa học Sức khoẻ",
+      "Trường Đại học An Giang",
+      "Viện Môi trường và Tài nguyên",
+      "Viện Phát triển Năng lực lãnh đạo"
+    ]
+  },
+  {
+    "question": "Theo “Chiến lược phát triển Đại học Quốc gia Thành phố Hồ Chí Minh giai đoạn 2021-2030, tầm nhìn 2045”, nội dung nào dưới đây là một trong các nhiệm vụ trọng tâm đã được xác lập?",
+    "answers": [
+      "Phát triển Trung tâm Đổi mới sáng tạo và khởi nghiệp quốc gia",
+      "Phát triển Trung tâm Đổi mới sáng tạo quốc gia",
+      "Phát triển Trung tâm Ứng dụng tiến bộ khoa học - kỹ thuật quốc gia",
+      "Phát triển Trung tâm Trí tuệ nhân tạo quốc gia"
+    ]
+  },
+  {
+    "question": "Hình thức xuất khẩu chủ yếu của chủ nghĩa tư bản ngày nay là:",
+    "answers": [
+      "Đầu tư trực tiếp kết hợp đầu tư gián tiếp.",
+      "Đầu tư trực tiếp",
+      "Xuất khẩu tư bản kết hợp xuất khẩu hàng hoá",
+      "Đầu tư gián tiếp"
+    ]
+  },
+  {
+    "question": "Tỷ suất giá trị thặng dư (m’) là:",
+    "answers": [
+      "Tỷ lệ phần trăm giữa lượng giá trị thặng dư và tư bản bất biến.",
+      "Tỷ lệ phần trăm giữa lượng tư bản bất biến và tư bản khả biến.",
+      "Tỷ lệ phần trăm giữa lượng sản phẩm thặng dư và tư bản khả biến",
+      "Tỷ lệ phần trăm giữa lượng giá trị thặng dư và tư bản khả biến."
+    ]
+  },
+  {
+    "question": "Mô hình kinh tế khái quát trong thời kỳ quá độ ở nước ta là:",
+    "answers": [
+      "Kinh tế thị trường định hướng Xã hội Chủ nghĩa",
+      "Kinh tế nhiều thành phần theo định hướng Xã hội chủ nghĩa",
+      "Kinh tế thị trường có sự quản lý của nhà nước",
+      "Kinh tế nhiều thành phần có sự quản lý của nhà nước"
+    ]
+  },
+  {
+    "question": "Tác phẩm nào của Chủ nghĩa Mác bước đầu thể hiện tư tưởng về giá trị thặng dư?",
+    "answers": [
+      "Hệ tư tưởng Đức",
+      "Sự khốn cùng của Triết học",
+      "Chống Đuy-rinh",
+      "Tư bản"
+    ]
+  },
+  {
+    "question": "Trong Chỉ thị về kháng chiến kiến quốc của Trung ương Đảng tháng 11/1945, Đảng ta đã xác định bốn nhiệm vụ chủ yếu và cấp bách cần khẩn trương thực hiện. Đó là?",
+    "answers": [
+      "Củng cố chính quyền, chống thực dân Pháp xâm lược, bài trừ nội phản, cải thiện đời sống cho nhân dân.",
+      "Bài trừ nội phản, chống đói, củng cố chính quyền, chống thực dân Pháp xâm lược.",
+      "Cải thiện đời sống nhân dân, chống nạn mù chữ, thêm bạn bớt thù, bầu cử Quốc hội.",
+      "Chống thực dân Pháp xâm lược, củng cố chính quyền, bầu cử Quốc hội, xóa nạn mù chữ."
+    ]
+  },
+  {
+    "question": "Tháng 01/1961, tổ chức Đảng trực tiếp lãnh đạo cách mạng miền Nam được thành lập với tên gọi gì?",
+    "answers": [
+      "Trung ương Cục miền Nam",
+      "Đảng Nhân dân Cách mạng miền Nam Việt Nam",
+      "Xứ ủy Nam Kỳ",
+      "Xứ ủy Nam Bộ"
+    ]
+  },
+  {
+    "question": "Di chúc của Chủ tịch Hồ Chí Minh được Chính phủ nước Việt Nam Dân chủ Cộng hòa công bố lần đầu trên tờ báo nào?",
+    "answers": [
+      "Báo Đỏ",
+      "Công báo",
+      "Báo Lao động",
+      "Báo Nhân dân"
+    ]
+  },
+  {
+    "question": "Tác phẩm Đường Kách mệnh xuất bản năm 1927, được bí mật gửi về nước là:",
+    "answers": [
+      "Tác phẩm tuyên truyền chủ nghĩa Mác - Lênin của Nguyễn Ái Quốc",
+      "Tác phẩm về chủ nghĩa Mác - Lê nin để chuẩn bị mạng về nước",
+      "Tập hợp bài giảng của Nguyễn Ái Quốc ở các lớp huấn luyện chính trị tại Quảng Châu",
+      "Tập hợp những bài giảng của Nguyễn Ái Quốc về lí luận cách mạng giải phóng dân tộc"
+    ]
+  },
+  {
+    "question": "Chỉ thị \"Nhật - Pháp bắn nhau và hành động của chúng ta\" ra đời khi nào?",
+    "answers": [
+      "Ngày 12/3/1945",
+      "Ngày 9/3/1945",
+      "Ngày 12/3/1946",
+      "Ngày 10/3/1946"
+    ]
+  },
+  {
+    "question": "Yêu cầu của quan điểm toàn diện phải xem xét tất cả các mối liên hệ của sự vật, yêu cầu này không thực hiện được, nhưng vẫn phải đề ra để làm gì?",
+    "answers": [
+      "Chống chủ nghĩa chiết trung, và thuyết ngụy biện",
+      "Chống quan điểm duy tâm",
+      "Chống quan điểm siêu hình",
+      "Đề phòng cho chúng ta khỏi phạm sai lầm và sự cứng nhắc"
+    ]
+  },
+  {
+    "question": "Thêm cụm từ thích hợp vào chỗ trống của câu sau để được định nghĩa phạm trù thực tiễn: “Thực tiễn là toàn bộ những………. có mục đích mang tính lịch sử - xã hội của con người nhằm cải tạo tự nhiên và xã hội”.",
+    "answers": [
+      "Hoạt động có mục đích",
+      "Hoạt động",
+      "Hoạt động vật chất",
+      "Hoạt động vật chất có mục đích, mang tính lịch sử - xã hội"
+    ]
+  },
+  {
+    "question": "Ông là tác giả của thuyết “Gió xoáy” một trong những thuyết đầu tiên giải thích sự hình thành vũ trụ và các hành tinh trong thế giới. Ông là ai?",
+    "answers": [
+      "I-ma-nu-en Can-tơ",
+      "Rơ-nê Đê-các-tơ",
+      "Tô-mát Hốp-xơ",
+      "Phran-xi Bê-con"
+    ]
+  },
+  {
+    "question": "Mối quan hệ giữa ý thức cá nhân và ý thức xã hội là mối quan hệ của:",
+    "answers": [
+      "Bản chất và hiện tượng",
+      "Cái riêng và cái chung",
+      "Nội dung và hình thức",
+      "Tất nhiên và ngẫu nhiên"
+    ]
+  },
+  {
+    "question": "Điền từ còn thiếu vào chỗ trống trong câu sau: “Vận động, hiểu theo nghĩa chung nhất, - tức được hiểu là một …, là một thuộc tính cố hữu của vật chất, - thì bao gồm tất cả mọi sự thay đổi và quá trình diễn ra trong vũ trụ, kể từ sự thay đổi vị trí đơn giản cho đến tư duy”.  (Ph. Ăngghen)",
+    "answers": [
+      "Phương thức tồn tại của vật chất",
+      "Sự tồn tại khách quan",
+      "Hình thái ý thức xã hội",
+      "Phạm trù triết học"
+    ]
+  },
+  {
+    "question": "Đâu là nội dung nguyên lý của phép biện chứng duy vật về mối liên hệ phổ biến của các sự vật và hiện tượng?",
+    "answers": [
+      "Thế giới là một chỉnh thể bao gồm các sự vật, các quá trình tách biệt nhau, vừa có liên hệ qua lại, vừa thâm nhập và chuyển hóa lẫn nhau",
+      "Sự vật khác nhau ở vẻ bề ngoài, do chủ quan con người quy định, bản chất sự vật không có gì khác nhau",
+      "Các sự vật có sự liên hệ tác động nhau nhưng không có sự chuyển hóa lẫn nhau",
+      "Các sự vật và hiện tượng trong thế giới tồn tại tách rời nhau, giữa chúng không có sự phụ thuộc, ràng buộc lẫn nhau"
+    ]
+  },
+  {
+    "question": "Điền cụm từ còn thiếu để hoàn chỉnh luận điểm sau của chủ tịch Hồ Chí Minh\n“Trong công cuộc kiến thiết nước nhà có 4 vấn đề cùng phải chú ý đến, cùng phải coi trọng ngang nhau: chính trị, kinh tế, xã hội, văn hóa. Nhưng văn hóa là …………; những cơ sở hạ tầng của xã hội có được kiến thiết rồi, văn hóa mới kiến thiết được và đủ điều kiện phát triển được”?",
+    "answers": [
+      "một lĩnh vực quan trọng",
+      "một vấn đề đặc biệt",
+      "một cơ sở hạ tầng",
+      "một kiến trúc thượng tầng"
+    ]
+  },
+  {
+    "question": "Bản Di chúc sau khi hoàn thành phần đầu tiên được Chủ tịch Hồ Chí Minh xem là loại tài liệu gì?",
+    "answers": [
+      "Bí mật",
+      "Tuyệt đối bí mật",
+      "Công khai",
+      "Nội bộ"
+    ]
+  }
+]

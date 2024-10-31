@@ -1,0 +1,20 @@
+[
+  {
+    "question": "Ngày 26/3 được quyết định chọn làm ngày kỷ niệm thành lập Đoàn trong sự kiện nào?",
+    "answers": [
+      "Đại hội Đoàn toàn quốc lần thứ III, năm 1961",
+      "Đại hội Đoàn toàn quốc lần thứ III, năm 1960",
+      "Hội nghị Ban chấp hành Trung ương Đoàn toàn quốc lần thứ 11 khóa III năm 1975",
+      "Đại hội Đoàn toàn quốc lần thứ II, năm 1956"
+    ]
+  },
+  {
+    "question": "Cuộc thi Tìm hiểu các môn khoa học Mác – Lênin, tư tưởng Hồ Chí Minh “Tầm nhìn xuyên thế kỷ” do đơn vị nào đăng cai tổ chức?",
+    "answers": [
+      "Ban Cán sự Đoàn ĐHQG HCM",
+      "Đoàn Thanh niên Trường ĐH KHXH&NV ĐHQG HCM",
+      "Thành Đoàn TP. Hồ Chí Minh",
+      "Trung ương Đoàn TNCS Việt Nam"
+    ]
+  }
+]

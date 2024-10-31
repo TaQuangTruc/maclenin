@@ -1,0 +1,452 @@
+[
+  {
+    "question": "Tác giả của tác phẩm “Chống Dühring” (Chống Đuy – rinh) là ai?",
+    "answers": [
+      "Hê – ghen",
+      "Ph. Ăng – ghen",
+      "Các  Mác",
+      "V.I Lê – nin"
+    ]
+  },
+  {
+    "question": "Không gian và thời gian:",
+    "answers": [
+      "Không gian và thời gian đều là những hình thức cơ bản của tồn tại vật chất",
+      "Không gian và thời gian đều là những phương thức cơ bản của tồn tại vật chất",
+      "Không gian là phương thức tồn tại của vật chất, còn thời gian là hình thức tồn tại của vật chất",
+      "Không gian là hình thức tồn tại của vật chất, còn thời gian là phương thức tồn tại của vật chất"
+    ]
+  },
+  {
+    "question": "Theo quan điểm của triết học Mác – Lênin, thuộc tính phản ánh là thuộc tính:",
+    "answers": [
+      "Riêng có ở con người",
+      "Chỉ có ở các cơ thể sống",
+      "Chỉ có ở vật chất vô cơ",
+      "Phổ biến ở mọi tổ chức vật chất"
+    ]
+  },
+  {
+    "question": "Trong lịch sử, chủ nghĩa duy vật đã lần lượt trải qua những hình thức nào?",
+    "answers": [
+      "Chủ nghĩa duy vật chất phác, chủ nghĩa duy vật duy tâm, chủ nghĩa duy vật biện chứng",
+      "Chủ nghĩa duy vật duy tâm, chủ nghĩa duy vật chất phác, chủ nghĩa duy vật biện chứng",
+      "Chủ nghĩa duy vật chất phác, chủ nghĩa duy vật siêu hình, chủ nghĩa duy vật biện chứng",
+      "Chủ nghĩa duy vật siêu hình, chủ nghĩa duy vật duy tâm, chủ nghĩa duy vật biện chứng"
+    ]
+  },
+  {
+    "question": "Theo quan điểm của triết học Mác – Lênin, sự dịch chuyển của vật thể trong không gian là vận động gì?",
+    "answers": [
+      "Vận động xã hội",
+      "Vận động vật lý",
+      "Vận động cơ học",
+      "Vận động sinh học"
+    ]
+  },
+  {
+    "question": "Ai là tác giả câu nói: “Tôi biết nhiều khoa học tuyệt vời, nhưng tôi không biết khoa học nào tuyệt vời hơn triết học; dù có cố gắng suy luận mà không quan tâm đến triết học, các khoa học khác thiếu nó thì vẫn không thể có sự sống, tinh thần, chân lý”?",
+    "answers": [
+      "Ph.Hêghen",
+      "C. Mác",
+      "Ph. Ăngghen",
+      "L.Phơbách"
+    ]
+  },
+  {
+    "question": "Theo chủ nghĩa Mác – Lênin, đâu là nguồn gốc, động lực cơ bản và phổ biến của mọi quá trình vận động và phát triển?",
+    "answers": [
+      "Các mặt đối lập",
+      "Mâu thuẫn khách quan, vốn có của sự vật, hiện tượng",
+      "Quy luật về sự thống nhất giữa các mặt đối lập",
+      "Quy luật mâu thuẫn"
+    ]
+  },
+  {
+    "question": "Hồ Chí Minh căn dặn: “Làm việc phải có công tâm, công đức. Mình có quyền dùng người thì phải dùng những người có tài năng, làm được việc. Chớ vì bà con bầu bạn, mà kéo vào chức nọ, chức kia. Chớ vì sợ mất địa vị mà dìm những kẻ có tài hơn mình. Phải trung thành với Chính phủ, với đồng bào. Chớ lên mặt quan cách”. Đoạn văn trên trích trong tác phẩm nào của Hồ Chí Minh.",
+    "answers": [
+      "Tác phẩm “Đời sống mới”",
+      "Bài nói chuyện với cán bộ tỉnh Thanh Hoá",
+      "Sửa đổi lối làm việc",
+      "Thư gửi các đồng chí Bắc Bộ"
+    ]
+  },
+  {
+    "question": "Chủ tịch Hồ Chí Minh đã chỉnh sửa và viết lại hoàn chỉnh Di chúc vào thời gian nào?",
+    "answers": [
+      "Ngày 10/10/1969",
+      "Ngày 10/5/1968",
+      "Ngày 10/5/1969",
+      "Ngày 10/10/1968"
+    ]
+  },
+  {
+    "question": "Theo Hồ Chí Minh, lực lượng giải phóng dân tộc bao gồm:",
+    "answers": [
+      "Công nhân, nông dân, trí thức",
+      "Công nhân",
+      "Toàn dân tộc",
+      "Nông dân"
+    ]
+  },
+  {
+    "question": "“Tam giác sắt” của phong trào học sinh sinh viên Thành phố Hồ Chí Minh trong thời kì đấu tranh chống Mỹ là ba trường nào?",
+    "answers": [
+      "Cao đẳng Nông Lâm Súc, Đại học Khoa học, Đại học Vạn Hạnh",
+      "Đại học Vạn hạnh, Cao đẳng Nông Lâm Súc, Đại học Văn khoa.",
+      "Đại học Dược khoa, Đại học Nông Lâm Súc, Đại học Văn khoa.",
+      "Đại học Minh Đức, Đại học Sư phạm, Đại học Văn khoa."
+    ]
+  },
+  {
+    "question": "Câu nói “Đời phải trải qua giông tố nhưng không được cúi đầu trước giông tố” được trích từ tác phẩm nào?",
+    "answers": [
+      "Người đàn bà đi nhặt mặt trời",
+      "Thép đã tôi thế đấy",
+      "Đất phương Nam",
+      "Nhật ký Đặng Thùy Trâm"
+    ]
+  },
+  {
+    "question": "Hệ thống cấp, hàm ngoại giao Việt Nam được sắp xếp như thế nào?",
+    "answers": [
+      "Đại sứ, Công sứ, Tham tán, Bí thư thứ nhất",
+      "Đại sứ, Công sứ, Bí thư thứ nhất, Tham tán",
+      "Công sứ, Đại sứ, Tham tán, Bí thư thứ nhất",
+      "Công sứ, Đại sứ, Bí thư thứ nhất, Tham tán"
+    ]
+  },
+  {
+    "question": "Việt Nam có Biển Đông tiếp giáp với bao nhiêu nước?",
+    "answers": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ]
+  },
+  {
+    "question": "Đại hội Đoàn TP. Hồ Chí Minh lần thứ X, nhiệm kỳ 2017 – 2022 đã xác định các bài học kinh nghiệm đúc kết từ thực tiễn công tác Đoàn và phong trào thanh thiếu nhi nhiệm kỳ IX; từ đó nhận định với yêu cầu nhiệm vụ chính trị mới của tổ chức Đoàn Thanh niên thành phố, cần quyết liệt với các giải pháp trong lĩnh vực nào?",
+    "answers": [
+      "Phát triển đoàn viên mới",
+      "Xây dựng Đoàn ở các doanh nghiệp ngoài nhà nước và đơn vị sự nghiệp ngoài công lập",
+      "Giáo dục lý tưởng cách mạng, đạo đức lối sống cho thế hệ trẻ",
+      "Nâng cao chất lượng cán bộ Đoàn"
+    ]
+  },
+  {
+    "question": "Ban vận động học sinh – sinh viên khu Sài Gòn – Gia Định được thành lập vào năm nào?",
+    "answers": [
+      "1961",
+      "1962",
+      "1960",
+      "1959"
+    ]
+  },
+  {
+    "question": "“Con đường của thanh niên chỉ là con đường cách mạng, không thể có con đường nào khác”. Đây là câu nói của ai?",
+    "answers": [
+      "Lý Tự Trọng",
+      "Nguyễn Văn Trỗi",
+      "Võ Thị Sáu",
+      "Nguyễn Viết Xuân"
+    ]
+  },
+  {
+    "question": "Nước ta là nước dân chủ, nghĩa là nhà nước do nhân dân làm chủ, nhân dân có quyền lợi làm chủ, thì phải có nghĩa vụ làm tròn bổn phận công dân, _____________.",
+    "answers": [
+      "Chấp hành chủ trương của Đảng",
+      "Tuân theo Hiến pháp và pháp luật",
+      "Bổn phận gia đình và xã hội",
+      "Giữ đúng đạo đức công dân"
+    ]
+  },
+  {
+    "question": "Năm 2025 là năm kỷ niệm bao nhiêu năm thành lập Đại học Quốc gia Thành phố Hồ Chí Minh?",
+    "answers": [
+      "25",
+      "50",
+      "30",
+      "40"
+    ]
+  },
+  {
+    "question": "Có bao nhiêu nhiệm vụ trọng tâm đã được xác lập trong “Chiến lược phát triển Đại học Quốc gia Thành phố Hồ Chí Minh giai đoạn 2021-2030, tầm nhìn 2045”?",
+    "answers": [
+      "3",
+      "11",
+      "7",
+      "4"
+    ]
+  },
+  {
+    "question": "Lao động cụ thể là:",
+    "answers": [
+      "Lao động tạo ra giá trị sử dụng của hàng hoá",
+      "Biểu hiện tính chất xã hội của người sản xuất hàng hoá",
+      "Lao động tạo ra giá trị của hàng hoá",
+      "Phạm trù lịch sử"
+    ]
+  },
+  {
+    "question": "Theo C. Mác giá trị thặng dư siêu ngạch là giá trị thặng dư có được do:",
+    "answers": [
+      "Giá trị xã hội của hàng hóa thấp hơn giá trị cá biệt.",
+      "Giá trị cá biệt của hàng hóa bằng giá trị xã hội.",
+      "Giá trị cá biệt của hàng hóa thấp hơn giá trị xã hội.",
+      "Giá cả cá biệt của hàng hóa thấp hơn giá trị xã hội."
+    ]
+  },
+  {
+    "question": "Ở Việt Nam, sự nghiệp công nghiệp hoá là cuộc cách mạng thuộc lĩnh nào của sống xã hội?",
+    "answers": [
+      "Quan hệ sản xuất",
+      "Kiến trúc thượng tầng",
+      "Lực lượng sản xuất",
+      "Cơ sở hạ tầng"
+    ]
+  },
+  {
+    "question": "Đ/c Trần Phú – Tổng Bí thư đầu tiên của Đảng hy sinh trong trường hợp nào? Tại đâu?",
+    "answers": [
+      "Bị địch bắt tra tấn và hy sinh tại nhà thương Chợ Quán",
+      "Bị địch bắt tra tấn đến chết tại bót Catina",
+      "Trên đường đi công tác tại Hóc Môn",
+      "Bị địch bắt tra tấn đến chết tại Khám Lớn Sài Gòn"
+    ]
+  },
+  {
+    "question": "Đâu không phải là nhiệm vụ của Đoàn 232 (binh đoàn Cửu Long) trong chiến dịch Hồ Chí Minh (4/1975)?",
+    "answers": [
+      "Cắt đường số 4 (Bến Lức - ngã ba Trung Lương)",
+      "Chiếm Tân An, Mỹ Tho, chia cắt Sài Gòn và miền Tây Nam Bộ",
+      "Đánh chiếm Bộ Tư lệnh Biệt khu Thủ đô, cầu Nhị Thiên Đường, Tổng Nha Cảnh sát",
+      "Đánh chiếm khu vực Biên Hòa - Hố Nai và các tỉnh lỵ Long An, Kiến Tường"
+    ]
+  },
+  {
+    "question": "Chiến dịch Hồ Chí Minh (1975) đã diễn ra và giành thắng lợi trong vòng bao nhiêu ngày?",
+    "answers": [
+      "05 ngày (25/4 – 30/4/1975)",
+      "06 ngày (24/4 – 30/4/1975)",
+      "04 ngày (26/4 – 30/4/1975)",
+      "07 ngày (23/4 – 30/4/1975)"
+    ]
+  },
+  {
+    "question": "Chọn phương án đúng điền vào khoảng trống trong câu sau đây của C. Mác:\n“Lực lượng vật chất chỉ có thể bị đánh đổ bằng …………”.",
+    "answers": [
+      "Lực lượng tiên phong",
+      "Lực lượng vật chất",
+      "Lực lượng quần chúng",
+      "Lực lượng cách mạng"
+    ]
+  },
+  {
+    "question": "Tiêu chí nào là quan trọng nhất để phân biệt các hình thái kinh tế - xã hội?",
+    "answers": [
+      "Quan hệ sản xuất",
+      "Lực lượng sản xuất",
+      "Kiến trúc thượng tầng",
+      "Tồn tại xã hội"
+    ]
+  },
+  {
+    "question": "Ai là người đặt nền móng cho thuyết nguyên tử trong triết học Hy Lạp cổ đại?",
+    "answers": [
+      "Hê-ra-clít",
+      "Lơ-xíp",
+      "A-rít-tốt",
+      "Pác-mê-nít"
+    ]
+  },
+  {
+    "question": "Yếu tố nào là phương thức tồn tại của ý thức",
+    "answers": [
+      "Ý chí",
+      "Tình cảm",
+      "Nghị lực",
+      "Tri thức"
+    ]
+  },
+  {
+    "question": "Theo quan điểm duy vật lịch sử, sự tác động của kiến trúc thượng tầng đối với cơ sở hạ tầng là sự tác động:",
+    "answers": [
+      "Có thể diễn ra theo chiều hướng tích cực hoặc tiêu cực",
+      "Tiêu cực là cơ bản còn đôi khi theo chiều hướng tích cực",
+      "Luôn diễn ra theo chiều hướng tiêu cực",
+      "Luôn diễn ra theo chiều hướng tích cực"
+    ]
+  },
+  {
+    "question": "Theo quan điểm của chủ nghĩa Mác – Lênin, nguồn gốc xã hội cơ bản nhất, trực tiếp nhất của ý thức là gì?",
+    "answers": [
+      "Giáo dục và giao tiếp",
+      "Giáo dục và lao động.",
+      "Ngôn ngữ và giáo dục.",
+      "Lao động và ngôn ngữ."
+    ]
+  },
+  {
+    "question": "Để xây dựng khối đại đoàn kết toàn dân tộc, Chủ tịch Hồ Chí Minh quan niệm “Trong quá trình xây dựng khối đại đoàn kết toàn dân tộc, phải đứng vững trên lập trường ………. để giải quyết hài hòa mối quan hệ giai cấp – dân tộc.” Bạn hãy lựa chọn cụm từ thích hợp điền vào chỗ trống",
+    "answers": [
+      "giai cấp công nhân",
+      "tầng lớp vô sản",
+      "tầng lớp bị áp bức",
+      "giai cấp công – nông"
+    ]
+  },
+  {
+    "question": "Trong tư tưởng Hồ Chí Minh về việc bảo vệ Tổ quốc, Người chủ trương  xây dựng lực lượng vũ trang nhân dân gồm bao nhiêu thứ quân? Đó là những thứ quân nào?",
+    "answers": [
+      "4- bộ đội chủ lực; bộ đội địa phương; dân quân du kích và quần chúng nhân dân",
+      "3- bộ đội chủ lực; bộ đội tác chiến và bộ đội địa phương",
+      "4- bộ đội chủ lực; bộ đội tác chiến; bộ đội địa phương và dân quân, du kích",
+      "3- bộ đội chủ lực; bộ đội địa phương và dân quân, du kích"
+    ]
+  },
+  {
+    "question": "Câu nói “Đảng Cộng sản cầm quyền mà không coi trọng tu thân thì khó tề gia, càng khó trị quốc” là của ai?",
+    "answers": [
+      "Trường Chinh",
+      "Lê Duẩn",
+      "V.I Lê – nin",
+      "Hồ Chí Minh"
+    ]
+  },
+  {
+    "question": "Trong các giá trị truyền thống của dân tộc Việt Nam, giá trị nào tác động mạnh nhất, thôi thúc Chủ tịch Hồ Chí Minh ra đi tìm đường cứu nước?",
+    "answers": [
+      "Sự cố kết cộng đồng dân tộc",
+      "Tinh thần tương thân tương ái",
+      "Chủ nghĩa yêu nước",
+      "Sự khoan dung độ lượng"
+    ]
+  },
+  {
+    "question": "Luật giáo dục đại học sửa đổi năm 2018 (có hiệu lực thi hành từ ngày 01/7/2019) có nêu rõ về các trình độ đào tạo của giáo dục đại học gồm:",
+    "answers": [
+      "Cao đẳng, đại học, sau đại học",
+      "Đại học, sau đại học",
+      "Cao đẳng, đại học, thạc sĩ và tiến sĩ",
+      "Đại học, thạc sĩ và tiến sĩ"
+    ]
+  },
+  {
+    "question": "Tại sao ngày 26/3 được quyết định chọn làm ngày kỷ niệm thành lập Đoàn?",
+    "answers": [
+      "Ngày cuối cùng của Hội nghị Trung ương Đảng  lần thứ 2, Khóa I – bàn bạc và quyết định những vấn đề quan trọng về công tác vận động, tổ chức thanh niên",
+      "Ngày Ban chấp hành Trung ương Đảng ra “Án nghị quyết về công tác thanh niên vận động”",
+      "Ngày thành lập tổ chức Hội Việt Nam cách mạng thanh niên năm 1925",
+      "Ngày Chủ tịch Hồ Chí Minh lập nhóm thanh niên bí mật nòng cốt đầu tiên năm 1925"
+    ]
+  },
+  {
+    "question": "Ai là người được mệnh danh là vị thánh của ngành y dược dân tộc Việt Nam?",
+    "answers": [
+      "Hồ Đắc Di",
+      "Tuệ Tĩnh",
+      "Phạm Ngọc Thạch",
+      "Hải Thượng Lãn Ông"
+    ]
+  },
+  {
+    "question": "Lương Văn Can là người sáng lập tổ chức nào?",
+    "answers": [
+      "Hội Duy Tân",
+      "Đông Kinh Nghĩa Thục",
+      "Tâm Tâm xã",
+      "Hội Hưng Nam"
+    ]
+  },
+  {
+    "question": "Ba tính chất cơ bản của Đoàn TNCS Hồ Chí Minh là:",
+    "answers": [
+      "Tính chính trị, tính tự nguyện, tính công khai",
+      "Tính chính trị, tính tiên tiến, tính quần chúng",
+      "Tính chính trị, tính quần chúng, tính dân chủ",
+      "Tính chính trị, tính tự nguyện, tính tiên tiến."
+    ]
+  },
+  {
+    "question": "Tháng 6/1942, Nguyễn Ái Quốc sau một thời gian công tác tại vùng Nguyên Bình, Hoài An, Người lại trở về Pác Bó; đường về do ai dẫn đường?",
+    "answers": [
+      "Dương Đào",
+      "Kim Đồng",
+      "Từ Vĩ Tam",
+      "Bá Ngọc"
+    ]
+  },
+  {
+    "question": "Trong trận hải chiến ngày 14 tháng 3 năm 1988, trung úy Trần Văn Phương đã ngã xuống khi đang ôm trong tay lá cờ Tổ quốc Việt Nam đẫm máu với lời hô: “Thà hy sinh chứ không chịu mất đảo, hãy để cho máu của mình tô thắm lá cờ truyền thống của Quân chủng Hải quân. Đó là sự kiện diễn tại hòn đảo nào:",
+    "answers": [
+      "Đảo Len Đao",
+      "Đảo Gạc Ma",
+      "Đảo Cô Lin",
+      "Đảo Nam Yết"
+    ]
+  },
+  {
+    "question": "“Nước nhà thịnh hay suy, yếu hay mạnh một phần lớn là do các thanh niên. Thanh niên muốn làm chủ tương lai cho xứng đáng thì ngay hiện tại phải rèn luyện tinh thần và _______ của mình, phải làm việc để chuẩn bị cái tương lai đó”.\n(“Thư gửi các bạn thanh niên”, ngày 12/8/1947)",
+    "answers": [
+      "lực lượng",
+      "sức vóc",
+      "kỹ năng",
+      "trí óc"
+    ]
+  },
+  {
+    "question": "Một trong những nhân tố ảnh hưởng đến quy mô của tích lũy tư bản là:",
+    "answers": [
+      "Trình độ cường độ lao động",
+      "Trình độ năng suất lao động",
+      "Trình độ thời gian lao động",
+      "Trình độ của người lao động"
+    ]
+  },
+  {
+    "question": "Tháng 1/1975, quân dân Việt Nam đã giành thắng lợi trong chiến dịch nào?",
+    "answers": [
+      "Huế - Đà Nẵng",
+      "Đường số 14 – Phước Long",
+      "Tây Nguyên",
+      "Đường 9 – Nam Lào"
+    ]
+  },
+  {
+    "question": "Theo Đảng ta, cấu trúc cơ bản của hệ thống chính trị xã hội chủ nghĩa bao gồm:",
+    "answers": [
+      "Đảng cộng sản Việt Nam, nhà nước xã hội chủ nghĩa, các tổ chức xã hội chính trị.",
+      "Đảng cộng sản, nhà nước xã hội chủ nghĩa, hệ thống pháp luật",
+      "Cả 3 đều đúng",
+      "Đảng cộng sản, nhà nước xã hội chủ nghĩa"
+    ]
+  },
+  {
+    "question": "Cương lĩnh chính trị đầu tiên của Đảng đã xác định phương hướng, mục tiêu chiến lược của cách mạng Việt Nam là gì?",
+    "answers": [
+      "Cả A và C",
+      "Xây dựng một nước Việt Nam dân giàu, nước mạnh, dân chủ, công bằng, văn minh",
+      "Làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản.",
+      "Cách mạng tư sản dân quyền – phản đế và điền địa, lập chính quyền của công nông bằng hình thức Xô viết, để dự bị điều kiện đi tới cách mạng xã hội cộng sản."
+    ]
+  },
+  {
+    "question": "Ngày 05 tháng 05 năm 2018 kỷ niệm bao nhiêu năm ngày sinh của C.Mác",
+    "answers": [
+      "200 năm",
+      "150 năm",
+      "100 năm",
+      "250 năm"
+    ]
+  },
+  {
+    "question": "Chọn phương án đúng điền vào khoảng trống trong câu sau đây của Ph. Ăngghen: “Nguyên nhân và kết quả luôn luôn …………… : cái ở đây hoặc trong lúc này là nguyên nhân thì ở chỗ khác hoặc ở lúc khác lại là kết quả, và ngược lại”:",
+    "answers": [
+      "Thống nhất với nhau",
+      "Đối lập nhau",
+      "Gắn bó với nhau",
+      "Thay đổi vị trí cho nhau"
+    ]
+  }
+]

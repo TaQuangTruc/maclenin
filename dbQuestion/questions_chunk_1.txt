@@ -1,0 +1,452 @@
+[
+  {
+    "question": "Chủ tịch Hồ Chí Minh viết: “__________ của nhân dân nâng cao sẽ giúp cho chúng ta đẩy mạnh công cuộc khôi phục kinh tế, phát triển dân chủ.”",
+    "answers": [
+      "Trình độ văn hoá",
+      "Ý chí cách mạng",
+      "Sức lao động",
+      "Sự đoàn kết"
+    ]
+  },
+  {
+    "question": "“Cha mẹ sinh con, trời sinh tính” là quan niệm mang tính chất gì?",
+    "answers": [
+      "Duy vật biện chứng",
+      "Duy tâm khách quan",
+      "Duy vật lịch sử",
+      "Duy tâm chủ quan"
+    ]
+  },
+  {
+    "question": "Trong tác phẩm: “Sửa đổi lối làm việc” (10-1947), Hồ Chí Minh chỉ rõ những tính tốt của người cách mạng là…?",
+    "answers": [
+      "Trung dũng, kiên cường",
+      "Nhân, nghĩa, trí, dũng, liêm",
+      "Nhân, lễ, nghĩa, trí, tín",
+      "Cần, kiệm, liêm, chính"
+    ]
+  },
+  {
+    "question": "Người giữ vai trò Giám đốc đầu tiên của Đại học Quốc gia Thành phố Hồ Chí Minh là ai?",
+    "answers": [
+      "PGS.TS. Phan Thanh Bình",
+      "PGS.TS. Nguyễn Tấn Phát",
+      "PGS.TS. Huỳnh Thành Đạt",
+      "PGS.TS. Trần Chí Đáo"
+    ]
+  },
+  {
+    "question": "“Chiến lược phát triển Đại học Quốc gia Thành phố Hồ Chí Minh giai đoạn 2021-2030, tầm nhìn 2045” đã xác định mục tiêu “tỷ lệ sinh viên có việc làm sau một năm tốt nghiệp” đạt bao nhiêu phần trăm?",
+    "answers": [
+      "Trên 90%",
+      "Trên 95%",
+      "Trên 88%",
+      "Trên 80%"
+    ]
+  },
+  {
+    "question": "Tính đến tháng 11/2024, Đại học Quốc gia Thành phố Hồ Chí Minh có bao nhiêu đơn vị thành viên?",
+    "answers": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "question": "Chọn phương án đúng điền vào chỗ trống: “giá trị thặng dư tuyệt đối là giá trị thặng dư có được do … hoặc tăng cường động lao động, trong khi thời gian lao động cần thiết…”",
+    "answers": [
+      "Kéo dài ngày lao động/tăng lên",
+      "Không kéo dài ngày lao động/không thay đổi",
+      "Kéo dài ngày lao động thay đổi",
+      "Kéo dài ngày lao động/không thay đổi"
+    ]
+  },
+  {
+    "question": "Kinh tế hàng hóa phát triển qua các giai đoạn nào?",
+    "answers": [
+      "Kinh tế thị trường hỗn hợp, kinh tế thị trường tự do",
+      "Kinh tế hàng hóa giản đơn, kinh tế thị trường tự do",
+      "Kinh tế hàng hóa giản đơn, kinh tế thị trường",
+      "Kinh tế hàng hóa giản đơn, kinh tế thị trường hiện đại"
+    ]
+  },
+  {
+    "question": "Quan hệ giữa tích lũy, tích tụ, tập trung tư bản diễn ra theo hướng:",
+    "answers": [
+      "Tích lũy tăng, tích tụ tăng, tập trung giảm",
+      "Tích lũy và tích tụ giảm thì tập trung tư bản sẽ tăng",
+      "Tích lũy giảm, tích tụ giảm, tập trung tăng",
+      "Tích lũy tăng, tích tụ tăng, tập trung tăng"
+    ]
+  },
+  {
+    "question": "So sánh về lượng giữa giá trị hàng hóa và chi phí sản xuất tư bản chủ nghĩa:",
+    "answers": [
+      "Chi phí sản xuất tư bản lớn hơn giá trị hàng hóa.",
+      "Chi phí sản xuất tư bản bằng giá trị hàng hóa.",
+      "Chi phí sản xuất tư bản nhỏ hơn giá trị hàng hóa.",
+      "Chi phí sản xuất tư bản có thể lớn hơn hoặc bằng giá trị hàng hóa."
+    ]
+  },
+  {
+    "question": "Đại hội thứ bao nhiêu của Đảng lần đầu tiên đề cập nội dung \"Bảo vệ vững chắc Tổ quốc, giữ vững môi trường hòa bình, ổn định\" như là một thành tố trong 5 thành tố chính?",
+    "answers": [
+      "Đại hội đại biểu toàn quốc lần thứ XII",
+      "Đại hội đại biểu toàn quốc lần thứ X",
+      "Đại hội đại biểu toàn quốc lần thứ XI",
+      "Đại hội đại biểu toàn quốc lần thứ IX"
+    ]
+  },
+  {
+    "question": "Điểm chung về hướng tiến công của quân ta trong cuộc tiến công chiến lược Đông Xuân 1953 - 1954 và chiến dịch Tây Nguyên (3 - 1975) là gì?",
+    "answers": [
+      "Tiến công vào những vị trí quan trọng nhưng quân địch yếu",
+      "Tiến công vào những nơi tập trung lực lượng chính của địch.",
+      "Tiến công vào những nơi có cơ quan đầu não của địch",
+      "Tiến công vào những nơi địch khó tiếp viện."
+    ]
+  },
+  {
+    "question": "Nền tảng của nền công nghiệp hóa, hiện đại hóa đất nước theo quan điểm của Đại hội Đảng lần thứ VIII là gì?",
+    "answers": [
+      "Khoa học – kĩ thuật",
+      "Khoa học – công nghệ",
+      "Văn hóa – khoa học",
+      "Văn hóa – xã hội"
+    ]
+  },
+  {
+    "question": "Hội nghị có ý nghĩa lịch sử quan trọng – mở ra con đường đưa cuộc cách mạng dân tộc dân chủ miền Nam tiến sang giai đọc cuối cùng cùng của cuộc chiến tranh cách mạng, giải phóng hoàn toàn miền Nam – diễn ra trong năm 1973 là Hội nghị nào?",
+    "answers": [
+      "Hội nghị lần thứ XXI Ban Chấp hành Trung ương Đảng (7/1973)",
+      "Hội nghị Quân ủy Trung ương (10/1973)",
+      "Hội nghị lần thứ XXII Ban Chấp hành Trung ương Đảng (12/1973)",
+      "Hội nghị Bộ Chính trị mở rộng (24/5/1973)"
+    ]
+  },
+  {
+    "question": "Chiến dịch giải phóng thành phố Sài Gòn – Gia Định chính thức mang tên là chiến dịch Hồ Chí Minh vào thời gian nào?",
+    "answers": [
+      "Ngày 24/4/1975",
+      "Ngày 14/4/1975",
+      "Ngày 26/4/1975",
+      "Ngày 30/4/1975"
+    ]
+  },
+  {
+    "question": "Theo quan niệm duy vật lịch sử, nhân tố quyết định xu hướng phát triển của các hình thái kinh tế - xã hội là gì?",
+    "answers": [
+      "Điều kiện khách quan và chủ quan của mỗi xã hội",
+      "Ý chí của nhân dân",
+      "Ý thức của giai cấp nắm quyền lực nhà nước",
+      "Quy luật khách quan"
+    ]
+  },
+  {
+    "question": "Đâu không phải là phát minh khoa học được coi là những tiền đề khoa học tự nhiên đối với sự ra đời của triết học Mác?",
+    "answers": [
+      "Định luật bảo toàn và chuyển hóa năng lượng",
+      "Thuyết tiến hóa",
+      "Thuyết tế bào",
+      "Định luật Johannes Kepler"
+    ]
+  },
+  {
+    "question": "Vai trò của ý thức cá nhân đối với ý thức xã hội:",
+    "answers": [
+      "Ý thức cá nhân là phương thức tồn tại và biểu hiện của ý thức xã hội",
+      "Ý thức cá nhân quyết định ý thức xã hội",
+      "Tổng số ý thức cá nhân bằng ý thức xã hội",
+      "Ý thức cá nhân độc lập với ý thức xã hội"
+    ]
+  },
+  {
+    "question": "Tác phẩm nào được V.I. Lênin đánh giá là “tác phẩm chủ yếu và cơ bản trình bày chủ nghĩa xã hội khoa học”",
+    "answers": [
+      "Tư bản",
+      "Hệ tư tưởng Đức",
+      "Phê phán cương lĩnh Gô-ta",
+      "Chống Đuy-rinh"
+    ]
+  },
+  {
+    "question": "Tập trung tư bản là quá trình liên kết, hợp nhất:",
+    "answers": [
+      "Các tư bản thương nghiệp trong xã hội thành một tư bản lớn hơn",
+      "Các tư bản cá biệt trong xã hội thành một tư bản lớn hơn",
+      "Các tư bản xã hội thành một tư bản lớn hơn",
+      "Các tư bản tiền tệ trong xã hội thành một tư bản lớn hơn"
+    ]
+  },
+  {
+    "question": "Theo Lênin, quan điểm thứ nhất và cơ bản của lý luận về nhận thức là:",
+    "answers": [
+      "Quan điểm về đời sống, về thực tiễn.",
+      "Quan điểm về vận động, về phát triển.",
+      "Quan điểm về khả năng, về hiện thực.",
+      "Quan điểm về nhu cầu, về lợi ích."
+    ]
+  },
+  {
+    "question": "Theo phép biện chứng duy vật thì mặt đối lập biện chứng là gì?",
+    "answers": [
+      "Các mặt đối lập tồn tại, triệt tiêu lẫn nhau.",
+      "Các mặt có đặc điểm, thuộc tính, có khuynh hướng biến đổi trái ngược nhau.",
+      "Các mặt đối lập nằm trong sự liên hệ, tác động qua lại lẫn nhau.",
+      "Các mặt cùng tồn tại trong một sự vật, chúng có mối liên hệ hữu cơ, ràng buộc, làm tiền đề tồn tại cho nhau nhưng lại phát triển theo chiều hướng trái ngược nhau."
+    ]
+  },
+  {
+    "question": "Sự phủ định diễn ra do sự phát triển của bản thân sự vật và hiện tượng, có kế thừa những yếu tố tích cực của sự vật và hiện tượng cũ để phát triển sự vật và hiện tượng mới là",
+    "answers": [
+      "Phủ định của phủ định",
+      "Phủ định siêu hình",
+      "Phủ định biện chứng",
+      "Phủ định sạch trơn"
+    ]
+  },
+  {
+    "question": "Hình thức nhận thức nào không cần có sự tác động của vật vào cơ quan cảm giác của con người?",
+    "answers": [
+      "Tri giác",
+      "Cảm giác",
+      "Khái niệm",
+      "Biểu tượng"
+    ]
+  },
+  {
+    "question": "Theo quan điểm của chủ nghĩa Mác – Lênin, nguồn gốc trực tiếp của sự phân hóa giai cấp trong xã hội là:",
+    "answers": [
+      "Chế độ tư hữu về tư liệu sản xuất",
+      "Sự phân biệt địa vị của những tập đoàn người trong quá trình sản xuất",
+      "Chế độ tư hữu về của cải vật chất",
+      "Sự xuất hiện của cải thặng dư trong quá trình sản xuất"
+    ]
+  },
+  {
+    "question": "“Dân ta xin nhớ …\nĐồng tình, đồng sức, đồng lòng, đồng minh”\nHãy điền cụm từ còn thiếu để hoàn chỉnh hai câu thơ trên của Chủ tịch Hồ Chí Minh",
+    "answers": [
+      "chữ đồng.",
+      "nhắc lòng.",
+      "khắc lòng.",
+      "chung lòng."
+    ]
+  },
+  {
+    "question": "Trong những luận điểm vể đạo đức sau của Hồ Chí Minh, luận điểm nào được Người viết trong tác phẩm “Sửa đổi lối làm việc”?",
+    "answers": [
+      "Nói tóm tắt, tính tốt ấy gồm có năm điều: nhân, nghĩa, trí, dũng, liêm.",
+      "Đạo đức cách mạng không phải trên trời sa xuống. Nó do đấu tranh, rèn luyện bền bỉ hằng ngày mà phát triển và củng cố. Cũng như ngọc càng mài càng sáng, vàng càng luyện càng trong.",
+      "Cần, Kiệm, Liêm, Chính là nền tảng của Đời sống mới, của Thi đua ái quốc.",
+      "Đem lòng “chí công vô tư” mà đối với người, với việc. Đối lập với “chí công vô tư” là “dĩ công vô tư”, đó là điều mà đạo đức mới đòi hỏi phải chống lại."
+    ]
+  },
+  {
+    "question": "Nói về vai trò và sức mạnh của đạo đức, Hồ Chí Minh chỉ rõ: “Sức có mạnh mới gánh được nặng và đi được xa. Người cách mạng phải có… làm nền tảng, mới hoàn thành được nhiệm vụ cách mạng vẻ vang”. Chọn phương án đúng điền vào chỗ trống để hoàn thiện câu nói trên.",
+    "answers": [
+      "Ý chí cách mạng",
+      "Trí tuệ",
+      "Đạo đức cách mạng",
+      "Phương pháp cách mạng"
+    ]
+  },
+  {
+    "question": "Hãy bổ sung hoàn chỉnh câu nói của Chủ tịch Hồ Chí Minh: “Trong xã hội ta, không có …….. nào thấp kém, chỉ những kẻ lười biếng, ỷ lại mới đáng xấu hổ”. (Chủ tịch Hồ Chí Minh nói tại Hội nghị chỉnh huấn ngày 27/3/1961)",
+    "answers": [
+      "Con người",
+      "Việc làm",
+      "Tầng lớp",
+      "Nghề"
+    ]
+  },
+  {
+    "question": "Theo quan niệm của Chủ tịch Hồ Chí Minh, nguyên tắc nào trong tổ chức, sinh hoạt Đảng đòi hỏi phải \"thắng thắn, chân thành, trung thực, không nể nang… và phải có tình thương yêu lẫn nhau\" là gì?",
+    "answers": [
+      "Đoàn kết thống nhất trong Đảng",
+      "Tập trung dân chủ",
+      "Tự phê và phê bình",
+      "Kỷ luật nghiêm minh, tự giác"
+    ]
+  },
+  {
+    "question": "Theo Bác Hồ, cần là như thế nào?",
+    "answers": [
+      "Là phải biết nuôi dưỡng tinh thần và lực lượng để làm việc lâu dài",
+      "Là cố công, cố sức hoàn thành công việc cho bằng được",
+      "Cần là cố gắng hết sức",
+      "Là cố sống cố chết để làm việc"
+    ]
+  },
+  {
+    "question": "Ngoài tờ báo “Thanh niên”,  Hội Việt Nam Cách mạng thanh niên đã xuất bản tờ báo nào để vận động binh lính người Việt ?",
+    "answers": [
+      "Người cùng khổ",
+      "Gia Định báo",
+      "Lính Cách mệnh",
+      "Tiếng chuông rè"
+    ]
+  },
+  {
+    "question": "Tổng đoàn học sinh Sài Gòn có cơ quan ngôn luận chính thức là một tờ báo ra đời những năm 1970. Tờ báo đó tên là gì?",
+    "answers": [
+      "Học sinh",
+      "Lên đàng",
+      "Tiếng nói giải phóng",
+      "Quyền sống"
+    ]
+  },
+  {
+    "question": "Tổng trấn cuối cùng của Gia Định thành là ai?",
+    "answers": [
+      "Nguyễn Huỳnh Đức",
+      "Lê Quang Định",
+      "Lê Văn Duyệt",
+      "Trương Tấn Bửu"
+    ]
+  },
+  {
+    "question": "Đâu là nội dung được quy định trong trách nhiệm của thanh niên đối với Nhà nước và xã hội theo Luật Thanh niên năm 2020?",
+    "answers": [
+      "Sẵn sàng bảo vệ Tổ quốc, bảo vệ độc lập, giữ vững chủ quyền, an ninh quốc gia, thống nhất và toàn vẹn lãnh thổ; đảm nhận công việc khó khăn, gian khổ, cấp bách khi Tổ quốc yêu cầu.",
+      "Đấu tranh với các âm mưu, hoạt động gây phương hại đến lợi ích quốc gia, dân tộc.",
+      "Tích cực tham gia các hoạt động, phong trào văn hóa, thể dục, thể thao lành mạnh; bảo vệ, giữ gìn, phát huy bản sắc văn hóa dân tộc; tiếp thu tinh hoa văn hóa nhân loại.",
+      "Tham gia giữ gìn trật tự, an toàn xã hội, quốc phòng, an ninh quốc gia."
+    ]
+  },
+  {
+    "question": "Quốc kỳ nước ta (nền đỏ giữa có sao vàng năm cánh) và quốc ca là bài “Tiến quân ca” được quyết định tại đâu?",
+    "answers": [
+      "Chỉ thị ra ngày 16/4/1945 của Tổng Bộ Việt Minh",
+      "Đại hội Quốc dân (Tân Trào) tháng 8/1945",
+      "Hội nghị toàn quốc của Đảng tháng 8/1945",
+      "Hội nghị quân sự cách mạng Bắc Kỳ tháng 4/1945"
+    ]
+  },
+  {
+    "question": "Theo Nghị quyết Đại hội lần thứ XI của Đảng bộ Thành phố Hồ Chí Minh, nhân tố nào là “mục tiêu, nền tảng xã hội cho thành phố phát triển nhanh và bền vững”?",
+    "answers": [
+      "Phát triển hệ thống hạ tầng đô thị đồng bộ",
+      "Xây dựng nền văn hóa tiên tiến, đậm đà bản sắc dân tộc",
+      "Phát triển kinh tế nhanh và bền vững",
+      "Ứng dụng mạnh mẽ khoa học - công nghệ, đổi mới sáng tạo và tăng năng suất lao động"
+    ]
+  },
+  {
+    "question": "Tờ báo nào là cơ quan ngôn luận của Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh?",
+    "answers": [
+      "Báo Thanh niên",
+      "Báo Sinh viên Việt Nam",
+      "Báo Tiền phong",
+      "Báo Tuổi trẻ"
+    ]
+  },
+  {
+    "question": "Nhằm chào mừng đại hội Đảng toàn quốc lần III năm 1960, Trung ương Đoàn đã triển khai cuộc vận động nào?",
+    "answers": [
+      "Thanh niên Việt Nam xung phong xây dựng xã hội chủ nghĩa",
+      "Thanh niên Việt Nam xây dựng xã hội chủ nghĩa",
+      "Sống, làm việc, học tập theo gương những người cộng sản",
+      "Thanh niên xung kích diệt dốt"
+    ]
+  },
+  {
+    "question": "“Hát cho đồng bào tôi nghe” là  một phong trào văn nghệ của sinh viên học sinh ở các đô thị miền Nam trước năm 1975, là một vũ khí đấu tranh hữu hiệu của sinh viên – học sinh để chống lại các khuynh hướng văn nghệ phi dân tộc , phản động, đồi trụy, lai căng lúc bấy giờ. Phong trào này chính thức ra mắt vào dịp nào?",
+    "answers": [
+      "Đêm nhạc Tôn Thất Lập ở ĐH Dược Khoa Sài Gòn 11/1968.",
+      "Đêm văn nghệ “ Đốt lửa căm hờn” ở trường ĐH Dược Khoa 1964",
+      "Đêm ra mắt Đoàn văn nghệ sinh viên - học sinh Sài Gòn 15/5/1965.",
+      "Đêm văn nghệ “Vì hòa bình” ở trường Đại học Nông Lâm Súc Sài Gòn 27/12/1969."
+    ]
+  },
+  {
+    "question": "Chủ tịch Hồ Chí Minh viết trong bài Học sinh và lao động: “Sự phát triển văn hóa giáo dục cần phải ăn khớp với sự phát triển sản xuất và sự phát triển kinh tế của nước nhà. Nếu văn hóa giáo dục phát triển một cách __________, chạy trước sản xuất và kinh tế, thì sẽ ảnh hưởng không tốt đến công cuộc xây dựng chủ nghĩa xã hội. Tài chính của Nhà nước có hạn, nên những trò tiểu học và trung học không được chuyển cấp, họ sẽ lao động”",
+    "answers": [
+      "Thiếu kế hoạch",
+      "Luỹ tiến",
+      "Đột xuất",
+      "Nhanh chóng"
+    ]
+  },
+  {
+    "question": "Sai lầm chung phổ biến của tất cả những quan niệm duy vật trước Mác về vật chất là gì?",
+    "answers": [
+      "Coi ý thức cũng là một dạng vật chất",
+      "Quy vật chất về một dạng vật thể",
+      "Đồng nhất vật chất với tồn tại",
+      "Đồng nhất vật chất với hiện thực"
+    ]
+  },
+  {
+    "question": "“Hát cho dân tôi nghe” là một ca khúc rất nổi tiếng trong phong trào đấu tranh đô thị của sinh viên – học sinh miền Nam những năm 1960-1970. Tác giả của ca khúc đó là ai?",
+    "answers": [
+      "Nhạc sĩ Trương Quốc Khánh",
+      "Nhạc sĩ Tôn Thất lập",
+      "Nhạc sĩ Trần Long Ẩn",
+      "Nhạc sĩ Trần Xuân Tiến."
+    ]
+  },
+  {
+    "question": "Nghị định số 16/CP của Chính phủ về việc thành lập Đại học Quốc gia Thành phố Hồ Chí Minh do đồng chí Thủ tướng Chính phủ nào ký ban hành?",
+    "answers": [
+      ". Đồng chí Phan Văn Khải",
+      "Đồng chí Nguyễn Tấn Dũng",
+      "Đồng chí Đỗ Mười",
+      "Đồng chí Võ Văn Kiệt"
+    ]
+  },
+  {
+    "question": "“Chiến lược phát triển Đại học Quốc gia Thành phố Hồ Chí Minh giai đoạn 2021-2030, tầm nhìn 2045” đã xác định mục tiêu “tỷ lệ giảng viên có trình độ tiến sĩ” đạt bao nhiêu phần trăm?",
+    "answers": [
+      "Trên 80%",
+      "Trên 75%",
+      "Trên 70%",
+      "Trên 67%"
+    ]
+  },
+  {
+    "question": "Trong giai đoạn chủ nghĩa tư bản độc quyền quy luật giá trị có biểu hiện mới, chuyển thành:",
+    "answers": [
+      "Quy luật lợi nhuận bình quân",
+      "Quy luật giá cả sản xuất",
+      "Quy luật lợi nhuận độc quyền",
+      "Quy luật giá cả độc quyền"
+    ]
+  },
+  {
+    "question": "Mục đích của cạnh tranh là gì? Chọn câu trả lời đúng nhất trong câu trả lời sau",
+    "answers": [
+      "Giành lợi ích tối đa cho mình",
+      "Giành các điều kiện sản xuất thuận lợi nhất.",
+      "Nhằm mua, bán hàng hoá với giá cả có lợi nhất.",
+      "Nhằm thu lợi nhuận nhiều nhất"
+    ]
+  },
+  {
+    "question": "Nguyên nhân hình thành tỷ suất lợi nhuận bình quân:",
+    "answers": [
+      "Do chạy theo giá trị thặng dư",
+      "Do cạnh tranh giữa các ngành",
+      "Do cạnh tranh",
+      "Do cạnh tranh trong nội bộ ngành"
+    ]
+  },
+  {
+    "question": "Để có được giá trị thặng dư tuyệt đối nhà tư bản phải:",
+    "answers": [
+      "Kéo dài ngày lao động hoặc tăng thời gian lao động.",
+      "Kéo dài ngày lao động hoặc tăng năng suất lao động.",
+      "Kéo dài ngày lao động hoặc tăng cường độ lao động.",
+      "Rút ngắn ngày lao động hoặc tăng cường độ lao động."
+    ]
+  },
+  {
+    "question": "Bộ Chính trị Đảng Lao động Việt Nam quyết định giải phóng miền Nam trước mùa mưa vì:",
+    "answers": [
+      "Do ta đã chuẩn bị hậu phương vững mạnh về mọi mặt, nhân tài vật lực đã đầy đủ",
+      "Mĩ đang chuẩn bị viện trợ khẩn cấp cho chính quyền Sài Gòn",
+      "Mùa mưa sẽ khó khăn cho ta tấn công địch",
+      "Thời cơ chiến lược đã đến sau chiến dịch Huế - Đà Nẵng"
+    ]
+  }
+]

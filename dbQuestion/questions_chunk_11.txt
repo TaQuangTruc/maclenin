@@ -1,0 +1,452 @@
+[
+  {
+    "question": "“Đói nghèo” và “Dốt nát”, hiện tượng nào là nguyên nhân, hiện tượng nào là kết quả?",
+    "answers": [
+      "Đói nghèo là nguyên nhân, dốt nát là kết quả",
+      "Dốt nát là nguyên nhân, đói nghèo là kết quả",
+      "Hiện tượng này vừa là nguyên nhân vừa là kết quả của hiện tượng kia",
+      "Cả hai đều là nguyên nhân"
+    ]
+  },
+  {
+    "question": "“Cách mạng ở phương Tây muốn thắng lợi thì nó phải liên hệ chặt chẽ với phong trào giải phóng, chống chủ nghĩa đế quốc ở các nước thuộc địa và các nước bị nô dịch và vấn đề dân tộc... chỉ là một bộ phận của vấn đề chung về cách mạng vô sản và chuyên chính vô sản”. Câu này được Nguyễn Ái Quốc phát biểu ở đâu?",
+    "answers": [
+      "Hội nghị quốc tế Nông dân lần thứ nhất (1923)",
+      "Đại hội quốc tế Thanh niên Cộng sản lần thứ IV (1924)",
+      "Cả 3 câu trên đều sai",
+      "Đại hội lần thứ V của Quốc tế Cộng sản (1924)"
+    ]
+  },
+  {
+    "question": "Theo Lênin, quy luật hình thành và phát triển Đảng cộng sản của giai cấp công nhân là:",
+    "answers": [
+      "Cả a, b và c",
+      "Chủ nghĩa Mác kết hợp với phong trào công nhân",
+      "Chủ nghĩa Mác – Lênin kết hợp với  phong trào công nhân và Phong trào yêu nước",
+      "Chủ nghĩa Mác – Lênin kết hợp với Phong trào công nhân"
+    ]
+  },
+  {
+    "question": "Ông được Ph.Ăngghen coi là bộ óc bách khoa nhất trong số những nhà triết học Hy Lạp cổ đại. Ông là ai",
+    "answers": [
+      "Platon",
+      "Arixtốt",
+      "Heraclít",
+      "Talét"
+    ]
+  },
+  {
+    "question": "Chính sách kinh tế mới (NEP) do Lê-nin đề xướng (tháng 3-1921) bao gồm các lĩnh vực nào?",
+    "answers": [
+      "Nông nghiệp, công nghiệp, thương nghiệp và tiền tệ",
+      "Nông nghiệp, giao thông, thương nghiệp và tiền tệ",
+      "Thương nghiệp, tiền tệ, nông nghiệp và giao thông",
+      "Công nghiệp, nông nghiệp, giao thông và văn hóa"
+    ]
+  },
+  {
+    "question": "Chọn phương án đúng điền vào chỗ trống: “Kết quả của cạnh tranh … là hình thành … của từng loại hàng hóa”",
+    "answers": [
+      "Trong nội bộ ngành/ Giá trị thị trường",
+      "Trong nội bộ sản xuất/ Giá trị trao đổi",
+      "Trong nội bộ vùng/ Giá trị lao động",
+      "Trong nội bộ doanh nghiệp/ Giá trị sử dụng"
+    ]
+  },
+  {
+    "question": "Để tăng cường, củng cố khối đại đoàn kết dân tộc ở nước ta hiện nay Đảng và Nhà nước ta được coi là vấn đề cực kỳ quan trọng?",
+    "answers": [
+      "Phát triển kinh tế hàng hóa ở các vùng dân tộc thiểu số",
+      "Phát huy truyền thống đoàn kết giữa các dân tộc",
+      "Tăng cường bồi dưỡng, đào tạo cán bộ là người dân tộc thiểu số",
+      "Tôn trọng lợi ích, truyền thống, văn hóa của các dân tộc"
+    ]
+  },
+  {
+    "question": "Nội dung nào sau đây phản ánh không đúng ý nghĩa thành lập Đảng cộng sản Việt Nam?",
+    "answers": [
+      "Là sản phẩm của sự kết hợp giữa chủ nghĩa Mác - Lênin với phong trào công nhân và phong trào yêu nước ở Việt Nam trong thời đại mới",
+      "Là sự chuẩn bị tất yếu đầu tiên có tính chất quyết định cho những bước phát triển nhảy vọt mới trong lịch sử dân tộc Việt Nam",
+      "Là một xu thế khách quan của cuộc vận động giải phóng dân tộc ở Việt Nam theo con đường cách mạng vô sản",
+      "Là bước ngoặt vĩ đại trong lịch sử cách mạng Việt Nam, chấm dứt thời kỳ khủng hoảng, bế tắc về đường lối và giai cấp lãnh đạo cách mạng"
+    ]
+  },
+  {
+    "question": "Chủ nghĩa xã hội nghiên cứu vấn đề tín ngưỡng, tôn giáo dưới góc độ nào là chủ yếu?",
+    "answers": [
+      "Tâm linh – xã hội",
+      "Tâm linh – ý thức xã hội",
+      "Chính trị - xã hội",
+      "Hình thái ý thức xã hội"
+    ]
+  },
+  {
+    "question": "Hãy chọn cụm từ phù hợp điền vào những chỗ khuyết trong câu nói sau đây của Chủ tịch Hồ Chí Minh: “…. là một trở ngại lớn cho việc xây dựng chủ nghĩa xã hội. Vì vậy thắng lợi của chủ nghĩa xã hội không thể tách rời cuộc đấu tranh trừ bỏ......”:",
+    "answers": [
+      "Sự lười biếng",
+      "Sự tham lam",
+      "Tính ích kỷ",
+      "Chủ nghĩa cá nhân"
+    ]
+  },
+  {
+    "question": "Năm 1918, tờ báo phụ nữ đầu tiên được xuất bản ở Sài Gòn, đó là tờ báo nào?",
+    "answers": [
+      "Phụ nữ mới",
+      "Nữ giới chung",
+      "Phụ nữ tân văn",
+      "Nữ công tạp chí."
+    ]
+  },
+  {
+    "question": "Ai là người được giao nhiệm vụ thành lập Đội Việt Nam tuyên truyền giải phóng quân?",
+    "answers": [
+      "Phạm Văn Đồng",
+      "Văn Tiến Dũng",
+      "Trường Chinh",
+      "Võ Nguyên Giáp"
+    ]
+  },
+  {
+    "question": "Nguyên tắc thống nhất của đường lối đối ngoại của Đảng và Nhà nước Việt Nam, trên cơ sở:",
+    "answers": [
+      "Phân tích hai xu hướng phát triển khách quan vấn đề dân tộc.",
+      "Sự sụp đổ Xã hội Chủ nghĩa ở Liên Xô và Đông Âu.",
+      "Quá độ lên chủ nghĩa xã hội.",
+      "Sự phát triển của chủ nghĩa tư bản."
+    ]
+  },
+  {
+    "question": "Ngày 21/6/1965, một chiến sĩ biệt động Sài Gòn đã hi sinh với khí phách hào hùng tại pháp trường cát do chính quyền Sài Gòn lập ra trước chợ Bến Thành. Trước lúc hy sinh, với sự chứng kiến của đông đảo đồng bào, anh tuyên bố: “Tôi đánh Mỹ để giải phóng dân tộc”. Người chiến sĩ đó là ai?",
+    "answers": [
+      "Lê Quang Lộc",
+      "Trần Quang Cơ",
+      "Hồ Hảo Hớn",
+      "Trần Văn Đang"
+    ]
+  },
+  {
+    "question": "Cấu trúc của một hình thái kinh tế - xã hội gồm các yếu tố cơ bản nào sau đây hợp thành?",
+    "answers": [
+      "Quan hệ sản xuất, cơ sở hạ tầng và kiến trúc thượng tầng",
+      "Quan hệ sản xuất, lực lượng sản xuất và kiến trúc thượng tầng",
+      "Cơ sở hạ tầng và kiến trúc thượng tầng",
+      "Lực lượng sản xuất và quan hệ sản xuất"
+    ]
+  },
+  {
+    "question": "Đại biểu các tổ chức cộng sản nào đã tham dự Hội nghị thành lập Đảng đầu năm 1930?",
+    "answers": [
+      "Đông Dương Cộng sản Đảng và An Nam Cộng sản Đảng",
+      "Đông Dương Cộng sản Đảng, An Nam Cộng sản Đảng và Đông Dương Cộng sản liên đoàn",
+      "An Nam Cộng sản Đảng và Đông Dương Cộng sản liên đoàn",
+      "Đông Dương Cộng sản Đảng và Đông Dương Cộng sản liên đoàn"
+    ]
+  },
+  {
+    "question": "Trong chiến dịch Hồ Chí Minh (1975), địa bàn tác chiến của lực lượng vũ trang nhân dân Việt Nam là:",
+    "answers": [
+      "Trung du",
+      "Đô thị",
+      "Rừng núi",
+      "Nông thôn"
+    ]
+  },
+  {
+    "question": "Nhà tư tưởng xã hội chủ nghĩa không tưởng nào đã nói đến vấn đề giai cấp và xung đột giai cấp?",
+    "answers": [
+      "Xanh Xi-mông",
+      "Rô-bớt Ô-oen",
+      "Sác-lơ Phu-ri-ê",
+      "Grắc-cơ Ba-bớp"
+    ]
+  },
+  {
+    "question": "Trình độ nhận thức gián tiếp, trừu tượng, có tính hệ thống trong việc khái quát bản chất, quy luật của các sự vật, hiện tượng được gọi là nhận thức gì?",
+    "answers": [
+      "Nhận thức thông thường",
+      "Nhận thức lý luận",
+      "Nhận thức kinh nghiệm",
+      "Nhận thức khoa học"
+    ]
+  },
+  {
+    "question": "V. Lênin viết tác phẩm “Bút ký triết học” trong khoảng thời gian nào?",
+    "answers": [
+      "1914-1916",
+      "1913-1916",
+      "1912-1916",
+      "1915-1916"
+    ]
+  },
+  {
+    "question": "Trong Di chúc, Hồ Chí Minh căn dặn: “Các đồng chí từ trung ương đến các chi bộ cần phải giữ gìn… như giữ gìn con ngươi của mắt mình”. Hãy điền vào chỗ trống.",
+    "answers": [
+      "Sự đoàn kết nhất trí của Đảng",
+      "Tư cách của người cách mạng",
+      "Đạo đức cách mạng của Đảng",
+      "Sự thống nhất và toàn vẹn lãnh thổ"
+    ]
+  },
+  {
+    "question": "Khối lượng giá trị thặng dư phản ánh:",
+    "answers": [
+      "Phạm vi bóc lột",
+      "Trình độ bóc lột",
+      "Quy mô và phạm vi bóc lột",
+      "Quy mô bóc lột của tư bản đối với công nhân"
+    ]
+  },
+  {
+    "question": "Sản xuất hàng hóa là kiểu tổ chức kinh tế mà ở đó sản phẩm được sản xuất ra để:",
+    "answers": [
+      "Trao đổi, bán",
+      "Tiêu dùng",
+      "Giao nộp",
+      "Đáp ứng nhu cầu"
+    ]
+  },
+  {
+    "question": "Tuyến biên giới Việt Nam – Trung Quốc năm 1979 phải đương đầu với cuộc tấn công xâm lược của Trung Quốc là địa bàn của bao nhiêu tỉnh?",
+    "answers": [
+      "7 tỉnh",
+      "9 tỉnh",
+      "8 tỉnh",
+      "6 tỉnh"
+    ]
+  },
+  {
+    "question": "Đại hội nào của Đảng khẳng định: “Đảng lấy chủ nghĩa Mác – Lênin, tư tưởng Hồ Chí Minh làm nền tảng tư tưởng và kim chỉ nam cho hành động ”?",
+    "answers": [
+      "Đại hội IX (2001)",
+      "Đại hội VIII (1996)",
+      "Đại hội VI (1986)",
+      "Đại hội VII (1991)"
+    ]
+  },
+  {
+    "question": "“Triết học bao gồm những quan điểm chung nhất, những sự lý giải có luận chứng cho các câu hỏi chung của con người, nên triết học bao gồm toàn bộ tri thức của nhân loại”. Kết luận trên ứng với triết học thời kỳ nào? Chọn câu trả lời đúng.",
+    "answers": [
+      "Triết học cổ đại",
+      "Triết học Mác – Lênin",
+      "Triết học Phục Hưng",
+      "Triết học Trung cổ Tây Âu"
+    ]
+  },
+  {
+    "question": "“…Mọi người Việt Nam phải hiểu biết quyền lợi của mình, bổn phận của mình, phải có kiến thức mới để có thể tham gia vào công cuộc xây dựng nước nhà và trước hết phải biết đọc, biết viết chữ quốc ngữ...”. Đoạn văn trên được trích từ bài viết nào của Chủ tịch Hồ Chí Minh?",
+    "answers": [
+      "Chống nạn mù chữ",
+      "Chống nạn thất học",
+      "Thiếu óc tổ chức",
+      "Cả 3 câu trên đều sai"
+    ]
+  },
+  {
+    "question": "“Hội Liên hiệp các dân tộc bị áp bức” do Bác Hồ cùng một số đồng chí Trung Quốc thành lập, khi ấy Bác mang tên gì?",
+    "answers": [
+      "Nguyễn Ái Quốc",
+      "Lý Thụy",
+      "Chen Vang",
+      "Lý An Sơn"
+    ]
+  },
+  {
+    "question": "Tên tiếng Anh của quần đảo Trường Sa là gì?",
+    "answers": [
+      "Itu Aba Island",
+      "Irving Reef Island",
+      "Spratly Islands",
+      "Paracel Islands"
+    ]
+  },
+  {
+    "question": "Câu nói “Dân nâng thuyền và dân có thể lật thuyền” là của ai?",
+    "answers": [
+      "Hồ Chí Minh",
+      "Huỳnh Thúc Kháng",
+      "Nguyễn Trãi",
+      "Nguyễn Bỉnh Khiêm"
+    ]
+  },
+  {
+    "question": "Quy luật nào là quy luật kinh tế tuyệt đối của chủ nghĩa tư bản?",
+    "answers": [
+      "Quy luật lợi nhuận độc quyền cao",
+      "Quy luật cung – cầu",
+      "Quy luật sản xuất giá trị thặng dư",
+      "Quy luật giá trị"
+    ]
+  },
+  {
+    "question": "Những tập đoàn người trong một phương thức sản xuất là các giai cấp khi họ:",
+    "answers": [
+      "Khác nhau về quan hệ đối với của cải xã hội.",
+      "Khác nhau về phương thức thu nhận của cải xã hội.",
+      "Khác nhau về sở hữu lượng của cải xã hội.",
+      "Khác nhau về quyền lực đối với của cải xã hội."
+    ]
+  },
+  {
+    "question": "Dấu hiệu để phân biệt khả năng với hiện thực là gì?",
+    "answers": [
+      "Sự nhận biết được hay không nhận biết được",
+      "Sự có mặt và không có mặt trên thực tế",
+      "Sự xác định hay không xác định",
+      "Sự cảm nhận hay không cảm nhận"
+    ]
+  },
+  {
+    "question": "Theo quan điểm của chủ nghĩa duy vật biện chứng, luận điểm nào sau đây là sai?",
+    "answers": [
+      "Thực tiễn không có lý luận là thực tiễn mù quáng.",
+      "Cả 3 đều đúng",
+      "Lý luận không có thực tiễn là lý luận suông.",
+      "Lý luận có thể phát triển không cần thực tiễn."
+    ]
+  },
+  {
+    "question": "Theo chủ nghĩa Mác – Lênin, nguồn gốc trực tiếp của sự phân hóa giai cấp trong xã hội là do đâu?",
+    "answers": [
+      "Do sự ra đời và tồn tại của chế độ chiếm hữu nô lệ",
+      "Do sự ra đời và tồn tại của chế độ chiếm hữu tư nhân về tư liệu sản xuất",
+      "Do sự ra đời và tồn tại của chế độ chiếm hữu tư bản về tư liệu sản xuất",
+      "Do sự ra đời và tồn tại của chế độ chiếm hữu tư bản về lực lượng sản xuất"
+    ]
+  },
+  {
+    "question": "Theo quan điểm duy vật biện chứng, trong nhận thức và thực tiễn cần:",
+    "answers": [
+      "Cả hai đáp án trên",
+      "Phát huy tính năng động chủ quan",
+      "Không có phương án đúng",
+      "Xuất phát từ thực tế khách quan"
+    ]
+  },
+  {
+    "question": "Trong Di chúc có đoạn văn Bác Hồ lặp lại 3 lần từ “nhất định”. Đây là phần Bác nói về vấn đề gì?",
+    "answers": [
+      "Về cuộc kháng chiến chống Mỹ",
+      "Về Đảng",
+      "Về quan hệ quốc tế",
+      "Về xây dựng lại đất nước"
+    ]
+  },
+  {
+    "question": "Trong tác phẩm “Sửa đổi lối làm việc” (10/1947) chủ tịch Hồ Chí Minh viết: “ Không phải ngày nào cũng ...... Nhưng thường thường ...... để giúp họ rút kinh nghiệm, sửa chữa khuyết điểm, phát triển ưu điểm. Giao công việc mà không......  , đến lúc thất bại mới chú ý đến. Thế là không biết yêu dấu cán bộ”. Hãy điền vào chỗ trống từ chính xác:",
+    "answers": [
+      "Chỉ đạo",
+      "Phê bình",
+      "Phân công",
+      "Kiểm tra"
+    ]
+  },
+  {
+    "question": "Tìm cụm từ thích hợp điền vào chỗ trống cho chính xác với câu nói của Chủ tịch Hồ Chí Minh: “Ai làm … đều là đồng chí của dân An Nam”",
+    "answers": [
+      "Cách mạng trong thế giới",
+      "Bạn với nhân dân lao động",
+      "Vì hòa bình",
+      "Điều hay trong thế giới."
+    ]
+  },
+  {
+    "question": "Về vai trò của con người mới trong sự nghiệp cách mạng, Chủ tịch Hồ Chí Minh khẳng định “Con người vừa là mục tiêu, vừa là ……….. của cách mạng.” Bạn hãy lựa chọn cụm từ thích hợp điền vào chỗ trống",
+    "answers": [
+      "nền tảng",
+      "người quyết định sự thắng lợi",
+      "lực lượng",
+      "động lực"
+    ]
+  },
+  {
+    "question": "Trong phong trào đấu tranh đô thị của sinh viên - học sinh miền Nam, lực lượng sinh viên - học sinh thường tổ chức những đêm không ngủ để tổ chức hội thảo, biểu diễn văn nghệ. Tên gọi của những đêm đó là gì?",
+    "answers": [
+      "Đêm cốt nhục.",
+      "Đêm đốt lửa căm thù.",
+      "Tất cả đều đúng.",
+      "Đêm hát cho đồng bào tôi nghe."
+    ]
+  },
+  {
+    "question": "Trong các phạm trù kinh tế dưới đây, phạm trù nào được coi là tín hiệu của cơ chế thị trường?",
+    "answers": [
+      "Sức mua của tiền",
+      "Thông tin thị trường",
+      "Cung - cầu hàng hoá",
+      "Giá cả thị trường"
+    ]
+  },
+  {
+    "question": "Tìm câu trả lời chính xác nhất cho câu hỏi dưới đây về cơ chế thị trường. Cơ chế thị trường là:",
+    "answers": [
+      "Cơ chế điều tiết nền kinh tế tự phát",
+      "Cơ chế thị trường do \"bàn tay vô hình\" chi phối.",
+      "Cơ chế điều tiết nền kinh tế theo các quy luật của kinh tế thị trường.",
+      "Cơ chế điều tiết nền kinh tế theo các quy luật kinh tế"
+    ]
+  },
+  {
+    "question": "Trong chiến dịch Hồ Chí Minh, Quân đoàn 2 Quân đội nhân dân Việt Nam có nhiệm vụ tấn công:",
+    "answers": [
+      "Hướng Tây Bắc",
+      "Hướng Bắc",
+      "Hướng Đông Bắc",
+      "Hướng Đông Nam"
+    ]
+  },
+  {
+    "question": "Láng Le - Bàu Cò một địa danh nổi tiếng trong 9 năm kháng chiến chống thực dân Pháp xâm lược (1945-1954) hiện nay thuộc huyện nào của Thành phố Hồ Chí Minh?",
+    "answers": [
+      "Hóc Môn",
+      "Củ Chi",
+      "Bình Chánh",
+      "Cần Giờ"
+    ]
+  },
+  {
+    "question": "Ai là người được C. Mác coi là sáng lập ra kinh tế chính trị tư sản cổ điển?",
+    "answers": [
+      "Quy-ly-am Pet-ty",
+      "Tô-mát Man-thớt",
+      "Đa-vít Ri-các-đô",
+      "A-đam Xờ-mít"
+    ]
+  },
+  {
+    "question": "Lý luận nào là viên đá tảng trong học thuyết kinh tế của Mác?",
+    "answers": [
+      "Lý luận về hai thuộc tính của hàng hoá",
+      "Lý luận hàng hoá sức lao động",
+      "Lý luận giá trị thặng dư",
+      "Lý luận về lưu thông của hàng hóa"
+    ]
+  },
+  {
+    "question": "Lời hiệu triệu “Nhìn thẳng vào sự thật, đánh giá đúng sự thật, nói rõ sự thật” được Tổng Bí thư Trường Chinh nêu ra tại Đại hội Đảng toàn quốc lần thứ mấy?",
+    "answers": [
+      "Lần thứ VI (15-18/12/1986)",
+      "Lần thứ VII (24-27/6/1991)",
+      "Lần thứ IV (14-20/12/1976)",
+      "Lần thứ V (27-31/3/1982)"
+    ]
+  },
+  {
+    "question": "Đại hội đại biểu toàn quốc lần thứ VI đã bầu ai làm Tổng Bí thư Đảng?",
+    "answers": [
+      "Đ/c Lê Duẩn",
+      "Đ/c Đỗ Mười",
+      "Đ/c Trường Chinh",
+      "Đ/c Nguyễn Văn Linh"
+    ]
+  },
+  {
+    "question": "Theo quan điểm chủ nghĩa duy vật biện chứng, nguồn gốc xã hội của ý thức là:",
+    "answers": [
+      "Lao động",
+      "Cả A,B,C đều sai.",
+      "Ngôn ngữ",
+      "Lao động và ngôn ngữ"
+    ]
+  }
+]

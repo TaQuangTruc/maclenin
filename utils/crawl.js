@@ -1,8 +1,8 @@
-const { writeQuestionsToFile } = require("../helper");
+const { writeQuestionsToFile } = require("./helper");
 const { delay, appendFile } = require("./helper");
 const fs = require("fs").promises;
 
-async function test(page, student, index) {
+async function crawl(page, student, index) {
   try {
     await page.goto("https://youth-vnuhcm.edu.vn/hoi-thi-olympic-mac-lenin/", {
       waitUntil: "networkidle0",
@@ -75,4 +75,4 @@ async function test(page, student, index) {
   }
 }
 
-module.exports = { test };
+module.exports = { crawl };

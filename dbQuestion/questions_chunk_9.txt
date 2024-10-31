@@ -1,0 +1,452 @@
+[
+  {
+    "question": "Nguyễn Ái Quốc đọc Sơ thảo lần thứ nhất Luận cương về vấn đề dân tộc và vấn đề thuộc địa của Lênin vào năm nào?",
+    "answers": [
+      "Tháng 11 năm 1920",
+      "Tháng 6 năm 1920",
+      "Tháng 10 năm 1920",
+      "Tháng 7 năm 1920"
+    ]
+  },
+  {
+    "question": "Bài nói tại Đại hội Sinh viên Việt Nam lần thứ hai” (5/1958), Hồ Chí Minh đã nói: “Nếu có đức mà không có tài ví như ông Bụt ________”. Hãy chọn đáp án đúng?",
+    "answers": [
+      "không làm hại gì, nhưng cũng không lợi gì cho loài người.",
+      "không làm hại ai, nhưng cũng không lợi gì cho loài người",
+      "chẳng làm gì có hại, nhưng cũng không lợi gì cho nhân dân.",
+      "chẳng làm hại gì, nhưng cũng không làm lợi gì cho nhân loại."
+    ]
+  },
+  {
+    "question": "Tiền tệ có mấy chức năng cơ bản?",
+    "answers": [
+      "7 chức năng",
+      "5 chức năng",
+      "4 chức năng",
+      "6 chức năng"
+    ]
+  },
+  {
+    "question": "Tiền tệ có mấy chức năng khi chưa có quan hệ kinh tế quốc tế",
+    "answers": [
+      "Hai chức năng",
+      "Năm chức năng",
+      "Ba chức năng",
+      "Bốn chức năng"
+    ]
+  },
+  {
+    "question": "Cho m’ =t’ / t (%). Trong đó: t là thời gian lao động tất yếu, t’ là thời gian lao động thặng dư. Công thức trên thể hiện cách tính:",
+    "answers": [
+      "Giá trị thặng dư tuyệt đối",
+      "Tỉ suất giá trị thặng dư",
+      "Tất cả đáp án trên đều sai",
+      "Khối lượng giá trị thặng dư"
+    ]
+  },
+  {
+    "question": "Một trong những điểm khác nhau giữa chiến dịch Hồ Chí Minh (1975) với chiến dịch Điện Biên Phủ (1954) ở Việt Nam là về:",
+    "answers": [
+      "Sự huy động cao nhất lực lượng",
+      "Mục tiêu tiến công",
+      "Kết cục quân sự",
+      "Quyết tâm giành thắng lợi"
+    ]
+  },
+  {
+    "question": "Trọng tâm của đường lối đổi mới mà Đại hội đại biểu toàn quốc lần thứ VI của Đảng đề ra là đổi mới về mặt nào?",
+    "answers": [
+      "Văn hóa - xã hội",
+      "Kinh tế - chính trị",
+      "Kinh tế",
+      "Chính trị"
+    ]
+  },
+  {
+    "question": "Điều kiện chủ quan có vai trò quyết định nhất trong cuộc cách mạng xã hội chủ nghĩa là gì?",
+    "answers": [
+      "Mâu thuẫn giữa giai cấp công nhân và giai cấp tư sản",
+      "Giai cấp công nhân liên minh được với giai cấp nông dân",
+      "Sự trưởng thành của giai cấp công nhân, đặc biệt là khi có đảng tiền phong lãnh đạo",
+      "Mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất"
+    ]
+  },
+  {
+    "question": "Quan điểm tiến bộ và cách mạng nhất của chủ nghĩa Mác -Lênin về vấn đề con người là?",
+    "answers": [
+      "Giải thích được nguồn gốc tự nhiên và xã hội của con người dưới ánh sáng khoa học",
+      "Giải thích được một cách khoa học nguồn gốc của ý thức của con người",
+      "Mô tả được quá trình hoạt động sống và lao động sản xuất của con người theo tinh thần của chủ nghĩa duy vật",
+      "Đưa ra được học thuyết cách mạng và triệt để về đấu tranh giải phóng con người"
+    ]
+  },
+  {
+    "question": "Đâu là nội dung nguyên lý của phép duy vật biện chứng về mối liên hệ phổ biến của các sự vật và hiện tượng?",
+    "answers": [
+      "Các sự vật và hiện tượng trong thế giới tồn tại tách rời nhau, giữa chúng không có phụ thuộc, sự ràng buộc lẫn nhau",
+      "Thế giới là một chỉnh thể bao gồm các sự vật, các quá trình tách biệt nhau, vừa có liên hệ qua lại, vừa thâm nhập và chuyển hoá lẫn nhau.",
+      "Các sự vật, hiện tượng có mối liên hệ với nhau nhưng không có sự chuyển hoá lẫn nhau",
+      "Sự vật khác nhau vẻ bề ngoài do con người quy định, chứ bản chất bên trong không có sự khác nhau"
+    ]
+  },
+  {
+    "question": "Vận động của tự nhiên và lịch sử chỉ là sự tha hoá từ sự tự vận động của ý niệm tuyệt đối. Quan niệm trên thuộc lập trường triết học nào?",
+    "answers": [
+      "Chủ nghĩa duy tâm chủ quan",
+      "Chủ nghĩa nhị nguyên triết học",
+      "Chủ nghĩa duy tâm khách quan",
+      "Chủ nghĩa duy vật"
+    ]
+  },
+  {
+    "question": "Định nghĩa về vận động được Ph. Ăngghen đưa ra trong tác phẩm nào?",
+    "answers": [
+      "Chống Đuy-rinh",
+      "Bút ký triết học",
+      "Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán",
+      "Biện chứng của tự nhiên"
+    ]
+  },
+  {
+    "question": "Khẳng định nào sau đây đúng về tri thức kinh nghiệm?",
+    "answers": [
+      "Rút ra từ những thí nghiệm khoa học",
+      "Đem lại sự hiểu biết đầy đủ về sự vật",
+      "Nảy sinh từ những quan sát hằng ngày trong cuộc sống và lao động",
+      "Nảy sinh một cách trực tiếp từ thực tiễn"
+    ]
+  },
+  {
+    "question": "Bản Di chúc đầu tiên mà Chủ tịch Hồ Chí Minh hoàn thành đã có sự chứng kiến và chữ ký của ai?",
+    "answers": [
+      "Đồng chí Lê Duẩn",
+      "Đồng chí Trường Chinh",
+      "Đồng chí Võ Nguyên Giáp",
+      "Đồng chí Đỗ Mười"
+    ]
+  },
+  {
+    "question": "Đây là bài viết cuối cùng mà Chủ tịch Hồ Chí Minh đã đăng trên báo Nhân dân ngày 01/6/1969 đã yêu cầu thế hệ trẻ điều gì?",
+    "answers": [
+      "“Nâng cao trách nhiệm chăm sóc và giáo dục thiếu niên, nhi đồng”",
+      "“Nâng cao trách nhiệm chăm sóc và giáo dục thanh niên, thiếu niên, nhi đồng”",
+      "“Nâng cao đạo đức cách mạng, quét sạch chủ nghĩa cá nhân”",
+      "“Nâng cao trách nhiệm giáo dục thanh niên và chăm sóc thiếu niên, nhi đồng”"
+    ]
+  },
+  {
+    "question": "Bộ luật đầu tiên của nước ta ra đời dưới triều đại nào?",
+    "answers": [
+      "Ngô",
+      "Trần",
+      "Đinh – Tiền Lê",
+      "Lý"
+    ]
+  },
+  {
+    "question": "Giờ Trái Đất (Earth Hour) lần đầu tiên được khởi xướng tại thành phố nào trên thế giới?",
+    "answers": [
+      "New York",
+      "Sydney",
+      "Paris",
+      "London"
+    ]
+  },
+  {
+    "question": "“Văn minh tân học sách” là gì?",
+    "answers": [
+      "Là tên một cuốn sách",
+      "Là tên một hoạt động của phong trào yêu nước",
+      "Là một tổ chức chính trị",
+      "Là một nhà xuất bản sách"
+    ]
+  },
+  {
+    "question": "Trong  bài “Xây dựng những con người của chủ nghĩa xã hội” (3/1961), Hồ Chí Minh viết: “Muốn xây dựng chủ nghĩa xã hội, trước hết phải có ...”. Hãy chọn đáp án đúng?",
+    "answers": [
+      "tinh thẩn của những con người xã hội chủ nghĩa",
+      "những con người xã hội chủ nghĩa",
+      "những con người chủ nghĩa xã hội",
+      "quyết tâm cao của những con người xã hội chủ nghĩa."
+    ]
+  },
+  {
+    "question": "“Ưu điểm của thanh niên ta là hăng hái, giàu tinh thần xung phong. Khuyết điểm là ham chuộng hình thức, thiếu thực tế, _____________. Rất mong toàn thể thanh niên ta ra sức phát triển những ưu điểm và tẩy sạch những khuyết điểm ấy. Huy hiệu của thanh niên ta là “tay cầm cờ đỏ sao vàng tiến lên”.",
+    "answers": [
+      "Thiếu lý luận, yếu tư tưởng",
+      "Bệnh cá nhân, bệnh anh hùng",
+      "Quen thói ý lại",
+      "Bệnh thành tích, bệnh đua đòi"
+    ]
+  },
+  {
+    "question": "Học thuyết nào là xuất phát điểm trong toàn bộ lý luận kinh tế của C. Mác?",
+    "answers": [
+      "Học thuyết giá trị thặng dư",
+      "Học thuyết giá trị trao đổi",
+      "Học thuyết Tư bản",
+      "Học thuyết giá trị"
+    ]
+  },
+  {
+    "question": "Sự ra đời của Đảng Cộng sản là sự kết hợp giữa chủ nghĩa Mác – Lênin với phong trào công nhân và phong trào yêu nước thường diễn ra ở:",
+    "answers": [
+      "Các nước phong kiến.",
+      "Các nước tư bản chủ nghĩa.",
+      "Các nước thuộc địa, nửa thuộc địa.",
+      "Các nước đang phát triển."
+    ]
+  },
+  {
+    "question": "Hình thức dân chủ với những quy chế, thiết chế để nhân dân bầu ra những người đại diện của mình quyết định các công việc chung của cộng đồng, của Nhà nước là:",
+    "answers": [
+      "Hình thức dân chủ xã hội chủ nghĩa",
+      "Hình thức dân chủ gián tiếp",
+      "Hình thức dân chủ trực tiếp",
+      "Hình thức dân chủ tập trung"
+    ]
+  },
+  {
+    "question": "V. I. Lênin đã đưa ra định nghĩa khoa học về phạm trù vật chất trong tác phẩm nào?",
+    "answers": [
+      "Tuyên ngôn của Đảng Cộng sản",
+      "Tư bản",
+      "Chủ nghĩa duy vật chiến đấu",
+      "Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán"
+    ]
+  },
+  {
+    "question": "Ai là tác giả câu nói: “Tất cả mọi khoa học cần thiết hơn triết học, nhưng không một khoa học nào tốt hơn nó”?",
+    "answers": [
+      "Pla-tông",
+      "Xô-crát",
+      "A-rít-tốt",
+      "C. Mác"
+    ]
+  },
+  {
+    "question": "Dinh Xã Tây được Pháp xây dựng vào cuối thế kỷ 20 hiện nay là cơ quan nào?",
+    "answers": [
+      "Bảo tàng thành phố Hồ Chí Minh",
+      "Dinh Thống Nhất",
+      "Nhà hát lớn thành phố Hồ Chí Minh",
+      "Trụ sở Ủy ban Nhân dân thành phố Hồ Chí Minh"
+    ]
+  },
+  {
+    "question": "“Có những phút làm nên lịch sử\nCó cái chết hóa thành bất tử\nCó những lời hơn mọi lời ca\nCó con người như chân lý sinh ra”\nNhà thơ Tố Hữu đã viết những dòng thơ trên để ca ngợi sự hy sinh anh hùng của ai?",
+    "answers": [
+      "Nguyễn Thái Bình",
+      "Lý Tự Trọng",
+      "Lê Văn Tám",
+      "Nguyễn Văn Trỗi"
+    ]
+  },
+  {
+    "question": "Chủ tịch đầu tiên của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam là ai?",
+    "answers": [
+      "Đồng chí Phạm Văn Đồng",
+      "Đồng chí Tôn Đức Thắng",
+      "Đồng Chí Trường Chinh",
+      "Đồng chí Hồ Chí Minh"
+    ]
+  },
+  {
+    "question": "Theo C. Mác giá trị thặng dư là:",
+    "answers": [
+      "Phần giá trị dôi ra ngoài giá trị sức lao động, là lao động không công của công nhân.",
+      "Phần giá trị dôi ra ngoài giá trị hàng hóa, là lao động không công của công nhân.",
+      "Phần giá trị dôi ra ngoài lao động, là lao động không công của công nhân.",
+      "Phần giá trị dôi ra ngoài giá trị sử dụng sức lao động, là lao động không công của công nhân."
+    ]
+  },
+  {
+    "question": "Khi đồng thời tăng năng suất lao động và cường độ lao động lên 2 lần thì ý nào dưới đây là đúng?",
+    "answers": [
+      "Tổng số hàng hóa tăng lên 4 lần, tổng số giá trị hàng hóa tăng lên 4 lần",
+      "Tổng số hàng hóa tăng lên 2 lần, giá trị 1 hàng hoá giảm 2 lần",
+      "Giá trị 1 hàng hoá giảm 2 lần, tổng số giá trị hàng hóa tăng 2 lần",
+      "Tổng số giá trị hàng hóa tăng 2 lần, tổng số hàng hóa tăng 2 lần"
+    ]
+  },
+  {
+    "question": "Điều kiện thuận lợi để cuối năm 1974 đầu năm 1975 Bộ Chính trị Trung ương Đảng Lao động Việt Nam đề ra chủ trương, kế hoạch giải phóng hoàn toàn miền Nam là:",
+    "answers": [
+      "Mỹ không còn viện trợ kinh tế, quân sự cho chính quyền Sài Gòn",
+      "Miền Bắc đã hoàn thành cuộc cách mạng xã hội chủ nghĩa",
+      "So sánh lực lượng ở miền Nam có lợi cho cách mạng",
+      "Mỹ rút toàn bộ lực lượng ra khỏi lãnh thổ Việt Nam"
+    ]
+  },
+  {
+    "question": "Nếu xét theo cấp độ của sự phản ánh thì kết cấu của ý thức xã hội bao gồm các yếu tố nào?",
+    "answers": [
+      "Ý thức xã hội thông thường và ý thức xã hội lý luận",
+      "Ý thức chính trị, ý thức pháp quyền, ý thức đạo đức, ý thức khoa học, ý thức triết học, ý thức nghệ thuật, ý thức tôn giáo",
+      "Tâm lý xã hội và hệ tư tưởng",
+      "Ý thức nhân dân và ý thức Nhà nước"
+    ]
+  },
+  {
+    "question": "Cách viết nào sau đây là đúng:",
+    "answers": [
+      "Hình thái kinh tế - xã hội",
+      "Hình thái kinh tế, xã hội",
+      "Hình thái kinh tế của xã hội",
+      "Hình thái xã hội"
+    ]
+  },
+  {
+    "question": "Theo quan điểm của chủ nghĩa Mác – Lênin, lịch sử trước hết và căn bản là lịch sử hoạt động trên tất cả các lĩnh vực của:",
+    "answers": [
+      "Chính đảng",
+      "Quần chúng nhân dân",
+      "Vĩ nhân, lãnh tụ",
+      "Nhà nước"
+    ]
+  },
+  {
+    "question": "Phép biện chứng duy tâm cổ điển Đức được khởi đầu từ nhà Triết học nào?",
+    "answers": [
+      "G.W.F.Hegel",
+      "F.Schelling",
+      "L.Feuerbach",
+      "I.Kant"
+    ]
+  },
+  {
+    "question": "Khi nói về công cuộc xây dựng chủ nghĩa xã hội ở nước ta, Chủ tịch Hồ Chí Minh chỉ rõ: “Đây là một cuộc chiến đấu chống lại những gì đã cũ kỹ, hư hỏng, để tạo ra những cái mới mẻ, tốt tươi. Để giành lấy thắng lợi trong cuộc chiến đấu khổng lồ này cần phải động viên toàn dân, tổ chức và giáo dục toàn dân, dựa vào lực lượng vĩ đại của toàn dân”. Câu trên được trích từ tác phẩm nào của Chủ tịch Hồ Chí Minh?",
+    "answers": [
+      "Di Chúc",
+      "Sửa đổi lối làm việc",
+      "Đường cách mệnh",
+      "Nâng cao đạo đức cách mạng, quét sạch chủ nghĩa cá nhân"
+    ]
+  },
+  {
+    "question": "Theo Hồ Chí Minh, “Đạo đức cách mạng” của ngời đảng viên , cán bộ được đề cập đến trong tác phẩm “Sửa đổi lối làm việc “ bằng những từ nào?",
+    "answers": [
+      "Nhân, Nghĩa, Lễ, Trí, Tín",
+      "Nhân, Nghĩa, Trí, Dũng , Liêm",
+      "Trí Đức, Dũng, Tín, Liêm",
+      "Nhân, Nghĩa, Liêm, Trí, Tín"
+    ]
+  },
+  {
+    "question": "Đảo có tổng diện tích khoảng 590 km², đơn vị hành chính gồm 2 thị trấn, 8 xã, được UNESCO công nhận là khu dự trữ sinh quyển thế giới.",
+    "answers": [
+      "Côn Đảo (Bà Rịa - Vũng Tàu)",
+      "Đảo Phú Quốc (Kiên Giang)",
+      "Đảo Phú Quý (Bình Thuận)",
+      "Đảo Lý Sơn (Quảng Ngãi)"
+    ]
+  },
+  {
+    "question": "Trong nhiệm vụ xây dựng chính quyền hiệu lực, hiệu quả, Nghị quyết Đại hội Đảng bộ Thành phố lần thứ X đã xác định tiếp tục thực hiện chủ trương nào theo hướng tinh, gọn, chuyên nghiệp sát hợp với đặc điểm, tính chất của một đô thị đặc biệt?",
+    "answers": [
+      "Tinh giản biên chế",
+      "Cải cách hành chính",
+      "Giải quyết những vấn đề bức xúc của nhân dân",
+      "Quản lý"
+    ]
+  },
+  {
+    "question": "Theo luật viên chức, nguyên tắc trong hoạt động nghề nghiệp của viên chức là:",
+    "answers": [
+      "Tận tụy phục vụ nhân dân.",
+      "Tuân thủ pháp luật, chịu trách nhiệm trước pháp luật trong quá trình thực hiện hoạt động nghề nghiệp",
+      "Bảo đảm quyền chủ động và đề cao trách nhiệm của người đứng đầu đơn vị sự nghiệp công lập",
+      "Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam và sự thống nhất quản lý của nhà nước"
+    ]
+  },
+  {
+    "question": "Đò xuôi Thạch Hãn xin chèo nhẹ. Đáy sông còn đó bạn tôi nằm. Có tuổi hai mươi thành sóng nước. Vỗ yên bờ bãi mãi ngàn năm”. Hãy cho biết sông Thạch Hãn thuộc địa phương nào?",
+    "answers": [
+      "Quảng Bình",
+      "Quảng Trị",
+      "Thanh Hóa",
+      "Hà Tĩnh"
+    ]
+  },
+  {
+    "question": "Biểu hiện của quy luật giá trị trong các giai đoạn phát triển của chủ nghĩa tư bản là:",
+    "answers": [
+      "Không câu nào đúng",
+      "Quy luật giá cả sản xuất và giá cả độc quyền.",
+      "Quy luật giá cả thị trường và giá cả độc quyền",
+      "Quy luật lợi nhuận bình quân và lợi nhuận độc quyền."
+    ]
+  },
+  {
+    "question": "Mỗi lao động cụ thể đều có:",
+    "answers": [
+      "Mục đích, đối thủ, đối tượng, phương pháp và kết quả riêng",
+      "Mục đích, sản phẩm và kết quả riêng",
+      "Mục đích, đối tượng, phương tiện, phương pháp và kết quả riêng",
+      "Mục đích, đối tượng, công cụ, phương pháp và kết quả riêng"
+    ]
+  },
+  {
+    "question": "Trong tác phẩm Bút ký triết học, V.I. Lênin có ví mối quan hệ giữa cặp phạm trù nào với sự vận động của một con sông – bọt ở bên trên và luồng nước sâu ở dưới.",
+    "answers": [
+      "Nội dung và hình thức",
+      "Tất yếu và ngẫu nhiên",
+      "Hiện thực và bản chất",
+      "Khả năng và hiện thực"
+    ]
+  },
+  {
+    "question": "Khả năng giành chính quyền bằng phương pháp hòa bình của cách mạng Xã hội Chủ nghĩa, được C. Mác nghiên cứu từ thực tiễn lịch sử:",
+    "answers": [
+      "Nước Pháp năm 1789.",
+      "Nước Anh vào những năm 70 thế kỷ XIX.",
+      "Châu Âu năm 1848.",
+      "Nước Đức trong chiến tranh Pháp, Phổ."
+    ]
+  },
+  {
+    "question": "Các phạm trù được hình thành thông qua quá trình…những thuộc tính, những mối liên hệ vốn có bên trong của bản thân sự vật.",
+    "answers": [
+      "Khái quát và chứng minh",
+      "Chứng minh",
+      "Liệt kê và phân tích",
+      "Khái quát hóa, trừu tượng hóa"
+    ]
+  },
+  {
+    "question": "Tại Đại hội lần thứ nhất vào năm 1921 của Đảng Cộng sản Pháp, Nguyễn Ái Quốc đã đọc tham luận mang tên gì ?",
+    "answers": [
+      "Dự án Nghị quyết về chủ nghĩa cộng sản và các thuộc địa",
+      "Lời kêu gọi những người bản xứ ở các thuộc địa",
+      "Cả A, B và C",
+      "Bản án chế độ Thực dân Pháp"
+    ]
+  },
+  {
+    "question": "“Dao có mài, mới sắc.\nVàng có thui, mới trong.\nNước có lọc, mới sạch.\nNgười có …, mới tiến bộ”\nĐiền cụm từ còn thiếu trong bốn câu thơ trên của Hồ Chí Minh",
+    "answers": [
+      "Cần, Kiệm, Liêm, Chính",
+      "Tự phê bình",
+      "Yêu lao động",
+      "Đạo đức"
+    ]
+  },
+  {
+    "question": "Chủ tịch Hồ Chí Minh đã từng nói rằng: “Đảng là đạo đức, Đảng là……….” Hãy điền từ còn thiếu vào chỗ trống.",
+    "answers": [
+      "Của dân, do dân, vì dân",
+      "Đoàn kết",
+      "Văn minh",
+      "Trên hết"
+    ]
+  },
+  {
+    "question": "Ngày 16/5/1967, một nữ sinh Sài Gòn-Gia Định đã tự thiêu để phản đối cuộc chiến tranh xâm lược của Mỹ tại Việt Nam. Tên của chị là gì?",
+    "answers": [
+      "Nguyễn Thị Vân",
+      "Đào Phi Yến",
+      "Đặng Thị Ngọc Tuyền",
+      "Nhất Chi Mai"
+    ]
+  }
+]

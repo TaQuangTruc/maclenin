@@ -1,0 +1,452 @@
+[
+  {
+    "question": "Cho đoạn thơ sau:\n“Xuân này hơn hẳn mấy xuân qua,\nThắng trận tin vui khắp nước nhà,\nNam Bắc thi đua đánh giặc Mỹ,\nTiến lên! Toàn thắng ắt về ta!”\nBạn hãy cho biết đây là bài thơ Chúc Tết của Chủ tịch Hồ Chí Minh vào năm nào?",
+    "answers": [
+      "Tết Đinh Mùi (1967)",
+      "Tết Bính Ngọ (1966)",
+      "Tết Mậu Thân (1968)",
+      "Tết Kỷ Dậu (1969)"
+    ]
+  },
+  {
+    "question": "Việc vận dụng sáng tạo chủ nghĩa Mác-Lênin vào thực tiễn cách mạng Việt Nam của chủ tich Hồ Chí Minh trong giai đoạn 1930-1945 được thể hiện qua luận điểm nào?",
+    "answers": [
+      "Xác định rõ mối quan hệ giữa hai nhiệm vụ giải phóng dân tộc và giải phóng giai cấp",
+      "Đảng Cộng Sản Đông Dương luôn giữ vai trò lãnh đạo cách mạng",
+      "Luôn đặt nhiệm vụ giải phóng dân tộc lên hàng đầu",
+      "Giai cấp công nhân là lực lượng lãnh đạo cách mạng Việt Nam"
+    ]
+  },
+  {
+    "question": "Câu nói “Tùy vào hoàn cảnh mà các dân tộc phát triển theo con đường khác nhau. Có nước thì đi thẳng lên chủ nghĩa xã hội (cộng sản). Có nước thì phải kinh qua chế độ dân chủ mới, rồi tiến lên chủ nghĩa xã hội (cộng sản)” là của ai?",
+    "answers": [
+      "Ph. Ăng – ghen",
+      "V.I Lê – nin",
+      "Hồ Chí Minh",
+      "Các – Mác"
+    ]
+  },
+  {
+    "question": "Trong Di chúc, Bác Hồ căn dặn “Việc cần làm trước tiên” khi đất nước độc lập thống nhất là gì?",
+    "answers": [
+      "Chỉnh đốn lại Đảng",
+      "Công nghiệp hóa, hiện đại hóa",
+      "Phát triển văn hóa, giáo dục",
+      "Khôi phục kinh tế, hàn gắn vết thương chiến tranh"
+    ]
+  },
+  {
+    "question": "Đàn Talư là của dân tộc nào của Việt Nam?",
+    "answers": [
+      "H’mông",
+      "Thái",
+      "Raglai",
+      "Vân Kiều"
+    ]
+  },
+  {
+    "question": "Nhân vật nào sau đây là một trong những thủ lĩnh của phong trào Thanh niên Tiền phong?",
+    "answers": [
+      "Trần Bạch Đằng",
+      "Trần Văn Giàu",
+      "Phạm Ngọc Thạch",
+      "Nguyễn Văn Trỗi"
+    ]
+  },
+  {
+    "question": "Bản hiến pháp đầu tiên của nước ta được thông qua năm nào?",
+    "answers": [
+      "1959",
+      "1980",
+      "1945",
+      "1946"
+    ]
+  },
+  {
+    "question": "Lá cờ đỏ sao vàng lần đầu tiên xuất hiện trong các cuộc khởi nghĩa nào?",
+    "answers": [
+      "Binh biến Đô Lương",
+      "Khởi nghĩa Bắc Sơn",
+      "Khởi nghĩa Ba Tơ",
+      "Khởi nghĩa Nam Kỳ"
+    ]
+  },
+  {
+    "question": "Theo Luật giao thông đường bộ năm 2008, trên đường giao thông, khi hiệu lệnh của người điều khiển giao thông trái với hiệu lệnh của đèn hoặc biển báo thì người tham gia giao thông phải chấp hành theo hiệu lệnh nào?",
+    "answers": [
+      "Hiệu lệnh của biển báo hiệu đường bộ",
+      "Hiệu lệnh của người điều khiển giao thông",
+      "Câu b và c đúng.",
+      "Hiệu lệnh của đèn điều khiển giao thông"
+    ]
+  },
+  {
+    "question": "Huyện đảo nào nằm ở cực Đông nước ta có vườn quốc gia?",
+    "answers": [
+      "Cô Tô (Quảng Ninh)",
+      "Côn Đảo (Bà Rịa - Vũng Tàu)",
+      "Phú Quý (Bình Thuận)",
+      "Bạch Long Vỹ (Hải Phòng)"
+    ]
+  },
+  {
+    "question": "Hà Nội được xác định là thủ đô của nước Việt Nam Dân chủ Cộng hoà vào năm nào?",
+    "answers": [
+      "Năm 1954",
+      "Năm 1945",
+      "Năm 1930",
+      "Năm 1946"
+    ]
+  },
+  {
+    "question": "Hải đăng nào được xây dựng sớm nhất ở Việt Nam?",
+    "answers": [
+      "Kê Gà (Bình Thuận)",
+      "Đại Lãnh (Phú Yên)",
+      "Hòn Khoai (Cà Mau)",
+      "Vũng Tàu (Bà Rịa - Vũng Tàu)"
+    ]
+  },
+  {
+    "question": "Câu nói “Hiền tài là nguyên khí quốc gia, nguyên khí có mạnh thì nước mới thịnh”, câu nói đó của ai ?",
+    "answers": [
+      "Lê Thái Tổ",
+      "Lê Thánh Tông",
+      "Lệ Nhân Tông",
+      "Thân Nhân Trung"
+    ]
+  },
+  {
+    "question": "Ngày “Chuyển đổi số quốc gia” tại Việt Nam là ngày nào?",
+    "answers": [
+      "Ngày 10/10/2024",
+      "Ngày 08/8/2024",
+      "Ngày 06/6/2024",
+      "Ngày 12/12/2024"
+    ]
+  },
+  {
+    "question": "Theo Nghị định số 16/CP của Chính phủ, Đại học Quốc gia Thành phố Hồ Chí Minh được thành lập vào thời gian nào?",
+    "answers": [
+      "Ngày 27/01/1995",
+      "Ngày 27/12/1996",
+      "Ngày 27/7/1996",
+      "34Ngày 27/6/1995877"
+    ]
+  },
+  {
+    "question": "Theo bảng xếp hạng các đại học trên thế giới của Tổ chức giáo dục Quacquarelli Symonds, Anh quốc  (QS World University Rankings), Đại học Quốc gia Thành phố Hồ Chí Minh đạt thứ hạng bao nhiêu trong 2 đợt công bố gần đây?",
+    "answers": [
+      "QS World 2024: 901-950; QS World 2025: 901-950",
+      "QS World 2024: 901-950; QS World 2025: 951-1.000",
+      "QS World 2024: 951-1.000; QS World 2025: 901-950",
+      "QS World 2024: 951-1.000; QS World 2025: 951-1.000"
+    ]
+  },
+  {
+    "question": "Trong Chiến lược phát triển giai đoạn 2021-2030, tầm nhìn 2045, Đại học Quốc gia Thành phố Hồ Chí Minh xác định “giá trị cốt lõi” gồm những nội dung nào?",
+    "answers": [
+      "Tiên phong, chính trực trong đào tạo, nghiên cứu; Trách nhiệm, hiệu quả trong hoạt động; Gắn kết, phục vụ cộng đồng",
+      "Xuất sắc, tiên phong, chính trực trong đào tạo, nghiên cứu; Trách nhiệm, hiệu quả trong hoạt động; Gắn kết, xung kích phục vụ cộng đồng",
+      "Xuất sắc, tiên phong, chính trực trong đào tạo, nghiên cứu; Trách nhiệm, hiệu quả trong hoạt động; Gắn kết, phục vụ cộng đồng",
+      "Tiên phong, chính trực, dấn thân trong đào tạo, nghiên cứu; Trách nhiệm, nhiệt huyết trong hoạt động; Gắn kết, xung kích phục vụ cộng đồng"
+    ]
+  },
+  {
+    "question": "Tăng năng suất lao động và tăng cường độ lao động có điểm giống nhau là đều làm cho:",
+    "answers": [
+      "Giá cả sản phẩm tăng lên trong cùng một đơn vị thời gian.",
+      "Chất lượng sản phẩm tăng lên trong cùng một thời gian lao động.",
+      "Số lượng sản phẩm giảm đi trong cùng một thời gian lao động.",
+      "Số lượng sản phẩm tăng lên trong cùng một thời gian lao động"
+    ]
+  },
+  {
+    "question": "“Sợi dây xuyên suốt toàn bộ lịch sử nhân loại” theo C Mác là gì?",
+    "answers": [
+      "Đấu tranh giai cấp",
+      "Lực lượng sản xuất",
+      "Quan hệ sản xuất",
+      "Phương thức sản xuất"
+    ]
+  },
+  {
+    "question": "Chất của giá trị hàng hoá là:",
+    "answers": [
+      "Lao động cụ thể của người sản xuất hàng hoá kết tinh trong hàng hoá",
+      "Sự hao phí sức lao động của con người.",
+      "Lao động trừu tượng của người sản xuất hàng hóa kết tinh trong hàng hoá.",
+      "Công dụng của hàng hoá."
+    ]
+  },
+  {
+    "question": "Trung ương Cục miền Nam được Ban Chấp hành Trung ương Đảng quyết định thành lập tại đâu?",
+    "answers": [
+      "Trong chỉ thị “Về phương hướng và nhiệm vụ công tác trước mắt của cách mạng miền Nam” của Bộ Chính trị 2/1961",
+      "Hội nghị Ban Chấp hành trung ương Đảng lần thứ XV (1/1959)",
+      "Trong nghị quyết “Về nhiệm vụ 5 năm”",
+      "Hội nghị Ban Chấp hành Trung ương Đảng đối với lực lượng vũ trang, ngày 23/1/1961"
+    ]
+  },
+  {
+    "question": "Hội nghị Ban Chấp hành Trung ương Đảng lần thứ hai tại Sài Gòn từ ngày 20 đến 26/3/1931, đã dành những ngày cuối cùng để bàn về công tác thanh niên, thống nhất đề ra quyết định \"cần kíp tổ chức ra Cộng sản thanh niên Đoàn\". Từ sự kiện đó, ngày 26/3/1931 được chọn là Ngày Thành lập Đoàn TNCS Hồ Chí Minh tại Đại hội nào của Đoàn?",
+    "answers": [
+      "Đại hội đại biểu toàn quốc lần thứ II (1956)",
+      "Đại hội đại biểu toàn quốc lần thứ I (1950)",
+      "Đại biểu toàn quốc lần thứ III (1961)",
+      "Đại biểu toàn quốc lần thứ IV (1980)"
+    ]
+  },
+  {
+    "question": "Khi bàn về vai trò của triết học trong đời sống, C.Mác đã có một phát biểu một luận điểm rất sâu sắc, cho thấy sự khác biệt về chất giữa triết học của ông với các trào lưu triết học trước đó, nguyên văn của phát biểu đó là gì?",
+    "answers": [
+      "Phương pháp biện chứng của tôi không những khác phương pháp của Hê-ghen về cơ bản mà còn đối lập hẳn với phương pháp ấy nữa",
+      "Tôn giáo là thuốc phiện của nhân dân",
+      "Bản chất của con người là tổng hòa những mối quan hệ xã hội",
+      "Các nhà triết học đã chỉ giải thích thế giới bằng nhiều cách khác nhau, song vấn đề là cải tạo thế giới"
+    ]
+  },
+  {
+    "question": "Chọn luận điểm thể hiện lập trường triết học duy tâm lịch sử.",
+    "answers": [
+      "Kiến trúc thượng tầng chỉ đóng vai trò thụ động trong lịch sử",
+      "Quan hệ sản xuất mang tính chất vật chất",
+      "Yếu tố kinh tế quyết định lịch sử",
+      "Sự vận động, phát triển của xã hội, suy cho đến cùng là do tư tưởng của con người quyết định"
+    ]
+  },
+  {
+    "question": "Hình thái lịch sử đầu tiên của chủ nghĩa duy vật là gì?",
+    "answers": [
+      "Chủ nghĩa duy vật thời cổ đại",
+      "Chủ nghĩa duy vật máy móc",
+      "Chủ nghĩa duy vật biện chứng",
+      "Chủ nghĩa duy vật chất phác thời cổ đại"
+    ]
+  },
+  {
+    "question": "Chất của sự vật được tạo nên từ?",
+    "answers": [
+      "Nhiều thuộc tính",
+      "Một thuộc tính",
+      "Chỉ từ thuộc tính cơ bản",
+      "Thuộc tính cơ bản và không cơ bản"
+    ]
+  },
+  {
+    "question": "Lập trường triết học nào cho rằng mâu thuẫn tồn tại là do tư duy, ý thức của con người quyết định?",
+    "answers": [
+      "Chủ nghĩa duy tâm khách quan",
+      "Chủ nghĩa duy tâm chủ quan",
+      "Chủ nghĩa duy vật siêu hình",
+      "Chủ nghĩa duy vật biện chứng"
+    ]
+  },
+  {
+    "question": "Cuộc cách mạng xã hội chủ nghĩa hoàn thành sứ mệnh khi?",
+    "answers": [
+      "Xóa bỏ chính quyền của giai cấp tư sản",
+      "Xây dựng được nhà nước của giai cấp công nhân và nhân dân lao động",
+      "Xã hội không còn giai cấp, không còn nhà nước",
+      "Xóa bỏ được giai cấp bóc lột"
+    ]
+  },
+  {
+    "question": "Luận điểm: “Phải giữ gìn Đảng ta thật trong sạch, phải xứng đáng là người lãnh đạo, người đầy tớ thật trung thành của nhân dân” được trích từ tác phẩm nào của chủ tịch Hồ Chí Minh”",
+    "answers": [
+      "Thường thức chính trị",
+      "Di chúc",
+      "Sửa đổi lối làm việc",
+      "Nâng cao đạo đức cách mạng, quét sạch chủ nghĩa cá nhân"
+    ]
+  },
+  {
+    "question": "Trong lần đầu tiên công bố di chúc Chủ tịch Hồ Chí Minh, Bộ Chính trị đã công bố bản di chúc nào?",
+    "answers": [
+      "Bản công bố chính thức chủ yếu dựa vào bản 1965, trong đó đoạn mở đầu lấy nguyên văn bản 1968. Phần giữa, từ đoạn nói về Đảng đến hết đoạn nói về phong trào cộng sản thế giới giữ nguyên văn bản 1969",
+      "Bản công bố chính thức là bản Di chúc Bác viết năm 1969.",
+      "Bản công bố chính thức là bản Di chúc Bác viết năm 1968",
+      "Bản công bố chính thức chủ yếu dựa vào bản 1965, trong đó đoạn mở đầu lấy nguyên văn bản 1969. Phần giữa, từ đoạn nói về Đảng đến hết đoạn nói về phong trào cộng sản thế giới giữ nguyên văn bản 1965"
+    ]
+  },
+  {
+    "question": "Dài dòng, rỗng tuếch; khô khan, lúng túng; báo cáo lông bông; lụp chụp cẩu thả, theo Bác Hồ đó là những biểu hiện của căn bệnh nào?",
+    "answers": [
+      "Bệnh hám danh",
+      "Bệnh ba hoa",
+      "Bệnh nguỵ biện",
+      "Bệnh lý luận"
+    ]
+  },
+  {
+    "question": "Năm 1941, Bác Hồ trở về Tổ quốc sau nhiều năm bôn ba tìm đường cứu nước. Khi đó, Bác đã lấy bí danh gì?",
+    "answers": [
+      "Văn Ba",
+      "Nguyễn Ái Quốc",
+      "Già Thu",
+      "Hồ Chí Minh"
+    ]
+  },
+  {
+    "question": "Chủ tịch Hồ Chí Minh ra “Lời kêu gọi thi đua ái quốc” vào ngày, tháng, năm nào?",
+    "answers": [
+      "Ngày 11/6/1948",
+      "Ngày 11/6/1947",
+      "Ngày 20/5/1948",
+      "Ngày 12/6/1948"
+    ]
+  },
+  {
+    "question": "Chiến dịch ném bom miền Bắc Việt Nam của quân đội Mỹ trong 12 ngày đêm diễn ra vào thời gian nào?",
+    "answers": [
+      "Từ ngày 10 đến 22/12/1972",
+      "Từ ngày 12 đến 22/12/1972",
+      "Từ ngày 18 đến 30/12/ 1972",
+      "Từ ngày 15 đến 27/12/ 1972"
+    ]
+  },
+  {
+    "question": "Chiến dịch Ánh sáng văn hóa hè – tiền thân của chiến dịch tình nguyện Mùa hè xanh – là chiến dịch tình nguyện khởi phát từ Thành phố Hồ Chí Minh bắt đầu từ năm nào?",
+    "answers": [
+      "1997",
+      "1994",
+      "1995",
+      "1996"
+    ]
+  },
+  {
+    "question": "Đại lộ Đông Tây được chính thức đặt tên là Đại lộ Võ Văn Kiệt từ ngày tháng năm nào?",
+    "answers": [
+      "Ngày 25/4/2011",
+      "Ngày 29/4/2010",
+      "Ngày 25/4/2010",
+      "Ngày 29/4/2011"
+    ]
+  },
+  {
+    "question": "Di sản thế giới tại Việt Nam đã được UNESCO công nhận bao gồm bao nhiêu loại hình?",
+    "answers": [
+      "5 loại hình",
+      "4 loại hình",
+      "3 loại hình",
+      "2 loại hình"
+    ]
+  },
+  {
+    "question": "Người chỉ huy cuộc chiến đấu tại đại đồn Chí Hòa, Gia Định chống thực dân Pháp xâm lược năm 1861 là ai?",
+    "answers": [
+      "Nguyễn Tri Phương",
+      "Trương Định.",
+      "Tôn Thất Cát",
+      "Võ Duy Ninh."
+    ]
+  },
+  {
+    "question": "Điểm nổ ra khởi nghĩa giành chính quyền sau cùng trên phạm vi cả nước trong tổng khởi nghĩa tháng 8/1945 ở đâu?",
+    "answers": [
+      "Hà Tiên",
+      "Sóc Trăng",
+      "Rạch Giá",
+      "Châu Đốc"
+    ]
+  },
+  {
+    "question": "Vùng biển nước ta gồm 5 bộ phận, theo thứ tự từ bờ biển ra xa là:",
+    "answers": [
+      "Nội thủy, vùng tiếp giáp lãnh hải, lãnh hải, thềm lục địa, vùng đặc quyền kinh tế",
+      "Nội thủy, lãnh hải, vùng tiếp giáp lãnh hải, thềm lục địa, vùng đặc quyền kinh tế",
+      "Nội thủy, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế, thềm lục địa",
+      "Nội thủy, vùng tiếp giáp lãnh hải, lãnh hải, vùng đặc quyền kinh tế, thềm lục địa"
+    ]
+  },
+  {
+    "question": "Tỉnh nào có đường biên giới với nước bạn Lào dài nhất nước ta?",
+    "answers": [
+      "Hà Tĩnh",
+      "Quảng Bình",
+      "Thanh Hóa",
+      "Nghệ An"
+    ]
+  },
+  {
+    "question": "Đường Hồ Chí Minh trên biển được thành lập vào thời gian nào?",
+    "answers": [
+      "Ngày 09/11/1960",
+      "Ngày 20/12/1963",
+      "Ngày 20/11/1962",
+      "Ngày 23/10/1961"
+    ]
+  },
+  {
+    "question": "Ai là người Việt Nam đầu tiên được trao giải Nobel Hòa bình nhưng đã từ chối với lý do hòa bình chưa thực sự lập lại trên đất nước Việt Nam vào năm 1973?",
+    "answers": [
+      "Lê Duẩn",
+      "Lê Đức Thọ",
+      "Võ Văn Kiệt",
+      "Lê Văn Lương"
+    ]
+  },
+  {
+    "question": "Lượng giá trị xã hội của hàng hóa được quyết định bởi điều gì?",
+    "answers": [
+      "Hao phí vật tư kỹ thuật",
+      "Hao phí lao động cần thiết của người sản xuất hàng hoá",
+      "Hao phí lao động sống của người sản xuất hàng hoá",
+      "Thời gian lao động xã hội cần thiết"
+    ]
+  },
+  {
+    "question": "Giá trị cá biệt của những hàng hóa được sản xuất ra trong những điều kiện bình thường của ngành đó và những hàng hóa này tạo thành khối lượng sản phẩm đáng kể do ngành đó sản xuất gọi là gì?",
+    "answers": [
+      "Giá trị cá biệt",
+      "Giá trị xã hội",
+      "Giá trị lao động",
+      "Giá trị thặng dư"
+    ]
+  },
+  {
+    "question": "Tư liệu sản xuất bao gồm:",
+    "answers": [
+      "Công cụ lao động và tư liệu lao động",
+      "Đối tượng lao động và tư liệu lao động.",
+      "Con người lao động, công cụ lao động và đối tượng lao động.",
+      "Con người và công cụ lao động."
+    ]
+  },
+  {
+    "question": "Tổ chức Cộng sản nào ra đời đầu tiên ở Việt Nam?",
+    "answers": [
+      "Đông Dương cộng sản Đảng",
+      "An Nam cộng sản Đảng",
+      "Đông Dương cộng sản liên đoàn",
+      "Hội Việt Nam cách mạng thanh niên"
+    ]
+  },
+  {
+    "question": "Đảng Cộng Sản Việt Nam được ra đời tại đâu?",
+    "answers": [
+      "Hương Cảng – Cửu Long – Trung Quốc",
+      "Cửu Long – Hương Cảng – Trung Quốc",
+      "Ma Cao  - Trung Quốc",
+      "Khu cách mạng Việt Bắc"
+    ]
+  },
+  {
+    "question": "Tại Đại hội đại biểu toàn quốc lần thứ II, Đảng ta quyết định đổi tên thành:",
+    "answers": [
+      "Đảng Cộng sản Đông Dương",
+      "Hội nghiên cứu Chủ nghĩa Mác",
+      "Đảng Cộng sản Việt Nam",
+      "Đảng Lao động Việt Nam"
+    ]
+  },
+  {
+    "question": "Tư tưởng quá độ bỏ qua chế độ Tư bản Chủ nghĩa lên Chủ nghĩa Xã hội lần đầu tiên thể hiện trong văn kiện nào của Đảng Cộng sản Việt Nam?",
+    "answers": [
+      "Năm 1951 trong văn kiện Đại hội II",
+      "Năm 1930 trong cương lĩnh do đồng chí Trần Phú soạn thảo",
+      "Năm 1960 trong văn kiện Đại hội III",
+      "Năm 1976 trong văn kiện Đại hội IV"
+    ]
+  }
+]

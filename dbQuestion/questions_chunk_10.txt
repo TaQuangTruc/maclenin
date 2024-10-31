@@ -1,0 +1,452 @@
+[
+  {
+    "question": "Bộ chỉ huy chiến dịch giải phóng Sài Gòn – Gia Định đóng căn cứ tại:",
+    "answers": [
+      "Sóc Tà Thiết (Lộc Ninh)",
+      "Chiến khu Rừng Sác (Cần Giờ)",
+      "Địa đạo Củ Chi",
+      "Vùng 18 thôn vườn trầu (Hóc Môn)"
+    ]
+  },
+  {
+    "question": "“Những điều căn bản của Thanh niên Cộng sản Đoàn” như: tính chất, chức năng, nhiệm vụ và những vấn đề về nguyên tắc tổ chức của Đoàn được đề ra lần đầu tiên ở văn kiện nào?",
+    "answers": [
+      "Nghị quyết hội nghị Trung ương Đảng (10/1931)",
+      "“Án nghị quyết về công tác thanh niên vận động” (10/1930)",
+      "Văn kiện Đại hội Đảng toàn quốc lần thứ I (1935)",
+      "Văn kiện Đại hội Đoàn toàn quốc lần thứ I (1950)"
+    ]
+  },
+  {
+    "question": "Cho các phát biểu sau:\n1. Ngọc Lũ là tên của chiếc trống đồng được nước ta tặng cho tổ chức Liên hợp quốc.\n2. Việt Nam đã có 02 lần trở thành Ủy viên không thường trực của Hội đồng Bảo an Liên hợp quốc.\n3. Năm 1997, Việt Nam chính thức gia nhập tổ chức Liên hợp quốc.\n4. Việt Nam đảm nhiệm vai trò Chủ tịch ASEAN 2020.\n5. Việt Nam là thành viên của các tổ chức: APEC, WTO, ECOSOC, ASEM, UNDP, UNFPA.\nBạn hãy cho biết có bao nhiêu phát biểu đúng?",
+    "answers": [
+      "2",
+      "3",
+      "5",
+      "4"
+    ]
+  },
+  {
+    "question": "Yếu tố nào được xác định là thực thể của giá trị hàng hoá?",
+    "answers": [
+      "Lao động phức",
+      "Lao động giản đơn",
+      "Lao động cụ thể",
+      "Lao động trừu tượng"
+    ]
+  },
+  {
+    "question": "Trong thời kì 1954 – 1975, cuộc cách mạng dân tộc dân chủ nhân dân ở miền Nam Việt Nam có vai trò trực tiếp đối với sự nghiệp giải phóng miền Nam vì cuộc cách mạng này:",
+    "answers": [
+      "Làm thất bại hoàn toàn chiến lược toàn cầu của Mỹ",
+      "Trực tiếp xóa bỏ ách áp bức, bóc lột của địa chủ và tư sản miền Nam",
+      "Trực tiếp đánh đổ ách thống trị của Mỹ và chính quyền Sài Gòn",
+      "Bảo vệ vững chắc hậu phương miền Bắc xã hội chủ nghĩa"
+    ]
+  },
+  {
+    "question": "Nhiệm vụ cơ bản của cách mạng miền Nam được Hội nghị lần thứ 21 Ban Chấp hành Trung ương Đảng Lao động Việt Nam (tháng 7/1973) xác định là gì?",
+    "answers": [
+      "Chỉ đấu tranh chính trị để thống nhất đất nước",
+      "Giải phóng miền Nam trong năm 1975",
+      "Tiến hành cuộc cách mạng ruộng đất",
+      "Tiếp tục cuộc cách mạng dân tộc dân chủ nhân dân"
+    ]
+  },
+  {
+    "question": "Địa bàn nào được chọn làm địa điểm và là nơi phát lệnh khởi nghĩa trong khởi nghĩa Nam Kỳ năm 1940 được Xứ ủy quyết định?",
+    "answers": [
+      "Thị xã Tân An (Long An)",
+      "Mỹ Tho",
+      "Trung tâm tỉnh Gia Định",
+      "Thành phố Sài Gòn"
+    ]
+  },
+  {
+    "question": "Nguyễn Ái Quốc đã trích dẫn luận điểm nổi tiếng của V.I. Lênin: “Không có lý luận cách mệnh thì không có cách mệnh vận động… Chỉ có theo lý luận cách mệnh tiền phong, đảng cách mệnh mới làm nổi trách nhiệm cách mệnh tiền phong”. Câu nói được ghi ở trang đầu tiên của cuốn sách nào?",
+    "answers": [
+      "V.I. Lênin và phương Đông",
+      "Bản án chế độ thực dân Pháp",
+      "Nhật ký trong tù",
+      "Đường Kách mệnh"
+    ]
+  },
+  {
+    "question": "“Hỡi ai con cháu Hồng Bàng\nChúng ta phải biết kết đoàn mau mau”\nHai câu thơ trên trong tác phẩm nào của Bác Hồ?",
+    "answers": [
+      "Kết đoàn",
+      "Hòn đá",
+      "Bài ca sợi chỉ",
+      "Lịch sử nước ta"
+    ]
+  },
+  {
+    "question": "Chỉ thị số 05 về “Đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh” được Bộ Chính trị khóa XII ban hành vào năm nào?",
+    "answers": [
+      "2018",
+      "2017",
+      "2015",
+      "2016"
+    ]
+  },
+  {
+    "question": "Đất nước sau 20 năm bị chia cắt đã thống nhất, trong đó ngành đường sắt sau bao nhiêu năm chia cắt đã khôi phục được tuyến đường sắt thống nhất Bắc Nam?",
+    "answers": [
+      "Sau 40 năm (1936-1976)",
+      "Sau 30 năm (1946-1976)",
+      "Sau 22 năm (1954-1976)",
+      "Sau 91 năm (1885-1976)"
+    ]
+  },
+  {
+    "question": "Mỗi phương thức sản xuất đều có hai phương diện cơ bản đó là:",
+    "answers": [
+      "Nội dung vật chất và hình thức xã hội",
+      "Kỹ thuật và kinh tế",
+      "Vật chất và tinh thần",
+      "Nội dung và hình thức"
+    ]
+  },
+  {
+    "question": "Tuần hoàn của tư bản công nghiệp là sự thống nhất của ba hình thái tư bản:",
+    "answers": [
+      "Tư bản tiền tệ; tư bản trao đổi và tư bản hàng hóa.",
+      "Tư bản tiền tệ; tư bản sản xuất và tư bản cho vay.",
+      "Tư bản lưu thông; tư bản sản xuất và tư bản hàng hóa.",
+      "Tư bản tiền tệ; tư bản sản xuất và tư bản hàng hóa."
+    ]
+  },
+  {
+    "question": "Lao động cụ thể, lao động trừu tượng là:",
+    "answers": [
+      "Tính hai mặt của lao động sản xuất hàng hóa",
+      "Hai quá trình lao động sản xuất hàng hóa",
+      "Hai mặt của cùng một hàng hóa",
+      "Hai loại lao động khác nhau"
+    ]
+  },
+  {
+    "question": "Cho các phát biểu sau:\n1. Người giữ vai trò Tư lệnh trong chiến dịch Hồ Chí Minh (4/1975) là đồng chí Lê Đức Anh.\n2. Ngày 8/4/1975, tại Lộc Ninh, Bộ Chỉ huy Chiến dịch Giải phóng Sài Gòn - Gia Định được thành lập.\n3. Câu nói “Tranh thủ từng phút, từng giờ, xốc tới mặt trận, giải phóng miền Nam, quyết chiến và toàn thắng.” của Đại tướng Võ Nguyên Giáp.\n4. Chiếc xe tăng T59 số hiệu 843 đã húc đổ cánh cổ ở dinh Độc Lập.\n5. Đồng chí Bùi Quang Thận là người cắm cờ giải phóng trên nóc dinh Độc Lập.",
+    "answers": [
+      "5",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question": "Quy luật hình thành và phát triển của Đảng cộng sản Việt Nam",
+    "answers": [
+      "Chủ nghĩa Mác – Lênin, phong trào công nhân, phong trào yêu nước",
+      "Chủ nghĩa Mác – Lênin, tư tưởng Hồ Chí Minh và phong trào công nhân",
+      "Chủ nghĩa Mác – Lênin, tư tưởng Hồ Chí Minh, phong trào công nhân và phong trào yêu nước",
+      "Chủ nghĩa Mác, tư tưởng Hồ Chí Minh và phong trào công nhân"
+    ]
+  },
+  {
+    "question": "Sự tiến hoá của các hình thức phản ánh của vật chất phụ thuộc vào (lựa chọn mệnh đề mang tính triết học bao quát nhất):",
+    "answers": [
+      "Quá trình tiến hoá – phát triển của thế giới",
+      "Quá trình tiến hoá – phát triển của các dạng vật chất giới tự nhiên",
+      "Quá trình tiến hoá – phát triển của các giống loài sinh vật",
+      "Cả 3 lựa chọn trên"
+    ]
+  },
+  {
+    "question": "Triết học có vai trò là:",
+    "answers": [
+      "Toàn bộ thế giới khách quan",
+      "Toàn bộ thế giới khách quan, nhân sinh quan và phương pháp luận.",
+      "Hạt nhân lý luận của thế giới quan.",
+      "Toàn bộ thế giới quan và phương pháp luận"
+    ]
+  },
+  {
+    "question": "Khái niệm nào dùng để chỉ mỗi con người cụ thể sống trong một cộng đồng xã hội nhất định và được phân biệt với những con người khác thông qua tính đơn nhất và tính phổ biến của nó?",
+    "answers": [
+      "Cá tính",
+      "Nhân phẩm",
+      "Nhân cách",
+      "Cá nhân"
+    ]
+  },
+  {
+    "question": "Theo triết học Mác – Lênin như thế nào là vận động?",
+    "answers": [
+      "Mọi sự thay đổi vị trí của các sự vật, hiện tượng",
+      "Mọi sự biến đổi nói chung của các sự vật hiện tượng",
+      "Mọi sự thay đổi về vật chất của các sự vật hiện tượng",
+      "Mọi sự di chuyển nói chung của các sự vật hiện tượng"
+    ]
+  },
+  {
+    "question": "Chọn từ thích hợp điền vào chỗ trống cho câu sau:\nTheo Hồ Chí Minh: “Công việc thành công hay thất bại đều do cán bộ tốt hay …”",
+    "answers": [
+      "Xấu",
+      "Yếu",
+      "Cả ba đều sai",
+      "Kém"
+    ]
+  },
+  {
+    "question": "Đây là một sáng tác của nhạc sỹ Trương Quốc Khánh trong phong trào “Hát cho đồng bào tôi nghe”, được dịch ra 36 thứ tiếng. Tên sáng tác đó là gì?",
+    "answers": [
+      "Tự nguyện",
+      "Một đời người, một rừng cây",
+      "Khát vọng",
+      "Chim hòa bình"
+    ]
+  },
+  {
+    "question": "Ngày 26/4/2015, TP. Hồ Chí Minh khởi công xây dựng công viên – bia tưởng niệm 52 chiến sĩ đã hy sinh trong trận đánh cuối cùng cách đây 40 năm. Trận đánh đó diễn ra ở cửa ngõ nào của TP. Hồ Chí Minh và là trận đánh nào?",
+    "answers": [
+      "Cửa ngõ phía Tây Bắc (Trận Đồng Dù)",
+      "Cửa ngõ phía Đông (Trận Cầu Rạch Chiếc)",
+      "Cửa ngõ phía Tây (Trận cầu Bình Điền)",
+      "Cửa ngõ phía Đông Nam (Trận Rừng Sác)"
+    ]
+  },
+  {
+    "question": "V. I. Lênin đã đưa ra quan điểm về việc xây dựng nền kinh tế thị trường trong thời kỳ quá độ lên CNXH trong lý luận nào?",
+    "answers": [
+      "NEP",
+      "Lý thuyết về sự phân kỳ trong thời kỳ quá độ lên CNXH",
+      "Học thuyết về nhà nước và cách mạng",
+      "Học thuyết giai cấp và đấu tranh giai cấp"
+    ]
+  },
+  {
+    "question": "Nhiệm vụ, mục tiêu của chặng đường đầu tiên trong sự nghiệp đổi mới theo quan điểm của Đại hội Đảng toàn quốc lần thứ VI là gì?",
+    "answers": [
+      "“Ổn định tình hình kinh tế chính trị, văn hóa xã hội, xây dựng những tiền đề cần thiết để thực hiện công nghiệp hóa, hiện đại hóa đất nước”",
+      "“Ổn định tình hình kinh tế - xã hội, tiếp tục xây dựng những tiền đề cần thiết cho việc thúc đẩy mạnh công nghiệp hóa cho chặng đường tiếp theo”",
+      "“Phát huy ý chí tự lực tự cường, cần kiệm và xây dựng bảo vệ tổ quốc, ra sức làm giàu cho mình và cho đất nước, thực hiện mục tiêu dân giàu nước mạnh”",
+      "“Ổn định về cơ bản tình hình kinh tế - xã hội, đáp ứng cấp bách nhu cầu thiết yếu nhất về đời sống của nhân dân, giảm nhẹ những mất cân đối nghiêm trọng của nền kinh tế”"
+    ]
+  },
+  {
+    "question": "Căn cứ vào phương thức chu chuyển khác nhau của từng bộ phận tư bản, C. Mác chia tư bản sản xuất thành",
+    "answers": [
+      "Tư bản cố định và tư bản lưu động.",
+      "Tư bản cố định và tư bản khả biến.",
+      "Tư bản bất biến và tư bản khả biến.",
+      "Tư bản bất biến và tư bản lưu động."
+    ]
+  },
+  {
+    "question": "Vấn đề cuối cùng mà Chủ tịch Hồ Chí Minh nhắc đến trong Di chúc của Người là gì?",
+    "answers": [
+      "Về trẻ em",
+      "Về đoàn kết quốc tế",
+      "Về việc riêng",
+      "Về đoàn kết của Đảng"
+    ]
+  },
+  {
+    "question": "Trong tư tưởng Hồ Chí Minh về vấn đề dân tộc, vấn đề nào được Người coi là khát vọng lớn nhất của các dân tộc thuộc địa?",
+    "answers": [
+      "Bình đẳng dân tộc",
+      "Tự do, hạnh phúc",
+      "Ấm no, hạnh phúc",
+      "Độc lập, tự do"
+    ]
+  },
+  {
+    "question": "Nguyễn Tất Thành trước khi ra đi tìm đường cứu nước đã đến ở tại nhà số 5 Châu Văn Liêm (Quận 5, TP. Hồ Chí Minh ngày nay). Vào năm 1911, địa điểm này là trụ sở của tổ chức nào ?",
+    "answers": [
+      "Liên Thành Thư xã",
+      "Hiệu thuốc đông y Liên Thành Đường",
+      "Liên Thành Học xá",
+      "Liên Thành Thương Quán"
+    ]
+  },
+  {
+    "question": "Tại Đại hội Đoàn lần thứ III của Đoàn Thanh niên Lao động Việt Nam (24/3/1961), Bác đã khẳng định: Do hoàn cảnh trong xã hội cũ hạn chế nên số đông thanh niên công – nông ta ít được học. Muốn xây dựng chủ nghĩa xã hội thì nhất định phải có điều gì?",
+    "answers": [
+      "Sinh viên",
+      "Giáo dục - đào tạo",
+      "Con người xã hội chủ nghĩa",
+      "Học thức"
+    ]
+  },
+  {
+    "question": "Cách mạng khoa học kỹ thuật đã và đang trải qua bao nhiêu giai đoạn?",
+    "answers": [
+      "5 giai đoạn",
+      "2 giai đoạn",
+      "4 giai đoạn",
+      "3 giai đoạn"
+    ]
+  },
+  {
+    "question": "Bộ Quốc phòng Việt Nam chia vùng biển Việt Nam thành mấy vùng hải quân?",
+    "answers": [
+      "4",
+      "3",
+      "6",
+      "5"
+    ]
+  },
+  {
+    "question": "Chuyến tàu Thống nhất đầu tiên mang biểu tượng nối liền Nam - Bắc sau ngày Giải phóng ngày 31/12/1976 xuất phát từ đâu ?",
+    "answers": [
+      "Từ cả hai ga Hà Nội và Sài Gòn cùng xuất phát",
+      "Từ đầu cầu Hiền Lương phía Nam ra Bắc",
+      "Từ ga Hà Nội vào Nam",
+      "Từ ga Sài Gòn ra Bắc"
+    ]
+  },
+  {
+    "question": "Chỉ thị số 05-CT/TW ngày 15/5/2016 của Bộ Chính trị Khóa XII chủ trương đẩy mạnh học tập và làm theo những nội dung gì ở Chủ tịch Hồ Chí Minh?",
+    "answers": [
+      "Tư tưởng, đạo đức, phong cách Hồ Chí Minh",
+      "Tư tưởng, đạo đức, phương pháp cách mạng Hồ Chí Minh",
+      "Đạo đức, phương pháp cách mạng, phong cách Hồ Chí Minh",
+      "Tấm gương đạo đức, phong cách Hồ Chí Minh"
+    ]
+  },
+  {
+    "question": "Cuộc bãi công của công nhân Ba Son (ở cảng Sài Gòn), ngăn cản tàu chiến Pháp chở lính sang đàn áp phong trào đấu tranh của nhân dân và thuỷ thủ Trung Quốc đã đánh dấu một bước tiến mới của phong trào công nhân Việt Nam. Cho biết cuộc bãi công diễn ra vào thời gian nào?",
+    "answers": [
+      "Tháng 8/1925",
+      "Tháng 11/1922",
+      "Tháng 9/1925",
+      "Tháng 7/1925"
+    ]
+  },
+  {
+    "question": "Chọn phương án đúng điền vào khoảng trống trong câu sau đây: “Khái niệm ý thức xã hội dùng để chỉ phương diện sinh hoạt tinh thần của xã hội, nảy sinh từ tồn tại xã hội và phản ánh…… trong những giai đoạn phát triển nhất định”.",
+    "answers": [
+      "Cấu trúc xã hội",
+      "Quy luật xã hội",
+      "Mức sống xã hội",
+      "Tồn tại xã hội"
+    ]
+  },
+  {
+    "question": "Mối quan hệ biện chứng giữa vật chất và ý thức được thực hiện thông qua:",
+    "answers": [
+      "Hoạt động lý luận",
+      "Hoạt động thực tiễn",
+      "Sự suy nghĩ của con người",
+      "Cả 3 đáp án trên"
+    ]
+  },
+  {
+    "question": "“Dĩ bất biến, ứng vạn biến” là lời căn dặn của Chủ tịch Hồ Chí Minh đối với ai trước khi người sang Pháp tìm cơ hội hòa bình cho dân tộc?",
+    "answers": [
+      "Huỳnh Thúc Kháng",
+      "Trường Chinh",
+      "Lê Duẩn",
+      "Võ Nguyên Giáp"
+    ]
+  },
+  {
+    "question": "Chiếc khăn Piêu là trang phục truyền thống của dân tộc nào?",
+    "answers": [
+      "Tày",
+      "H’Mông",
+      "Thái",
+      "Nùng"
+    ]
+  },
+  {
+    "question": "Theo Luật giao thông đường bộ năm 2008, khi điều khiển xe chạy trên đường biết có xe sau xin vượt nếu đủ điều kiện an toàn người lái xe phải làm gì?",
+    "answers": [
+      "Người điều khiển phương tiện phía trước phải giảm tốc độ, đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đã vượt qua, không được gây trở ngại đối với xe xin vượt.",
+      "Cả 3 đáp án đều sai.",
+      "Cho xe tránh về bên phải mình và ra hiệu cho xe sau vượt. Nếu có chướng ngại vật phía trước hoặc thiếu điều kiện an toàn chưa cho vượt được phải ra hiệu cho xe sau biết. Cấm xe bị vượt gây trở ngại cho xe xin vượt;",
+      "Giảm tốc độ và ra hiệu cho xe sau vượt. Không được gây trở ngại cho xe sau vượt;"
+    ]
+  },
+  {
+    "question": "Tư tưởng về giải phóng nhân loại được C. Mác đề xuất vào năm nào, trong tác phẩm nào?",
+    "answers": [
+      "Luận cương về Phơ-bách",
+      "Năm 1843 trong tác phẩm “Bản thảo góp phần phê phán kinh tế - chính trị học”",
+      "Năm 1843 trong tác phẩm: “Góp phần phê phán triết học pháp quyền của Hêghen”",
+      "Năm 1844 trong tác phẩm “Bản thảo kinh tế - triết học 1844”"
+    ]
+  },
+  {
+    "question": "Trình độ phát triển của lực lượng sản xuất là:",
+    "answers": [
+      "Tất cả đều đúng",
+      "Nội dung cơ bản của tiến bộ xã hội",
+      "Tiêu chuẩn quan trọng nhất để đánh giá tiến bộ xã hội",
+      "Một trong những tiêu chuẩn để đánh giá quá trình phát triển của xã hội"
+    ]
+  },
+  {
+    "question": "Theo quan điểm của chủ nghĩa duy vật biện chứng luận điểm nào sau đây là sai?",
+    "answers": [
+      "Chân lý có tính tương đối",
+      "Chân lý có tính cụ thể",
+      "Chân lý có tính khách quan",
+      "Chân lý có tính trừu tượng"
+    ]
+  },
+  {
+    "question": "“Nhân dân ta thường nói: Đảng viên đi trước, làng nước theo sau”. Câu này đã mở đầu tác phẩm nào của Chủ tịch Hồ Chí Minh?",
+    "answers": [
+      "Nâng cao đạo đức cách mạng, quét sạch chủ nghĩa cá nhân",
+      "Sửa đổi lối làm việc",
+      "Đạo đức cách mạng",
+      "Ba mươi năm hoạt động của Đảng"
+    ]
+  },
+  {
+    "question": "Vào những năm 20 của thế kỷ XX, từ Pháp chủ nghĩa Mác – Lênin được truyền bá vào Việt Nam thông qua các báo nào?",
+    "answers": [
+      "Người cùng khổ, An Nam tạp chí, Việt Nam hồn",
+      "Nhân đạo, Thanh Niên, Cảm tử",
+      "Người cùng khổ, Dân chúng, Tiếng chuông rè",
+      "Việt Nam hồn, Người cùng khổ, Nhân đạo"
+    ]
+  },
+  {
+    "question": "Đoạn địa đạo có quy mô đầu tiên ở Củ Chi được đào khi nào và ở đâu?",
+    "answers": [
+      "Cuối năm 1946 tại xã Tân Phú Trung.",
+      "Đầu năm 1947, ở liên xã Tân Phú Trung - Phước Vĩnh An.",
+      "Đầu năm 1948 tại xã Phước Vĩnh An.",
+      "Cuối năm 1947, ở liên xã Tân Phú Trung - Phú Mỹ Luông."
+    ]
+  },
+  {
+    "question": "Chi phí thực tế của xã hội để sản xuất hàng hoá là:",
+    "answers": [
+      "Chi phí lao động sống và lao động quá khứ",
+      "Chi phí sức lao động của toàn xã hội",
+      "Chi phí về tiền vốn, máy móc, nguyên liệu",
+      "Chi phí tư bản bất biến và tư bản khả biến"
+    ]
+  },
+  {
+    "question": "Ngay sau Đại hội đại biểu toàn quốc lần thứ 1, Tổng Bí thư của Đảng là ai?",
+    "answers": [
+      "Đ/c Hà Huy Tập",
+      "Đ/c Trần Phú",
+      "Đ/c Lê Hồng Phong",
+      "Đ/c Trường Chinh"
+    ]
+  },
+  {
+    "question": "Ngày 3/6/2017, Hội nghị BCH TW Đảng lần thứ 5 (Khoá XII) đã ban hành Nghị quyết số 10-NQ/TW xác định chủ trương về phát triển một thành phần kinh tế để trở thành một động lực quan trọng của nền kinh tế thị trường định hướng xã hội chủ nghĩa. Đó là thành phần kinh tế nào?",
+    "answers": [
+      "Kinh tế có vốn đầu tư nước ngoài",
+      "Kinh tế tư nhân",
+      "Kinh tế tập thể, hợp tác xã",
+      "Kinh tế Nhà nước"
+    ]
+  },
+  {
+    "question": "Nguyên lý về sự phát triển đóng vai trò như thế nào trong việc nhận thức và cải tạo thế giới?",
+    "answers": [
+      "Phản ánh trình độ nhận thức và cải tạo thế giới",
+      "Là cơ sở lý luận khoa học",
+      "Là công cụ để nhận thức và cải tạo thế giới",
+      "Là động lực của sự phát triển"
+    ]
+  }
+]

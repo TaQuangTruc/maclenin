@@ -1,0 +1,452 @@
+[
+  {
+    "question": "Trong tư liệu lao động, bộ phận nào quyết định đến năng suất lao động?",
+    "answers": [
+      "Khoa học công nghệ",
+      "Công cụ lao động",
+      "Con người",
+      "Quan hệ sản xuất"
+    ]
+  },
+  {
+    "question": "Trong nền sản xuất Tư bản Chủ nghĩa, quy luật giá cả sản xuất là biểu hiện của quy luật giá trị:",
+    "answers": [
+      "Trong giai đoạn phát triển của Chủ nghĩa tư bản",
+      "Trong giai đoạn đầu của Chủ nghĩa tư bản",
+      "Trong giai đoạn độc quyền của Chủ nghĩa tư bản",
+      "Trong giai đoạn tự do cạnh tranh của Chủ nghĩa tư bản"
+    ]
+  },
+  {
+    "question": "Điểm khác nhau cơ bản giữa Cương lĩnh chính trị đầu tiên và Luận cương chính trị của Đảng năm 1930 thể hiện ở:",
+    "answers": [
+      "Nhiệm vụ, lực lượng cách mạng",
+      "Lực lượng tham gia và giai cấp lãnh đạo",
+      "Đường lối, nhiệm vụ cách mạng",
+      "Mục tiêu và hình thức đấu tranh"
+    ]
+  },
+  {
+    "question": "Theo C. Mác, tốc độ chu chuyển của tư bản được đo bằng:",
+    "answers": [
+      "Số vòng chu chuyển của tư bản trong 1 năm",
+      "Số vòng chu chuyển của tư bản trong 5 năm",
+      "Số vòng chu chuyển của tư bản trong 2 năm",
+      "Số vòng chu chuyển của tư bản trong 3 năm"
+    ]
+  },
+  {
+    "question": "Việc không dám thực hiện những bước nhảy cần thiết khi tích lũy về lượng đã đạt đến giới hạn Độ là biểu hiện của xu hướng nào?",
+    "answers": [
+      "Hữu khuynh",
+      "Tả khuynh",
+      "Vừa tả khuynh vừa hữu khuynh",
+      "Không tả khuynh, không hữu khuynh"
+    ]
+  },
+  {
+    "question": "Đối tượng nghiên cứu của chủ nghĩa xã hội khoa học là gì?",
+    "answers": [
+      "Là những quy luật hình thành, phát triển và hoàn thiện của các hình thái kinh tế - xã hội.",
+      "Cả 3 đáp án trên",
+      "Là những quy luật và tính quy luật chính trị – xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội chủ nghĩa xã hội.",
+      "Là những quy luật và tính quy luật chính trị – xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa."
+    ]
+  },
+  {
+    "question": "Thế nào là mâu thuẫn biện chứng",
+    "answers": [
+      "Có hai mặt trái ngược nhau",
+      "Có hai mặt khác nhau",
+      "Sự thống nhất của các mặt đối lập",
+      "Có hai mặt đối lập nhau"
+    ]
+  },
+  {
+    "question": "Khẳng định nào sau đây KHÔNG lý giải cho việc độc lập dân tộc phải gắn liền với chủ nghĩa xã hội trong tư tưởng Hồ Chí Minh?",
+    "answers": [
+      "Độc lập dân tộc gắn liền với đời sống ấm no hạnh phúc của nhân dân, chủ nghĩa xã hội sẽ củng cố những thành quả đã giành được trong cách mạng dân tộc dân chủ, tạo điều kiện để bảo đảm cho độc lập và phát triển của dân tộc",
+      "Độc lập dân tộc là mục tiêu trực tiếp, trước hết, là cơ sở, tiền đề để tiến lên chủ nghĩa xã hội",
+      "Chủ nghĩa xã hội là con đường củng cố vững chắc độc lập dân tộc, giải phóng dân tộc một cách hoàn toàn, triệt để",
+      "Độc lập dân tộc tạo tiền đề, điều kiện để giai cấp công nhân tự quyết định con đường đi lên xã hội chủ nghĩa, dưới sự lãnh đạo của Đảng Cộng sản"
+    ]
+  },
+  {
+    "question": "Cơ sở lý luận trực tiếp của quan điểm toàn diện là:",
+    "answers": [
+      "Nguyên lý về sự phát triển",
+      "Mối quan hệ giữa nội dung và hình thức",
+      "Nguyên lý về mối liên hệ phổ biến",
+      "Mối quan hệ giữa bản chất và hiện tượng"
+    ]
+  },
+  {
+    "question": "Một trong những biểu hiện chủ yếu của Chủ nghĩa tư bản  độc quyền nhà nước:",
+    "answers": [
+      "Sự hình thành và phát triển của sở hữu tư nhân",
+      "Sự hình thành và phát triển của công hữu nhà nước",
+      "Sự hình thành và phát triển của sở hữu nhà nước",
+      "Sự hình thành và phát triển của quản lý nhà nước"
+    ]
+  },
+  {
+    "question": "Chủ nghĩa kinh nghiệm, chủ nghĩa giáo điều là biểu hiện trực tiếp của việc gì?",
+    "answers": [
+      "Không tôn trọng nguyên tắc thống nhất giữa tình khách quan và tính chủ quan",
+      "Không tôn trọng quan điểm toàn diện, quan điểm lịch sử - cụ thể",
+      "Không tôn trọng nguyên tắc thống nhất giữa lý luận với thực tiễn",
+      "Không tôn trọng nguyên tắc khách quan"
+    ]
+  },
+  {
+    "question": "Theo tư tưởng Hồ Chí Minh, trung với nước, hiếu với dân là phẩm chất đạo đức?",
+    "answers": [
+      "Cả 3 đều đúng",
+      "Là nền tảng",
+      "Bao trùm",
+      "Quan trọng nhất"
+    ]
+  },
+  {
+    "question": "Theo tư tưởng Hồ Chí Minh, nhiệm vụ lịch sử của thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là gì?",
+    "answers": [
+      "Xây dựng con người của chủ nghĩa xã hội",
+      "Xây dựng nền văn hóa của chủ nghĩa xã hội",
+      "Xây dựng hệ thống chính trị của chủ nghĩa xã hội",
+      "Xây dựng nền tảng vật chất kỹ thuật và kỹ thuật của chủ nghĩa xã hội"
+    ]
+  },
+  {
+    "question": "Quê quán của anh hùng lực lượng vũ trang, liệt sĩ Trần Văn Ơn ở đâu?",
+    "answers": [
+      "Sài Gòn",
+      "Tiền Giang",
+      "Tây Ninh",
+      "Bến Tre"
+    ]
+  },
+  {
+    "question": "Dinh Thống Nhất là một công trình kiến trúc ở thành phố Hồ Chí Minh có ý nghĩa lịch sử quan trọng, được xếp hạng là di tích quốc gia đặc biệt. Tác giả của đồ án kiến trúc này là ai?",
+    "answers": [
+      "Kiến trúc sư Huỳnh Tấn Phát",
+      "Kiến trúc sư Nguyễn Văn Long",
+      "Kiến trúc sư Ngô Viết Thụ",
+      "Kiến trúc sư Võ Trọng Nghĩa"
+    ]
+  },
+  {
+    "question": "Cuối thế kỷ IX, nhân lúc nhà Đường không thể kiểm soát nước ta như trước, một hào trưởng đã nổi dậy và giành được quyền tự chủ. Đó là ai?",
+    "answers": [
+      "Khúc Hạo",
+      "Dương Đình Nghệ",
+      "Đinh Công Trứ",
+      "Khúc Thừa Dụ"
+    ]
+  },
+  {
+    "question": "Thành phố Hồ Chí Minh giáp các tỉnh nào?",
+    "answers": [
+      "Bình Dương, Tây Ninh, Bà Rịa – Vũng Tàu, Đồng Nai, Bình Phước, Long An",
+      "Tây Ninh, Bình Dương, Đồng Nai, Long An, Tiền Giang, Bà Rịa – Vũng Tàu",
+      "Bình Dương, Bình Phước, Bình Thuận, Long An, Đồng Nai, Bà Rịa – Vũng Tàu",
+      "Tây Ninh, Bà Rịa – Vũng Tàu, Long An, Đồng Nai, Tiền Giang, Bình Phước"
+    ]
+  },
+  {
+    "question": "“Một năm khởi đầu từ mùa xuân. Một đời khởi đầu từ tuổi trẻ. Tuổi trẻ là mùa xuân của xã hội”. Đây là đoạn trích trong thư Bác Hồ gửi cho thanh niên và nhi đồng toàn quốc nhân dịp Tết Nguyên đán năm nào?",
+    "answers": [
+      "Năm 1945",
+      "Năm 1950",
+      "Năm 1946",
+      "Năm 1949"
+    ]
+  },
+  {
+    "question": "Hầm Thủ Thiêm vượt sông Sài Gòn có tổng chiều dài là bao nhiêu m?",
+    "answers": [
+      "1480 m",
+      "1470 m",
+      "1490 m",
+      "1460 m"
+    ]
+  },
+  {
+    "question": "Đại hội lần thứ VII của Quốc tế Cộng sản (7-1935) đã xác định kẻ thù của nhân dân thế giới là:",
+    "answers": [
+      "Chủ nghĩa phát xít",
+      "Chủ nghĩa đế quốc",
+      "Chủ nghĩa thực dân",
+      "Bọn phản động thuộc địa"
+    ]
+  },
+  {
+    "question": "Theo định nghĩa của Ph. Ăngghen, con người là một động vật:",
+    "answers": [
+      "Biết ứng xử theo các quy phạm đạo đức",
+      "Biết tư duy",
+      "Chính trị",
+      "Biết chế tạo và sử dụng công cụ lao động"
+    ]
+  },
+  {
+    "question": "Toàn bộ các hoạt động vật chất có mục đích mang tính lịch sử – xã hội của con người nhằm cải tạo tự nhiên và xã hội gọi là gì?",
+    "answers": [
+      "Vận động",
+      "Thực tiễn",
+      "Phát triển",
+      "Cách mạng"
+    ]
+  },
+  {
+    "question": "Trong Di chúc, có đoạn văn Bác lặp lại 4 lần chữ “Thật”. Đây là nói về vấn đề gì?",
+    "answers": [
+      "Về đoàn viên thanh niên",
+      "Về bồi dưỡng thế hệ cách mạng cho đời sau",
+      "Về con người",
+      "Về Đảng cầm quyền"
+    ]
+  },
+  {
+    "question": "Theo tư tưởng Hồ Chí Minh, yếu tố nào được xác định là mục tiêu, nhiệm vụ hàng đầu của Đảng, của dân tộc?",
+    "answers": [
+      "Giải phóng dân tộc",
+      "Đoàn kết dân tộc kết hợp với đoàn kết quốc tế",
+      "Đại đoàn kết dân tộc",
+      "Đoàn kết quốc tế"
+    ]
+  },
+  {
+    "question": "Trong những hoạt động sau đây của Nguyễn Ái Quốc, hoạt động nào chuẩn bị trực tiếp điều kiện về tổ chức và chính trị cho việc thành lập Đảng Cộng sản Việt Nam?",
+    "answers": [
+      "Từ năm 1925 đến năm 1927, Nguyễn Ái Quốc mở lớp huấn luyện chính trị nhằm đào tạo cán bộ cho cách mạng Việt Nam.",
+      "Tháng 6/1925, Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên với chương trình và Điều lệ làm cách mạng dân tộc và cách mạng thế giới.",
+      "Nguyễn Ái Quốc viết báo, xuất bản sách, ra các tờ báo nhằm truyền bá chủ nghĩa Mác – Lênin vào Việt Nam để thức tỉnh quần chúng.",
+      "Tập bài giảng “Đường Khách mệnh” của Nguyễn Ái Quốc ở các lớp huấn luyện chính trị đã để cập đến những vấn để cơ bản của một Cương lĩnh chính trị cho Đảng Cộng sản Việt Nam"
+    ]
+  },
+  {
+    "question": "Theo Hồ Chí Minh, việc tu dưỡng đạo đức của ở mỗi người phải được thực hiện trong?",
+    "answers": [
+      "Mọi hoạt động thực tiễn, mọi mối quan hệ xã hội",
+      "Mọi hoạt động thực tiễn",
+      "Mọi mối quan hệ xã hội",
+      "Cả 3 đều sai"
+    ]
+  },
+  {
+    "question": "Ngày Biên phòng toàn dân là ngày nào?",
+    "answers": [
+      "Ngày 3 tháng 3 hàng năm",
+      "Ngày 5 tháng 5 hàng năm",
+      "Ngày 5 tháng 3 hàng năm",
+      "Ngày 3 tháng 5 hàng năm"
+    ]
+  },
+  {
+    "question": "Đại hội Đoàn Thanh niên Cứu quốc Nam bộ lần III được tổ chức vào tháng 1/1950 tại Rạch Giá bầu đồng chí nào làm bí thư?",
+    "answers": [
+      "Huỳnh Tấn Phát",
+      "Trần Bạch Đằng",
+      "Trần Văn Giàu",
+      "Phạm Ngọc Thạch"
+    ]
+  },
+  {
+    "question": "Năm 2004, Thủ tướng Phan Văn Khải đã ký văn bản thừa nhận họa sĩ nào là tác giả của Quốc huy Việt Nam?",
+    "answers": [
+      "Họa sĩ Sỹ Ngọc",
+      "Họa sĩ Trần Văn Cẩn",
+      "Họa sĩ Bùi Trang Chước",
+      "Họa sĩ Diệp Minh Châu"
+    ]
+  },
+  {
+    "question": "Sự vận động của tiền tệ không chịu sự tác động trực tiếp của quy luật nào dưới đây",
+    "answers": [
+      "Quy luật cung - cầu về tiền tệ",
+      "Quy luật cạnh tranh",
+      "Quy luật giá trị",
+      "Cả A, B, C"
+    ]
+  },
+  {
+    "question": "Trong cao trào dân chủ 1936-1939, Đảng chủ trương tập hợp những lực lượng nào?",
+    "answers": [
+      "Công nhân, nông dân, tiểu tư sản, tư sản, địa chủ",
+      "Cả dân tộc Việt Nam",
+      "Công nhân và nông dân",
+      "Mọi lực lượng dân tộc và một bộ phận người Pháp ở Đông Dương"
+    ]
+  },
+  {
+    "question": "Hoàn chỉnh phát biểu của Nguyễn Ái Quốc ở Đại hội lần thứ V của Quốc tế Cộng sản năm 1924: “nọc độc và sức sống của con rắn độc tư bản chủ nghĩa đang tập trung ở  …......”.",
+    "answers": [
+      "Chính quốc",
+      "Đông Dương",
+      "Các thuộc địa",
+      "Các nước tư bản"
+    ]
+  },
+  {
+    "question": "“Đây chính là viên đá đầu tiên để chuẩn bị cho tổ chức thanh niên sau này”. Đó là lời nhận định của đồng chí Nguyễn Ái Quốc về sự ra đời của tổ chức nào?",
+    "answers": [
+      "Việt Nam Quang phục hội",
+      "Hội Việt Nam Cách mạng Thanh niên",
+      "Tâm tâm xã",
+      "Thanh niên Cao vọng Đảng"
+    ]
+  },
+  {
+    "question": "Nghị quyết Hội nghị nào có ý nghĩa lịch sử to lớn, mở đường cho cách mạng miền Nam tiến lên làm xoay chuyển tình thế, dẫn đến cuộc “Đồng Khởi” oanh liệt toàn miền Nam năm 1960?",
+    "answers": [
+      "Nghị quyết hội nghị lần thứ VIII (8/1955) của Ban Chấp hành Trung ương Đảng",
+      "Nghị quyết hội nghị lần thứ XV (1/1959) của Ban Chấp hành Trung ương Đảng",
+      "Nghị quyết hội nghị Khu ủy VIII (12/1959)",
+      "Nghị quyết hội nghị Xứ ủy (11/1959)"
+    ]
+  },
+  {
+    "question": "Ph. Ăngghen đã đánh giá: \"Hai phát hiện vĩ đại này đã đưa chủ nghĩa xã hội trở thành một khoa học\". Hai phát kiến đó là gì?",
+    "answers": [
+      "Sứ mệnh lịch sử của giai cấp công nhân – Chủ nghĩa duy vật lịch sử",
+      "Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử",
+      "Sứ mệnh lịch sử của giai cấp công nhân – Học thuyết giá trị thặng dư",
+      "Học thuyết giá trị thặng dư – Chủ nghĩa duy vật lịch sử"
+    ]
+  },
+  {
+    "question": "Toàn bộ những quan điểm về chính trị, pháp quyền, triết học, đạo đức, tôn giáo, nghệ thuật, v.v. cùng với những thiết chế xã hội tương ứng như nhà nước, đảng phái, giáo hội, các đoàn thể, v.v. được khái quát bằng khái niệm gì?",
+    "answers": [
+      "Quan hệ sản xuất",
+      "Kiến trúc thượng tầng",
+      "Cơ sở hạ tầng",
+      "Lực lượng sản xuất"
+    ]
+  },
+  {
+    "question": "Hệ thống triết học nào quan niệm sự vật là phức hợp của các cảm giác?",
+    "answers": [
+      "Chủ nghĩa duy vật siêu hình",
+      "Chủ nghĩa duy vật biện chứng",
+      "Chủ nghĩa duy tâm khách quan",
+      "Chủ nghĩa duy tâm chủ quan"
+    ]
+  },
+  {
+    "question": "Chọn cụm từ đúng điền vào chỗ trống: “Điểm xuất phát của ... là: sự khẳng định những sự vật và hiện tượng của tự nhiên đều bao hàm những mâu thuẫn vốn có của chúng”.",
+    "answers": [
+      "Phép biện chứng duy vật",
+      "Phép biện chứng",
+      "Phép siêu hình",
+      "Phép biện chứng duy tâm"
+    ]
+  },
+  {
+    "question": "Trong công cuộc kiến thiết nước nhà, Chủ tịch Hồ Chí Minh nhận định có 4 vấn đề cần chú ý đó là:",
+    "answers": [
+      "Chính trị, kinh tế, xã hội và luân lý",
+      "Chính trị, kinh tế, xã hội và văn hóa",
+      "Chính trị, kinh tế, đạo đức và xã hội",
+      "Chính trị, kinh tế, đạo đức và văn hóa"
+    ]
+  },
+  {
+    "question": "Yếu tố nào còn thiếu trong câu sau đây: “Xây dựng thành phố Hồ Chí Minh có chất lượng sống tốt, văn minh, ..., nghĩa tình”?",
+    "answers": [
+      "thân thiện",
+      "hiện đại",
+      "sạch đẹp",
+      "giàu mạnh"
+    ]
+  },
+  {
+    "question": "Theo Nghị quyết Đại hội lần thứ XIII của Đảng, nhân tố nào là “trung tâm, mục tiêu và động lực phát triển quan trọng nhất của đất nước” trong định hướng phát triển đất nước giai đoạn 2021 – 2030?",
+    "answers": [
+      "Khoa học công nghệ",
+      "Kinh tế",
+      "Giáo dục và đào tạo",
+      "Tài năng, trí tuệ, phẩm chất của con người Việt Nam"
+    ]
+  },
+  {
+    "question": "Kỳ thi Hội được tổ chức dưới triều Lê Sơ nhằm mục đích gì?",
+    "answers": [
+      "Tuyển chọn Tiến sĩ",
+      "Tuyển chọn người tài và giảng dạy ở Quốc Tử Giám",
+      "Tuyển chọn phò mã",
+      "Tuyển chọn Trạng nguyên"
+    ]
+  },
+  {
+    "question": "Truyện thơ nổi tiếng Lục Vân Tiên được Nguyễn Đình Chiểu viết trong  khoảng thời gian ông làm công việc gì?",
+    "answers": [
+      "Học ở Huế chờ khoa thi Hội",
+      "Mở trường dạy học ở Gia Định",
+      "Lấy thuốc ở Ba Tri – Bến Tre",
+      "Chữa bệnh đau mắt ở Quảng Nam"
+    ]
+  },
+  {
+    "question": "Ai là Bí thư Trung ương Đoàn đầu tiên của Việt Nam?",
+    "answers": [
+      "Đồng chí Hoàng Phương",
+      "Đồng chí Nguyễn Văn Cừ",
+      "Đồng chí Nguyễn Lam",
+      "Đồng chí Trần Bạch Đằng"
+    ]
+  },
+  {
+    "question": "Bằng chiến thắng nào, quân dân miền Nam đã làm phá sản về cơ bản chiến lược chiến tranh đặc biệt của Mỹ?",
+    "answers": [
+      "Chiến thắng Ấp Bắc",
+      "Chiến thắng Ba Gia",
+      "Chiến thắng Bình Giã",
+      "Chiến thắng Đồng Xoài"
+    ]
+  },
+  {
+    "question": "“Tiền tệ là bánh xe vĩ đại của lưu thông”. Câu nói này của ai?",
+    "answers": [
+      "Đa-vít Ri-các-đô",
+      "A-đam Xờ-mít",
+      "C. Mác",
+      "Quy-ly-am Pet-ty"
+    ]
+  },
+  {
+    "question": "Giai cấp tư sản giữ vị trí trung tâm trong giai đoạn lịch sử:",
+    "answers": [
+      "1871 – 1917",
+      "1789 – 1871",
+      "Thế kỷ XVI đến 1789",
+      "1917 – 1945"
+    ]
+  },
+  {
+    "question": "Chọn câu trả lời đúng.",
+    "answers": [
+      "Thế giới quan trực tiếp phụ thuộc vào trình độ hiểu biết của con người đã đạt được trong một giai đoạn lịch sử nhất định",
+      "Cả A, B, C đều đúng",
+      "Thế giới quan là sự phản ánh của sự tồn tại vật chất và xã hội của con người dưới hình thức các quan niệm, quan điểm chung",
+      "Thế giới quan phụ thuộc vào chế độ xã hội đang thống trị"
+    ]
+  },
+  {
+    "question": "Yếu tố nào không nằm trong thế giới khách quan?",
+    "answers": [
+      "Giới xã hội",
+      "Hoạt động thực tiễn",
+      "Tư duy của con người",
+      "Giới tự nhiên"
+    ]
+  },
+  {
+    "question": "Về xây dựng lực lượng bảo vệ Tổ quốc, trong tư tưởng Hồ Chí Minh khẳng định: “Lực lượng chính trị quần chúng là cơ sở cho ….. …….” Bạn hãy lựa chọn cụm từ thích hợp điền vào chỗ trống",
+    "answers": [
+      "Đấu tranh quân sự",
+      "Đấu tranh ngoại giao",
+      "Đấu tranh cách mạng",
+      "Đấu tranh chính trị"
+    ]
+  }
+]

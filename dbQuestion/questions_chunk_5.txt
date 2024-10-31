@@ -1,0 +1,452 @@
+[
+  {
+    "question": "Triết học ra đời từ thực tiễn, nó có các nguồn gốc:",
+    "answers": [
+      "Nguồn gốc nhận thức, nguồn gốc xã hội và giai cấp",
+      "Nguồn gốc tự nhiên, xã hội và tư duy",
+      "Nguồn gốc nhận thức và nguồn gốc xã hội",
+      "Nguồn gốc tự nhiên và nhận thức"
+    ]
+  },
+  {
+    "question": "Khi xuất hiện chế độ tư hữu về tư liệu sản xuất, khi xã hội phân hoá thành các giai cấp, mâu thuẫn giữa các giai cấp ngày càng gay gắt đến mức không thể điều hoà được thì như thế nào?",
+    "answers": [
+      "Xuất hiện nhà nước",
+      "Xã hội bất ổn",
+      "Bất ổn chính trị",
+      "Chiến tranh"
+    ]
+  },
+  {
+    "question": "Chủ nghĩa duy vật đã phát triển qua những hình thức cơ bản nào?",
+    "answers": [
+      "Chủ nghĩa duy vật siêu hình – chủ nghĩa duy vật biện chứng",
+      "Chủ nghĩa duy vật chất phác – chủ nghĩa duy vật siêu hình",
+      "Chủ nghĩa duy vật chất phác – chủ nghĩa duy vật biện chứng",
+      "Không có phương án trả lời đúng"
+    ]
+  },
+  {
+    "question": "Cái “…” chỉ tồn tại trong cái “…” thông qua cái riêng mà biểu hiện sự tồn tại của mình.",
+    "answers": [
+      "Chung/Đơn nhất",
+      "Chung/Riêng",
+      "Đơn nhất/Riêng",
+      "Riêng/Chung"
+    ]
+  },
+  {
+    "question": "Trong xã hội có giai cấp, yếu tố nào của kiến trúc thượng tầng tiêu biểu cho chế độ chính trị hiện tồn, có khả năng chi phối các yếu tố còn lại?",
+    "answers": [
+      "Triết học",
+      "Văn hóa",
+      "Nhà nước",
+      "Tôn giáo"
+    ]
+  },
+  {
+    "question": "“Phải dựa vào lý luận khoa học và cách mạng của chủ nghĩa Mác – Lê nin về xây dựng Đảng vững mạnh về lý luận. Đảng ta phải cần đấu tranh để bảo vệ cho sự trong sảng của chủ nghĩa Mác – Lê nin.” Bạn hãy cho biết nội dung trên nằm trong công tác nào về việc xây dựng Đảng trong tư tưởng Hồ Chí Minh?",
+    "answers": [
+      "Xây dựng Đảng về tư tưởng",
+      "Xây dựng Đảng về chính trị",
+      "Xây dựng Đảng về tổ chức",
+      "Xây dựng Đảng về đạo đức"
+    ]
+  },
+  {
+    "question": "Phần Di chúc đầu tiên được Bác viết từ khi nào?",
+    "answers": [
+      "05/5 – 10/5/1965",
+      "05/5 – 15/5/1965",
+      "10/5 – 15/5/1965",
+      "10/5 – 20/5/1965"
+    ]
+  },
+  {
+    "question": "Trong tác phẩm “Đường Kách Mệnh”, lãnh tụ Nguyễn Ái Quốc đã lấy dẫn chứng lịch sử cách mạng các nước nào?",
+    "answers": [
+      "Anh, Nga, Mỹ",
+      "Mỹ, Pháp, Nga",
+      "Nga, Pháp, Anh",
+      "Anh, Pháp, Mỹ"
+    ]
+  },
+  {
+    "question": "Bản chất của chủ nghĩa tư bản “là một con đỉa có một cái vòi bám vào giai cấp vô sản ở chính quốc và một cái vòi khác bám vào giai cấp vô sản ở thuộc địa. Nếu muốn giết con vật ấy người ta phải đồng thời cắt cả hai vòi. Nếu người ta chỉ cắt một vòi thôi thì cái vòi còn lại kia sẽ tiếp tục hút máu của giai cấp vô sản con vật vẫn tiếp tục sống và cái vòi bị cắt đứt sẽ lại mọc ra”. Câu nói đó trích từ tác phẩm nào của Nguyễn Ái Quốc?",
+    "answers": [
+      "Đường kách mệnh",
+      "Con rồng tre",
+      "Không có đáp án nào đúng",
+      "Bản án chế độ thực dân Pháp"
+    ]
+  },
+  {
+    "question": "“ Người ngắm trăng soi ngoài cửa sổ\nTrăng nhòm  khe cửa ngắm nhà thơ”\nHai câu thơ trên được Bác Hồ viết trong bài thơ nào?",
+    "answers": [
+      "Ngắm trăng",
+      "Rằm xuân",
+      "Trung thu",
+      "Cảnh khuya"
+    ]
+  },
+  {
+    "question": "“Đụn Sơn phân giới\nBò Đái thất thanh\nThủy đáo Lam Thành\nSong Ngư thủy thiển.”",
+    "answers": [
+      "Hồ Chí Minh",
+      "Phan Bội Châu",
+      "Phan Châu Trinh",
+      "Võ Nguyên Giáp"
+    ]
+  },
+  {
+    "question": "Xếp theo thứ tự (từ trước đến sau) các nền văn hóa của người Việt cổ:",
+    "answers": [
+      "Bắc Sơn - Hòa Bình - Đông Sơn",
+      "Hòa Bình - Bắc Sơn - Đông Sơn",
+      "Đông Sơn - Hòa Bình - Bắc Sơn",
+      "Bắc Sơn - Đông Sơn - Hòa Bình"
+    ]
+  },
+  {
+    "question": "Theo quy định của pháp luật hình sự, người có năng lực trách nhiệm pháp lí phải đạt độ tuổi:",
+    "answers": [
+      "Từ 16 trở lên.",
+      "Đủ 16 trở lên.",
+      "Từ 18 trở lên.",
+      "Đủ 18 trở lên."
+    ]
+  },
+  {
+    "question": "Lĩnh vực điều chỉnh nào sau đây không nằm trong nội dung của Nghị quyết 54 của Quốc Hội về thí điểm cơ chế, chính sách đặc thù phát triển TP. Hồ Chí Minh?",
+    "answers": [
+      "Thẩm quyền quản lý thị trường hàng hóa xuất – nhập khẩu",
+      "Thẩm quyền quản lý tài chính - ngân sách nhà nước",
+      "Thẩm quyền quản lý đất đai",
+      "Cơ chế ủy quyền"
+    ]
+  },
+  {
+    "question": "CPI (viết tắt của từ tiếng anh Consumer Price Index) có nghĩa là gì?",
+    "answers": [
+      "Chỉ số lạm phát",
+      "Chỉ số giá tiêu dùng",
+      "Chỉ số năng lực cạnh tranh",
+      "Chỉ số kinh tế tri thức"
+    ]
+  },
+  {
+    "question": "Việt Nam đã tổ chức các Hội nghị cấp cao Diễn đàn Hợp tác Châu Á – Thái Bình Dương APEC vào những năm nào và tại đâu?",
+    "answers": [
+      "Năm 2007 tại TP. Hồ Chí Minh và năm 2017 tại Đà Nẵng",
+      "Năm 2005 tại Hà Nội và năm 2017 tại Đà Nẵng",
+      "Năm 2007 tại Hà Nội và năm 2017 tại TP. Hồ Chí Minh",
+      "Năm 2006 tại Hà Nội và năm 2017 tại Đà Nẵng"
+    ]
+  },
+  {
+    "question": "Chính quyền Xô viết ở một số vùng nông thôn Nghệ - Tĩnh được thành lập trong khoảng thời gian nào?",
+    "answers": [
+      "Cuối năm 1930",
+      "Cuối năm 1931",
+      "Đầu năm 1931",
+      "Đầu năm 1930"
+    ]
+  },
+  {
+    "question": "Đường hầm vượt sông Sài Gòn hay còn gọi là hầm Thủ Thiêm được khởi công và khánh thành vào năm nào?",
+    "answers": [
+      "2004 – 2011",
+      "2005 – 2010",
+      "2003 – 2010",
+      "2004 – 2010"
+    ]
+  },
+  {
+    "question": "Sự kiện nào khiến ‘Đường Hồ Chí Minh trên biển’ không còn giữ được bí mật, khiến Quân uỷ Trung ương ra lệnh tạm dừng vận chuyển vũ khí vào Nam để nghiên cứu phương thức mới?",
+    "answers": [
+      "Sự kiện Vũng Rô, 1965",
+      "Sự kiện Phá Tam Giang, 1964",
+      "Sự kiện Đầm Thị Nại, 1963",
+      "Sự kiện Bến tàu Lộc An, 1964"
+    ]
+  },
+  {
+    "question": "Chủ nghĩa kinh nghiệm, chủ nghĩa giáo điều là biểu hiện trực tiếp của việc:",
+    "answers": [
+      "Chủ nghĩa kinh nghiệm, chủ nghĩa giáo điều là biểu hiện trực tiếp của việc:",
+      "Không tôn trọng quan điểm toàn diện, quan điểm lịch sử – cụ thể",
+      "Không tôn trọng nguyên tắc khách quan",
+      "Không tôn trọng quan điểm toàn diện, quan điểm lịch sử – cụ thể"
+    ]
+  },
+  {
+    "question": "Có bao nhiêu chiến lược cụ thể đã được xác lập trong “Chiến lược phát triển Đại học Quốc gia Thành phố Hồ Chí Minh giai đoạn 2021-2030, tầm nhìn 2045”?",
+    "answers": [
+      "9",
+      "6",
+      "8",
+      "7"
+    ]
+  },
+  {
+    "question": "Nguồn gốc chủ yếu của tích lũy tư bản là:",
+    "answers": [
+      "Giá trị thặng dư",
+      "Sản phẩm thặng dư",
+      "Tiền huy động",
+      "Tiền đi vay"
+    ]
+  },
+  {
+    "question": "Mục đích của nền sản xuất hàng hóa là gì?",
+    "answers": [
+      "Giá trị thặng dư",
+      "Giá trị",
+      "Tạo ra sản phẩm phục vụ cho con người",
+      "Giá trị và giá trị thặng dư"
+    ]
+  },
+  {
+    "question": "Đại hội đại biểu toàn quốc lần thứ III của Đảng Lao động Việt Nam (9-1960) xác định cách mạng xã hội chủ nghĩa ở miền Bắc có vai trò như thế nào đối với sự phát triển của cách mạng cả nước?",
+    "answers": [
+      "Hậu phương kháng chiến",
+      "Căn cứ địa cách mạng",
+      "Quyết định nhất",
+      "Quyết định trực tiếp"
+    ]
+  },
+  {
+    "question": "Trong chiến dịch Hồ Chí Minh (1975), Bộ Chính trị Trung ương Đảng Lao động Việt Nam đã xác địch mở đường vào chiến dịch có bao nhiêu hướng tấn công?",
+    "answers": [
+      "6 hướng tấn công",
+      "4 hướng tấn công",
+      "5 hướng tấn công",
+      "7 hướng tấn công"
+    ]
+  },
+  {
+    "question": "Sự kiện nào có ý nghĩa “từ cuộc tiến công chiến lược phát triển thành cuộc tổng tiến công chiến lược trên toàn chiến trường miền Nam”?",
+    "answers": [
+      "Giải phóng Huế",
+      "Giải phóng Phan Rang",
+      "Giải phóng Đà Nẵng",
+      "Giải phóng Tây Nguyên"
+    ]
+  },
+  {
+    "question": "Trong cuộc Tổng tiến công và nổi dậy mùa Xuân năm 1975, bộ phận nào đảm nhận nhiệm vụ tiến công giải phóng các đảo thuộc quần đảo Trường Sa?",
+    "answers": [
+      "Khu 7",
+      "Khu 4",
+      "Khu 5",
+      "Khu 6"
+    ]
+  },
+  {
+    "question": "Điền từ còn thiếu vào chỗ trống: “Các nhà triết học đã … thế giới bằng nhiều cách khác nhau, song vấn đề là … thế giới” (C. Mác).",
+    "answers": [
+      "bàn về/ Cải tạo.",
+      "lý giải/ Cải biến.",
+      "giải thích/ Cải tạo.",
+      "quan niệm về/ xây dựng lý thuyết khoa học cho."
+    ]
+  },
+  {
+    "question": "Giai đoạn nhận thức diễn ra trên cơ sở sự tác động trực tiếp của các sự vật lên các giác quan của con người là giai đoạn nhận thức nào?",
+    "answers": [
+      "Nhận thức lý tính",
+      "Nhận thức cảm tính",
+      "Nhận thức khoa học",
+      "Nhận thức lý luận"
+    ]
+  },
+  {
+    "question": "Ý thức:",
+    "answers": [
+      "Không có ý kiến đúng",
+      "Có thể sáng tạo ra thế giới khách quan",
+      "Có thể sáng tạo ra thế giới khách quan thông qua thực tiễn",
+      "Không thể sáng tạo ra thế giới khách quan"
+    ]
+  },
+  {
+    "question": "Tác phẩm được xem quan trọng và điển hình nhất của chủ nghĩa Mác trong giai đoạn 1848 – 1895 là:",
+    "answers": [
+      "Biện chứng của tự nhiên",
+      "Chống Đuy-rinh",
+      "Nguồn gốc của gia đình, của chế độ tư hữu và của nhà nước",
+      "Bộ Tư bản"
+    ]
+  },
+  {
+    "question": "Điền từ thiếu vào ô trống: “Bước quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội, kẻ thù chủ yếu của chúng ta là giai cấp … và những tập quán thói quen của giai cấp ấy.”  (V.I. Lênin)",
+    "answers": [
+      "Tiểu tư sản",
+      "Tư sản",
+      "Phong kiến",
+      "Nông dân"
+    ]
+  },
+  {
+    "question": "Trong xã hội có giai cấp, cơ cấu nào có vị trí quyết định nhất, chi phối các loại hình cơ cấu xã hội khác?",
+    "answers": [
+      "Cơ cấu xã hội - dân tộc",
+      "Cơ cấu xã hội - giai cấp",
+      "Cơ cấu xã hội - dân số",
+      "Cơ cấu xã hội - nghề nghiệp"
+    ]
+  },
+  {
+    "question": "Khả năng giành chính quyền bằng phương pháp hòa bình của cách mạng xã hội chủ nghĩa, được C. Mác nghiên cứu từ thực tiễn lịch sử:",
+    "answers": [
+      "Nước Đức trong chiến tranh Pháp, Phổ",
+      "Châu Âu năm 1848",
+      "Nước Pháp năm 1789",
+      "Nước Anh vào những năm 70 thế kỷ XIX"
+    ]
+  },
+  {
+    "question": "Câu nói: “Điểm chủ yếu trong học thuyết của Mác là ở chỗ nó làm sáng tỏ vai trò lịch sử của giai cấp vô sản là người xây dựng chủ nghĩa xã hội” là của ai.",
+    "answers": [
+      "Ph. Ăngghen",
+      "V.I. Xtalin",
+      "V.I. Lênin",
+      "Hồ Chí Minh"
+    ]
+  },
+  {
+    "question": "Chủ tịch Hồ Chí Minh đã tổng hợp các khuyết điểm thành 3 hạng và nêu rõ trong tác phẩm “Sửa đổi lối làm việc” đó là:",
+    "answers": [
+      "Ba hoa, thành tích, chủ quan",
+      "Bè phái, xu nịnh, thành tích",
+      "Xu nịnh, chủ quan, ba hoa",
+      "Chủ quan, hẹp hòi, ba hoa"
+    ]
+  },
+  {
+    "question": "Theo Chủ tịch Hồ Chí Minh, nội dung của nền giáo dục mới là gì?",
+    "answers": [
+      "Giáo dục đạo đức",
+      "Giáo dục tư tưởng chính trị",
+      "Giáo dục toàn diện cả đức, trí, thể, mỹ",
+      "Giáo dục thái độ lao động"
+    ]
+  },
+  {
+    "question": "Nội dung học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh trong năm 2021 và những năm tiếp theo là gì?",
+    "answers": [
+      "“Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh về ý chí tự lực, tự cường và khát vọng phát triển đất nước phồn vinh, hạnh phúc”",
+      "“Tăng cường khối đại đoàn kết toàn dân tộc, xây dựng Đảng và hệ thống chính trị trong sạch, vững mạnh theo tư tưởng, đạo đức, phong cách Hồ Chí Minh",
+      "“Xây dựng phong cách, tác phong công tác của người đứng đầu, của cán bộ, đảng viên trong học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh”",
+      "“Xây dựng ý thức tôn trọng Nhân dân, phát huy dân chủ, chăm lo đời sống Nhân dân theo tư tưởng, đạo đức, phong cách Hồ Chí Minh”"
+    ]
+  },
+  {
+    "question": "Tìm dãy chữ phù hợp. \"Trước hết phải có Đảng cách mạng để trong thì ...... và tổ chức quần chúng, ngoài thì ...... với dân tộc bị áp bức và vô sản giai cấp ở mọi nơi ...... có vững cách mạng mới thành công\".",
+    "answers": [
+      "Liên lạc - vận động - Đảng",
+      "Đảng - vận động - liên lạc",
+      "Vận động - liên lạc - Đảng",
+      "Liên lạc - vận động - Đảng"
+    ]
+  },
+  {
+    "question": "Nhằm đáp ứng sự đòi hỏi của phong trào công nhân đang lên cao và yêu cầu rèn luyện hội viên, năm 1928, Hội Việt Nam cách mạng thanh niên đã đề ra chủ trương gì?",
+    "answers": [
+      "Bình đẳng nam - nữ",
+      "Xóa bỏ giai cấp",
+      "Tư sản hóa",
+      "Vô sản hóa"
+    ]
+  },
+  {
+    "question": "Cầu vượt biển dài nhất Việt Nam hiện nay?",
+    "answers": [
+      "Cầu Tân Vũ – Lạch Huyện",
+      "Cầu Thị Nại",
+      "Cầu Nhật Tân",
+      "Cầu Vĩnh Thịnh"
+    ]
+  },
+  {
+    "question": "Năm 1923, Nguyễn Ái Quốc học lớp ngắn hạn tại trường Đại học nào ở Liên Xô?",
+    "answers": [
+      "Cả 3 câu trên đều sai",
+      "Trường Quân sự Hoàng Phố",
+      "Trường Đại học Phương Đông",
+      "Trường Đại học Quốc tế Lênin"
+    ]
+  },
+  {
+    "question": "Trong chiến dịch Điện Biên Phủ trận thắng nào mở màn và có ý nghĩa mở toang cánh cửa để tiến vào tiêu diệt tập đoàn cứ điểm?",
+    "answers": [
+      "Trận Hồng Cúm",
+      "Trận Đồi A1",
+      "Trận Bản Kéo",
+      "Trận Him Lam"
+    ]
+  },
+  {
+    "question": "Năm 1865, tờ báo chữ quốc ngữ đầu tiên được xuất bản ở Sài Gòn, đó là tờ báo nào?",
+    "answers": [
+      "Gia Định báo",
+      "Nhật Trình Nam Kỳ",
+      "Nông cổ mín đàm.",
+      "Lục Tỉnh Tân Văn"
+    ]
+  },
+  {
+    "question": "“Vững chí bền gan ai hỡi ai,\nKiên tâm giữ dạ mới anh tài.\nThời cuộc đẩy đưa người chiến sĩ,\nCong đường cách mạng vẫn chông gai”.\nĐây là bốn câu thơ của một nữ chiến sĩ đã viết trên tường nhà giam trước lúc bị xử bắn. Người đó là?",
+    "answers": [
+      "Lê Thị Hồng Gấm.",
+      "Võ Thị Sáu",
+      "Nguyễn Thị Minh Khai",
+      "Võ Thị Thắng"
+    ]
+  },
+  {
+    "question": "Quan điểm \"Không ai tắm hai lần trên một dòng sông\" là của ai?",
+    "answers": [
+      "Hêraclít (nhà triết học Hy Lạp cổ đại)",
+      "Đức Phật Thích Ca Mâu Ni (tên thật là Tất Đạt Đa - người sáng lập đạo Phật ở Ấn Độ)",
+      "Lão Tử (nhà triết học Trung Hoa cổ đại - người được coi là ông tổ của đạo Lão Trang)",
+      "Tất cả đều sai"
+    ]
+  },
+  {
+    "question": "Hình thức nào là hình thức đầu tiên của giai đoạn trực quan sinh động?",
+    "answers": [
+      "Ấn tượng",
+      "Cảm giác",
+      "Tri giác",
+      "Biểu tượng"
+    ]
+  },
+  {
+    "question": "Theo Nghị quyết Đại hội Đảng toàn quốc lần thứ XIII, Đến năm 2030, kỷ niệm 100 năm thành lập Đảng, nước ta đặt mục tiêu:",
+    "answers": [
+      "Là nước phát triển, công nghiệp và nông nghiệp hiện đại, thu nhập cao",
+      "Là nước đang phát triển, có công nghiệp và nông nghiệp hiện đại, thu nhập trung bình cao",
+      "Là nước đang phát triển, có công nghiệp hiện đại, thu nhập trung bình cao.",
+      "Là nước phát triển, thu nhập cao"
+    ]
+  },
+  {
+    "question": "Cơ cấu lợi ích trong thành phần kinh tế tư bản nhà nước là:",
+    "answers": [
+      "Lợi ích doanh nghiệp, lợi ích xã hội, lợi ích cá nhân",
+      "Lợi ích nhà nước, lợi ích tập thể, lợi ích cá nhân",
+      "Lợi ích chủ doanh nghiệp, lợi ích xã hội, lợi ích cá nhân",
+      "Lợi ích cá nhân, lợi ích xã hội, lợi ích tập thể"
+    ]
+  },
+  {
+    "question": "Khi nghiên cứu nền sản xuất tư bản chủ nghĩa, C. Mác bắt đầu từ",
+    "answers": [
+      "Sản xuất",
+      "Tiền tệ",
+      "Giá trị thặng dư",
+      "Hàng hóa"
+    ]
+  }
+]

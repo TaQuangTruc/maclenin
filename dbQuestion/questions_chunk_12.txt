@@ -1,0 +1,452 @@
+[
+  {
+    "question": "Khái niệm chuyên chính vô sản được C. Mác sử dụng lần đầu tiên trong tác phẩm nào?",
+    "answers": [
+      "Đấu tranh giai cấp ở Pháp 1848 – 1850",
+      "Tình cảnh giai cấp công nhân Anh",
+      "Tư bản",
+      "Tuyên ngôn của Đảng Cộng sản"
+    ]
+  },
+  {
+    "question": "Chọn phương án trả lời đúng với tư tưởng Hồ Chí Minh về cách mạng giải phóng dân tộc.",
+    "answers": [
+      "Thắng lợi của cách mạng vô sản ở thuộc địa phải phụ thuộc vào thắng lợi của cách mạng vô sản ở chính quốc.",
+      "Cách mạng giải phóng dân tộc ở thuộc địa có khả năng giành được thắng lợi trước cách mạng vô sản ở chính quốc.",
+      "Cách mạng giải phóng dân tộc giành thắng lợi đồng thời với thắng lợi cách mạng vô sản ở chính quốc.",
+      "Cả 3 câu trên đều sai."
+    ]
+  },
+  {
+    "question": "Theo luật giáo dục năm 2005, hệ thống giáo dục quốc dân bao gồm:",
+    "answers": [
+      "Giáo dục chính quy và giáo dục thường xuyên",
+      "Cả 3 đáp án đều sai",
+      "Giáo dục nghề nghiệp và giáo dục phổ thông",
+      "Giáo dục đại học, phổ thông, dạy nghề"
+    ]
+  },
+  {
+    "question": "Ngày 07/01/2016 Thủ tướng Chính phủ đã ban hành Quyết định số 40/QĐ-TTg về việc phê duyệt Chiến lược tổng thể về vấn đề nào đến năm 2020, tầm nhìn đến năm 2030?",
+    "answers": [
+      "Biển đảo Việt Nam",
+      "Phát triển kinh tế",
+      "Đào tạo nguồn nhân lực",
+      "Hội nhập quốc tế"
+    ]
+  },
+  {
+    "question": "Biện chứng khách quan là gì?",
+    "answers": [
+      "Là những quan niệm biện chứng tiên nghiệm, có trước kinh nghiệm",
+      "Là biện chứng không thể nhận thức được nó",
+      "Là những quan niệm biện chứng được rút ra từ ý niệm tuyệt đối độc lập với ý thức con người",
+      "Là biện chứng của vật chất"
+    ]
+  },
+  {
+    "question": "Thay mặt Hội những người Việt Nam yêu nước tại Pháp, Nguyễn Ái Quốc gửi đến Hội nghị Versailles bản “Yêu sách của nhân dân Việt Nam” gồm mấy điểm?",
+    "answers": [
+      "12 điểm",
+      "8 điểm",
+      "6 điểm",
+      "9 điểm"
+    ]
+  },
+  {
+    "question": "“Đến ngày thắng lợi, nhân dân ta sẽ xây  dựng lại đất nước ta đàng hoàng hơn, to đẹp hơn”. Câu nói này được Bác Hồ Viết trong tác phẩm nào?",
+    "answers": [
+      "Lời kêu gọi đồng bào và chiến sĩ cả nước 17/ 7/ 1966",
+      "Di chúc",
+      "Lời kêu gọi toàn quốc kháng chiến",
+      "Tuyên ngôn Độc lập"
+    ]
+  },
+  {
+    "question": "Công trình nào được Đại hội Đoàn Thành phố nhiệm kỳ X xác định là công trình trọng điểm được thực hiện tại Khu Đô thị ĐHQG trong nhiệm kỳ 2012 – 2022?",
+    "answers": [
+      "Công viên Thanh niên",
+      "Nhà văn hóa Thanh niên",
+      "Công viên Sinh viên",
+      "Nhà văn hóa Sinh viên"
+    ]
+  },
+  {
+    "question": "“Nhất cá nhân đảo hạ khứ, thập vạn nhân trạm khởi lai”, tức là “Một người nằm xuống, muôn người đứng lên” là hai câu đối trong lễ truy điệu của liệt sĩ hy sinh trong phong trào đấu tranh của sinh viên, học sinh Sài Gòn. Chị là ai?",
+    "answers": [
+      "Quách Thị Trang",
+      "Nhất Chi Mai",
+      "Đỗ Thị Kim Chi",
+      "Trần Bội Cơ"
+    ]
+  },
+  {
+    "question": "Chọn phương án đúng điền vào chỗ trống: “Tích tụ tư bản là sự tăng thêm quy mô của…bằng cách tư bản hoá một phần…trong một xí nghiệp tư bản”.",
+    "answers": [
+      "Tư bản cá biệt/ giá trị sử dụng.",
+      "Tư bản cá biệt/ giá trị thặng dư.",
+      "Tư bản xã hội/ giá trị thặng dư.",
+      "Tư bản cố định/ giá trị thặng dư."
+    ]
+  },
+  {
+    "question": "Đại hội đại biểu lần thứ II của ĐCS Việt Nam (2/1951) được đánh giá là:",
+    "answers": [
+      "Đại hội thành công",
+      "Đại hội nhất định thắng lợi",
+      "Đại hội kháng chiến thắng lợi",
+      "Đại hội nhất định thành công"
+    ]
+  },
+  {
+    "question": "Mở đầu bản Di chúc, Chủ tịch Hồ Chí Minh đã nhắc tới nhà thơ nào?",
+    "answers": [
+      "Đỗ Phủ",
+      "Lỗ Tấn",
+      "Thanh Tâm Tài Nhân",
+      "Nguyễn Trãi"
+    ]
+  },
+  {
+    "question": "Câu nói “Nền kinh tế xã hội chủ nghĩa có hai chân là công nghiệp và nông nghiệp, hai chân không đều nhau không thể bước mạnh được.” là của ai?",
+    "answers": [
+      "Hồ Chí Minh",
+      "V.I Lê – nin",
+      "Ph. Ăng – ghen",
+      "Các – Mác"
+    ]
+  },
+  {
+    "question": "Ai là Bí thư Thành Đoàn Sài Gòn – Gia Định đầu tiên?",
+    "answers": [
+      "Lê Minh Quới",
+      "Phạm Trọng Danh",
+      "Hồ Hảo Hớn",
+      "Bùi Văn Trạch"
+    ]
+  },
+  {
+    "question": "Ngày 6/1/1946, Chủ tịch Hồ Chí Minh tham gia bỏ phiếu bầu đại biểu Quốc hội khóa I tại địa điểm bỏ phiếu nào?",
+    "answers": [
+      "Phố Lò Đúc",
+      "Phố Hàng Gai",
+      "Phố Hàng Vôi",
+      "Phố Hàng Trống"
+    ]
+  },
+  {
+    "question": "Nhân tố nào quyết định lợi ích kinh tế?",
+    "answers": [
+      "Quan hệ phân phối",
+      "Quan hệ tiêu dùng",
+      "Quan hệ trao đổi",
+      "Quan hệ sở hữu"
+    ]
+  },
+  {
+    "question": "Địa tô chênh lệch II là địa tô thu được từ đâu?",
+    "answers": [
+      "Thâm canh",
+      "Thu trên đất đai màu mỡ",
+      "Thu trên điều kiện ruộng đất xấu",
+      "Thu trên mọi loại đất"
+    ]
+  },
+  {
+    "question": "Đợt 1 của chiến dịch Hồ Chí Minh (4/1975) diễn ra ở bao nhiêu hướng? Đó là những hướng nào?",
+    "answers": [
+      "5- hướng Đông, Đông Bắc, Bắc, Tây Bắc và Tây Nam",
+      "4- hướng Đông, Đông Bắc, Bắc và Tây Bắc",
+      "5- hướng Đông, Đông Bắc, Đông Nam, Bắc và Tây Bắc",
+      "4- hướng Đông, Đông Bắc, Tây Bắc và Tây Nam"
+    ]
+  },
+  {
+    "question": "Chọn phương án đúng điền vào khoảng trống trong câu của V.I. Lênin sau đây:\n“Nguyên tắc cao nhất của chuyên chính là duy trì …………..….. giữa giai cấp vô sản và nông dân để giai cấp vô sản có thể giữ được vai trò lãnh đạo và chính quyền nhà nước”.",
+    "answers": [
+      "Khối liên minh",
+      "Sự thống nhất về lợi ích",
+      "Sự thống nhất về tư tưởng",
+      "Khối đoàn kết"
+    ]
+  },
+  {
+    "question": "Theo quan điểm của chủ nghĩa duy vật biện chứng, nguồn gốc của ý thức là gì?",
+    "answers": [
+      "Nguồn gốc tự nhiên và nguồn gốc xã hội",
+      "Nguồn gốc tự nhiên",
+      "Nguồn gốc tự nhiên là chính, nguồn gốc xã hội là phụ",
+      "Nguồn gốc xã hội"
+    ]
+  },
+  {
+    "question": "Theo Triết học Mác - Lênin, chân lý có bao nhiêu tính chất?",
+    "answers": [
+      "2 tính chất",
+      "3 tính chất",
+      "4 tính chất",
+      "5 tính chất"
+    ]
+  },
+  {
+    "question": "Mối quan hệ biện chứng giữa tồn tại xã hội và ý thức xã hội? Chọn câu trả lới đúng nhất:",
+    "answers": [
+      "Tồn tại xã hội quyết định ý thức xã hội.",
+      "Tồn tại xã hội tác động trở lại ý thức xã hội",
+      "Ý thức xã hội quyết định tồn tại xã hội.",
+      "Tồn tại xã hội quyết định Ý thức xã hội, Ý thức xã hội độc lập tương đối với tồn tại xã hội, tác động trở lại tồn tại xã hội."
+    ]
+  },
+  {
+    "question": "Trong Lời kêu gọi toàn quốc kháng chiến, Chủ tịch Hồ Chí Minh xác định: “Chúng ta thà hy sinh tất cả, chứ nhất định […], nhất định không chịu làm nô lệ”. Trong dấu 3 chấm là?",
+    "answers": [
+      "Không chịu bóc lột",
+      "Không chịu đầu hàng",
+      "Không chịu khuất phục",
+      "Không chịu áp bức"
+    ]
+  },
+  {
+    "question": "Huy hiệu Đoàn TNCS Hồ Chí Minh được sáng tác ở đâu và vào thời gian nào?",
+    "answers": [
+      "Hà Nội, năm 1952",
+      "Chiến khu Việt Bắc, năm 1951",
+      "Hà Nội, năm 1945",
+      "Hang Pắc Pó, năm 1945"
+    ]
+  },
+  {
+    "question": "Núi Các Mác, suối Lênin là những ngọn núi, con suối được Hồ Chí Minh đặt tên, hiện nay thuộc huyện, tỉnh nào?",
+    "answers": [
+      "Hà Quảng, Cao Bằng",
+      "Bắc Sơn, Lạng Sơn",
+      "Đại Từ, Thái Nguyên",
+      "Sơn Dương, Tuyên Quang"
+    ]
+  },
+  {
+    "question": "Đờn ca tài tử được UNESSCO công nhận là Di sản phi vật thể đại diện cho nhân loại vào năm nào?",
+    "answers": [
+      "2013",
+      "2010",
+      "2011",
+      "2012"
+    ]
+  },
+  {
+    "question": "Cốt lõi của Tư tưởng Hồ Chí Minh là gì?",
+    "answers": [
+      "Độc lập dân tộc gắn liền với hòa bình",
+      "Độc lập dân tộc gắn liền với dân chủ",
+      "Độc lập dân tộc gắn liền với chủ nghĩa xã hội",
+      "Độc lập dân tộc gắn liền với hạnh phúc của nhân dân"
+    ]
+  },
+  {
+    "question": "Theo Hồ Chí Minh, đấu tranh chống chủ nghĩa cá nhân nghĩa là",
+    "answers": [
+      "Không giày xéo lên lợi ích cá nhân",
+      "Loại bỏ lợi ích cá nhân",
+      "Cả 3 câu trên đều sai",
+      "Chỉ bảo vệ lợi ích tập thể"
+    ]
+  },
+  {
+    "question": "Trong 21 năm kháng chiến chống Mỹ (1954-1975) người giữ nhiệm vụ Bí thư Thành ủy (Đặc khu ủy-Phân khu ủy) Sài Gòn-Chợ Lớn với thời gian lâu nhất là ai?",
+    "answers": [
+      "Đ/c Võ Văn Kiệt",
+      "Đ/c Nguyễn Văn Linh",
+      "Đ/c Mai Chí Thọ",
+      "Đ/c Trần Bạch Đằng"
+    ]
+  },
+  {
+    "question": "Ông là một người cộng sản lỗi lạc, là Bí thư đầu tiên của Xứ ủy Nam kỳ. Bị thực dân Pháp đày ra Côn Đảo, ông cùng đồng đội đóng thuyền, vượt biển, nhưng không về được đến đất liền. Ông là ai?",
+    "answers": [
+      "Hoàng Văn Thụ",
+      "Huỳnh Thúc Kháng",
+      "Trần Khánh Dư",
+      "Ngô Gia Tự"
+    ]
+  },
+  {
+    "question": "Thanh niên quy định trong Luật Thanh niên là:",
+    "answers": [
+      "Công dân từ đủ 15 tuổi đến 30 tuổi",
+      "Công dân Việt Nam từ 16 tuổi đến 30 tuổi",
+      "Công dân Việt Nam từ đủ 16 tuổi đến 30 tuổi",
+      "Công dân từ đủ 18 tuổi đến 30 tuổi"
+    ]
+  },
+  {
+    "question": "Trong cùng một thời gian lao động khi số lượng sản phẩm tăng lên còn giá trị một đơn vị hàng hoá và các điều khác không thay đổi thì đó là kết quả của",
+    "answers": [
+      "Tất cả đều không đúng",
+      "Tăng năng suất lao động",
+      "Tăng cường độ lao động",
+      "Của cả tăng năng suất lao động và tăng cường độ lao động"
+    ]
+  },
+  {
+    "question": "Giá cả hàng hóa - sức lao động (tiền lương), được quyết định bởi:",
+    "answers": [
+      "Quan hệ cung cầu của hàng hóa - sức lao động",
+      "Tác động của quan hệ cung - cầu hàng hóa - sức lao động",
+      "Giá trị của hàng hóa - sức lao động",
+      "Giá trị sử dụng của hàng hóa - sức lao động"
+    ]
+  },
+  {
+    "question": "Nét nổi bật về nghệ thuật chỉ đạo chiến tranh cách mạng của Đảng Lao động Việt Nam trong cuộc Tổng tiến công và nổi dậy Xuân 1975 là",
+    "answers": [
+      "Kết hợp tiến công và khởi nghĩa của lực lượng vũ trang",
+      "Đi từ khởi nghĩa từng phần tiến lên chiến tranh cách mạng",
+      "Kết hợp đánh nhanh, thắng nhanh và đánh chắc, tiến chắc",
+      "Lựa chọn đúng địa bàn và chủ động tạo thời cơ tiến công"
+    ]
+  },
+  {
+    "question": "Theo quan niệm của chủ nghĩa duy vật biện chứng giữa biện chứng chủ quan và biện chứng khách quan quan hệ với nhau như thế nào?",
+    "answers": [
+      "Biện chứng chủ quan phản ánh biện chứng khách quan",
+      "Biện chứng khách quan là sự thể hiện của biện chứng chủ quan",
+      "Biện chứng chủ quan quyết định biện chứng khách quan",
+      "Biện chứng chủ quan hoàn toàn độc lập với biện chứng khách quan"
+    ]
+  },
+  {
+    "question": "Câu thơ “Chống gậy lên non xem trận địa/Vạn trùng núi đỡ vạn trùng mây” gắn liền với:",
+    "answers": [
+      "Trung ương Đảng, Hồ Chủ Tịch về căn chiến khu Việt Bắc",
+      "Bác Hồ chỉ đạo chiến dịch Việt Bắc thu đông 1947",
+      "Sự kiện Bác Hồ đi chiến dịch, ra mặt trận Biên giới 1950",
+      "Chiến dịch quyết chiến chiến lược Điện Biên Phủ 1954"
+    ]
+  },
+  {
+    "question": "Một tác phẩm của Nguyễn Ái Quốc được đăng trên báo Pravđa trong thời gian Người ở Liên xô (1923 – 1924) là :",
+    "answers": [
+      "Lênin và các dân tộc thuộc địa",
+      "Bản án chế độ thực dân Pháp",
+      "Lênin và các dân tộc  Phương Đông",
+      "Trung Quốc và thanh niên Trung Quốc"
+    ]
+  },
+  {
+    "question": "Năm 1926, tổ chức “Thanh niên Cao vọng đảng” ra đời và phát triển mạnh ở Nam kì. Người sáng lập tổ chức này là ai?",
+    "answers": [
+      "Nguyễn Thái Học",
+      "Tạ Thu Thâu",
+      "Nguyễn Văn Trường",
+      "Nguyễn An Ninh"
+    ]
+  },
+  {
+    "question": "Bến Cảng Sài Gòn - nơi Nguyễn Tất Thành ra đi tìm đường cứu nước được chính thức đặt tên là Bảo tàng Hồ Chí Minh, chi nhánh Thành phố Hồ Chí Minh từ thời gian nào?",
+    "answers": [
+      "1976",
+      "1979",
+      "1995",
+      "1985"
+    ]
+  },
+  {
+    "question": "Thuộc tính đặc trưng của vật chất theo quan điểm của triết học Mác – Lênin là gì?",
+    "answers": [
+      "Là thực tại khách quan tồn tại bên ngoài, không lệ thuộc vào cảm giác",
+      "Là một phạm trù triết học",
+      "Là tất cả những gì tác động vào giác quan ta gây nên cảm giác",
+      "Là toàn bộ thế giới hiện thực"
+    ]
+  },
+  {
+    "question": "Theo quan điểm duy vật lịch sử, chủ thể sáng tạo chân chính ra lịch sử là:",
+    "answers": [
+      "Giai cấp thống trị",
+      "Các cá nhân kiệt xuất, các vĩ nhân",
+      "Quần chúng nhân dân",
+      "Tầng lớp trí thức trong xã hội"
+    ]
+  },
+  {
+    "question": "Khi khoa học tự nhiên phát hiện ra tia X, ra hiện tượng phóng xạ, ra điện tử là một thành phần cấu tạo nên nguyên tử. Theo V.I. Lênin điều đó chứng tỏ gì?",
+    "answers": [
+      "Vật chất có tồn tại thực sự nhưng không thể nhận thức được",
+      "Giới hạn hiểu biết trước đây của chúng ta về vật chất mất đi",
+      "Vật chất tiêu tan mất",
+      "Vật chất không tồn tại thật sự"
+    ]
+  },
+  {
+    "question": "Sau 16 năm lãnh đạo cách mạng Việt Nam, lần đầu tiên Đảng đã tuyên bố ra hoạt động công khai. Đó là Đại hội lần thứ mấy?",
+    "answers": [
+      "Đại hội Đảng toàn quốc lần thứ ba",
+      "Đại hội Đảng toàn quốc lần thứ hai",
+      "Đại hội Đảng toàn quốc lần thứ tư",
+      "Đại hội Đảng toàn quốc lần thứ nhất"
+    ]
+  },
+  {
+    "question": "Thành phố Sài Gòn-Gia Định được chính thức mang tên TP. Hồ Chí Minh từ ngày nào?",
+    "answers": [
+      "Ngày 22/7/1975",
+      "Ngày 2/7/1976",
+      "Ngày 30/4/1976",
+      "Ngày 12/7/1975"
+    ]
+  },
+  {
+    "question": "Trong bài ‘Chống quan liêu, tham ô, lãng phí’ đăng trên Báo Nhân dân năm 1952, Bác viết: Quan liêu, tham ô, lãng phí là _______. Phải tẩy sạch nó để thực hiện cần kiệm liêm chính, để đẩy mạnh thi đua sản xuất và tiết kiệm, để đưa kháng chiến đến thắng lợi, kiến quốc đến thành công, để xây dựng thuần phong mỹ tục trong toàn dân, toàn quốc",
+    "answers": [
+      "Phản động",
+      "Thói xấu",
+      "Tội ác",
+      "Trọng tội"
+    ]
+  },
+  {
+    "question": "Đề án “Xây dựng đảo Thanh niên” của Trung ương Đoàn được Chính phủ phê duyệt từ năm 2013 tại 05 đảo, đó là:",
+    "answers": [
+      "Đảo Bạch Long Vĩ (Hải Phòng), Đảo Cồn Cỏ (Quảng Trị), Đảo Lý Sơn (Quảng Ngãi), Đảo Phú Quý (Bình Thuận), Đảo Thổ Chu (Kiên Giang)",
+      "Đảo Bạch Long Vĩ (Hải Phòng), Đảo Cồn Cỏ (Quảng Trị), Đảo Trần (Quảng Ninh), Đảo Hòn Chuối (Cà Mau), Đảo Thổ Chu (Kiên Giang)",
+      "Đảo Lan Châu (Nghệ An), Đảo Cồn Cỏ (Quảng Trị), Đảo Cù Lao Xanh (Bình Định), Đảo Trường Sa Lớn (Khánh Hòa), Đảo Phú Quốc (Kiên Giang),",
+      "Đảo Cồn Cỏ (Quảng Trị), Côn Đảo (Bà Rịa – Vũng Tàu), Đảo Lý Sơn (Quảng Ngãi), Đảo Phú Quý (Bình Thuận), Đảo Thổ Chu (Kiên Giang)"
+    ]
+  },
+  {
+    "question": "Những điều căn bản của Thanh niên Cộng sản Đoàn” như: tính chất, chức năng, nhiệm vụ và những vấn đề về nguyên tắc tổ chức của Đoàn được đề ra lần đầu tiên ở văn kiện nào?",
+    "answers": [
+      "Nghị quyết hội nghị Trung ương Đảng (10/1931)",
+      "Văn kiện Đại hội Đảng toàn quốc lần thứ I (1935)",
+      "“Án nghị quyết về công tác thanh niên vận động” (10/1930)",
+      "Văn kiện Đại hội Đoàn toàn quốc lần thứ I (1950)"
+    ]
+  },
+  {
+    "question": "Đại hội Đại biểu Đoàn TP. Hồ Chí Minh lần thứ X, nhiệm kỳ 2017 – 2022 đã xác định nhiệm vụ toàn Đoàn thành phố đặt ra những yêu cầu gì khi triển khai 3 phong trào hành động cách mạng?",
+    "answers": [
+      "Đảm bảo tính mới, tính sáng tạo, tính hiệu quả, tính năng động, tính bền vững.",
+      "Đảm bảo tính dẫn dắt, tính hiệu quả, tính bền vững.",
+      "Đảm bảo tính rộng khắp, tính định hướng, tính dẫn dắt, tính hiệu quả, tính bền vững.",
+      "Đảm bảo tính rộng khắp, tính hiệu triệu."
+    ]
+  },
+  {
+    "question": "Trên thực tế, vùng đất được Mỹ đặt tên là “Tam giác sắt” và coi là “Mũi tên đáng sợ chĩa thẳng vào Sài Gòn” là vùng đất:",
+    "answers": [
+      "Bình Chánh – Hóc Môn – Gò Vấp.",
+      "Củ Chi – Trảng Bàng – Bến Cát",
+      "Chủ Chi – Trảng Bàng – Đức Huệ",
+      "Tây Ninh – Lộc Ninh – Bà Rịa"
+    ]
+  },
+  {
+    "question": "Nguyên nhân hình thành tỷ suất lợi nhuận bình quân là gì?",
+    "answers": [
+      "Do chạy theo giá trị thặng dư",
+      "Do cạnh tranh trong nội bộ ngành",
+      "Do cạnh tranh giữa các ngành",
+      "Do cạnh tranh giữa các công ty"
+    ]
+  }
+]

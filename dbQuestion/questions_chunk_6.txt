@@ -1,0 +1,452 @@
+[
+  {
+    "question": "Chỉ thị Kháng chiến kiến quốc của Trung ương Đảng ngày 25/11/1945, xác định nhiệm vụ nào là trung tâm, bao trùm nhất?",
+    "answers": [
+      "Củng cố, bảo vệ chính quyền cách mạng",
+      "Cả 3 đáp án trên",
+      "Chống thực dân Pháp xâm lược",
+      "Cải thiện đời sống nhân dân"
+    ]
+  },
+  {
+    "question": "Trong thời gian nào mặc dù phải chịu nhiều tổn thất về lãnh đạo cao cấp (liên tiếp 4 Tổng Bí thư bị địch bắt), nhưng Đảng Cộng sản Việt Nam vẫn tồn tại để đề ra những quyết sách lớn làm nên thắng lợi của cách mạng?",
+    "answers": [
+      "Những năm 1945-1954",
+      "Những năm 1941-1945",
+      "Những năm 1954-1975",
+      "Những năm 1931-1941"
+    ]
+  },
+  {
+    "question": "Đại hội Đoàn toàn quốc lần thứ XI đã xác định khẩu hiệu hành động: “Tuổi trẻ Việt Nam tiên phong, bản lĩnh, đoàn kết, sáng tạo, ...”. Trong dấu ... là yếu tố nào?",
+    "answers": [
+      "khát vọng",
+      "vươn xa",
+      "hội nhập",
+      "phát triển"
+    ]
+  },
+  {
+    "question": "Sự kiện nào đánh dấu bước chuyển biến về chất trong tư tưởng Nguyễn Ái Quốc, từ chủ nghĩa yêu nước đến với chủ nghĩa Mác – Lênin, từ người yêu nước trở thành người chiến sỹ cộng sản?",
+    "answers": [
+      "Biểu quyết tán thành Quốc tế III, tham gia thành lập Đảng Cộng sản Pháp",
+      "Tiếp xúc những Luận cương về vấn đề dân tộc và vấn đề thuộc địa của Lênin",
+      "Gửi “Bản yêu sách của nhân dân An Nam” đến hội nghị Véc-xây",
+      "Dự các hội nghị Quốc tế Cộng sản ở Liên Xô"
+    ]
+  },
+  {
+    "question": "Tại sao cho rằng con đường cách mạng Việt Nam là quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là một tất yếu?",
+    "answers": [
+      "Vì nó phù hợp với đặc điểm của đất nước và xu thế phát triển của thời đại",
+      "Do sự phát triển của lực lượng sản xuất",
+      "Đảng cộng sản Việt Nam đã có đường lối đúng đắn",
+      "Vì nó đáp ứng được nguyện vọng và mong ước của nhân dân ta"
+    ]
+  },
+  {
+    "question": "Trong hình thái kinh tế - xã hội, yếu tố nào sau đây thuộc cơ sở hạ tầng:",
+    "answers": [
+      "Toàn bộ những quan hệ sản xuất hợp thành cơ cấu kinh tế của xã hội",
+      "Toàn bộ những hệ giá trị hợp thành nền tảng tinh thần của xã hội",
+      "Toàn bộ những người lao động hợp thành lực lượng sản xuất của xã hội",
+      "Toàn bộ những điều kiện, những phương tiện vật chất hợp thành cơ sở vật chất - kỹ thuật của xã hội"
+    ]
+  },
+  {
+    "question": "Chọn phương án đúng điền vào khoảng trống trong câu của Lênin sau đây: “Giai cấp là những tập đoàn người, mà tập đoàn này có thể ……. tập đoàn khác, do chỗ các tập đoàn đó có địa vị khác nhau trong một chế độ kinh tế xã hội nhất định”.",
+    "answers": [
+      "Thống trị",
+      "Chiếm đoạt tài sản của",
+      "Chiếm đoạt lao động của",
+      "Đô hộ"
+    ]
+  },
+  {
+    "question": "Trong quan hệ sản xuất, quan hệ nào giữ vai trò quyết định:",
+    "answers": [
+      "Quan hệ sở hữu tư liệu sản xuất",
+      "Quan hệ phân phối sản phẩm.",
+      "Quan hệ tổ chức, quản lý quá trình sản xuất",
+      "Quan hệ sở hữu tư nhân về tư liệu sản xuất"
+    ]
+  },
+  {
+    "question": "Lênin khẳng định “Vật chất là một phạm trù triết học dùng để chỉ ... được đem lại cho con người trong cảm giác của chúng ta chép lại, chụp lại, phản ánh và tồn tại không lệ thuộc vào cảm giác”. Điền từ còn thiếu vào chỗ trống.",
+    "answers": [
+      "Tồn tại chủ quan",
+      "Tồn tại khách quan",
+      "Thực tại khách quan",
+      "Thực tại chủ quan"
+    ]
+  },
+  {
+    "question": "Chọn nhận định theo quan điểm siêu hình.",
+    "answers": [
+      "Cái chung tồn tại một cách độc lập, không phụ thuộc vào cái riêng",
+      "Khác",
+      "Cái chung chỉ tồn tại trong danh nghĩa do chủ thể đang nhận thức gắn cho sự vật như một thuật ngữ để biểu thị sự vật.",
+      "Cái chung không tồn tại một cách thực sự, trong hiện thực chỉ có các sự vật đơn thuần nhất là tồn tại"
+    ]
+  },
+  {
+    "question": "Tác phẩm “Nâng cao đạo đức cách mạng, quét sạch chủ nghĩa cá nhân” của Hồ Chí Minh được viết bằng bút danh gì?",
+    "answers": [
+      "T.L",
+      "Hồ Chí Minh",
+      "Trần Lực",
+      "X.Y.Z"
+    ]
+  },
+  {
+    "question": "“Chống …… và bệnh quan liêu cũng quan trọng và cần kíp như việc đánh giặc trên mặt trận”. Chọn một phương án đúng theo Hồ Chí Minh để điền vào chỗ trống:",
+    "answers": [
+      "Lãng phí",
+      "Vi phạm kỷ luật",
+      "Tham ô, lãng phí",
+      "Phá hoại của công"
+    ]
+  },
+  {
+    "question": "Đại hội Đoàn toàn quốc lần thứ nhất (2/1950) đã bầu đồng chí nào làm Bí thư thứ nhất Trung ương Đoàn?",
+    "answers": [
+      "Đ/c Vũ Mão",
+      "Đ/c Nguyễn Lam",
+      "Đ/c Vũ Quang",
+      "Đ/c Đặng Quốc Bảo"
+    ]
+  },
+  {
+    "question": "“Đâu Đảng cần thanh niên có, việc gì khó thanh niên làm”. Câu nói trên được Bác Hồ phát biểu nhân sự kiện nào?",
+    "answers": [
+      "Đại hội Đoàn Thanh niên Lao động Việt Nam lần III",
+      "Đại hội Đoàn Thanh niên Lao động Việt Nam lần  II",
+      "Đại hội Đoàn Thanh niên Lao động Việt Nam lần  III",
+      "Đại hội Đảng toàn quốc lần III"
+    ]
+  },
+  {
+    "question": "Luật Giáo dục 2019 và Luật sửa đổi Luật Cán bộ, công chức và Luật Viên chức 2019 chính thức có hiệu lực thi hành khi nào?",
+    "answers": [
+      "Ngày 01/7/2020",
+      "Ngày 01/01/2021",
+      "Ngày 01/7/2019",
+      "Ngày 01/01/2020"
+    ]
+  },
+  {
+    "question": "Tinh thần, hào khí của người Nam Bộ bước vào cuộc kháng chiến chống thực dân Pháp xâm lược thể hiện sâu sắc qua bài hát “Nam Bộ kháng chiến”. Tác giả của bài hát đó là ai?",
+    "answers": [
+      "Nhạc sĩ Huỳnh Văn Tiểng",
+      "Nhạc sĩ Tạ Thanh Sơn",
+      "Nhạc sĩ Hoàng Mai Lưu",
+      "Nhạc sĩ Lưu Hữu Phước"
+    ]
+  },
+  {
+    "question": "Dưới thời chúa Nguyễn, để thực hiện nhiệm vụ được giao, đội Hoàng Sa thường xuất phát từ địa điểm nào?",
+    "answers": [
+      "Cù lao Ré",
+      "Đảo Phú Quý",
+      "Cửa biển Thuận An",
+      "Bán đảo Sơn Trà"
+    ]
+  },
+  {
+    "question": "Ai là Trưởng đoàn đại biểu Việt Nam Dân chủ Cộng hòa trong phiên họp đầu tiên giữa hai bên Việt Nam và Hoa Kỳ tại Hội nghị Paris (tháng 5-1968)?",
+    "answers": [
+      "Đ/c Xuân Thủy",
+      "Đ/c Lê Đức Thọ",
+      "Đ/c Nguyễn Duy Trinh",
+      "Đ/c Nguyễn Cơ Thạch"
+    ]
+  },
+  {
+    "question": "Khám lớn Sài Gòn được xây dựng từ năm 1886 – 1890 dưới thời Pháp hiện nay là vị trí cơ quan nào?",
+    "answers": [
+      "Thư viện Khoa học tổng hợp Thành phố Hồ Chí Minh",
+      "Trại giam Chí Hòa",
+      "Tòa án nhân dân Thành phố Hồ Chí Minh",
+      "Sở Văn hóa Thể thao Thành phố Hồ Chí Minh"
+    ]
+  },
+  {
+    "question": "Đặc trưng nào trong số các đặc trưng sau được coi là đặc trưng cơ bản nhất của giai cấp công nhân nói chung?",
+    "answers": [
+      "Cả ba đều sai",
+      "Không có tư liệu sản xuất, phải bán sức lao động",
+      "Họ lao động trong nền công nghiệp có trình độ công nghệ và kỹ thuật hiện đại",
+      "Bị giai cấp tư sản bóc lột"
+    ]
+  },
+  {
+    "question": "Sự nâng cao cấu tạo hữu cơ tư bản làm cho tỷ suất lợi nhuận của ngành:",
+    "answers": [
+      "lúc tăng lúc giảm",
+      "giảm",
+      "không đổi",
+      "tăng"
+    ]
+  },
+  {
+    "question": "Bản chất của tiền công trong Chủ nghĩa Tư bản là:",
+    "answers": [
+      "Giá cả của hàng hóa.",
+      "Giá cả của hàng hóa sức lao động.",
+      "Giá cả thị trường của hàng hóa",
+      "Giá cả của hàng hóa lao động."
+    ]
+  },
+  {
+    "question": "Khi rút vào hoạt động bí mật (11/11/1945), Đảng ta hoạt động với tên gọi là gì?",
+    "answers": [
+      "Đảng Xã hội Việt Nam",
+      "Hội nghiên cứu chủ nghĩa Mác",
+      "Hội Liên hiệp Quốc dân Việt Nam",
+      "Đảng Dân chủ Việt Nam"
+    ]
+  },
+  {
+    "question": "Nội dung nào dưới đây phản ánh đúng giá trị của chiến thắng Đường số 14 – Phước Long (tháng 1/1975) đối với việc củng cố quyết tâm và hoàn thành kế hoạch giải phóng miền Nam của Đảng Lao động Việt Nam?",
+    "answers": [
+      "Trận trinh sát chiến lược",
+      "Trận nghi binh chiến lược",
+      "Trận tập kích chiến lược",
+      "Trận mở màn chiến dịch"
+    ]
+  },
+  {
+    "question": "Lá cờ đỏ sao vào xuất hiện lầu đầu tiên tại đâu?",
+    "answers": [
+      "Binh biến Đô Lương (1/1941)",
+      "Cách mạng Tháng Tám (8/1945)",
+      "Khởi nghĩa Bắc Sơn (9/1940)",
+      "Khởi nghĩa Nam Kỳ (11/1940)"
+    ]
+  },
+  {
+    "question": "Với kết quả của chiến dịch Phan Rang – Xuân Lộc (4/1975),  Quân Giải phóng miền Nam Việt Nam đã kiểm soát được bao nhiêu tỉnh? Đó là những tỉnh nào?",
+    "answers": [
+      "3- Ninh Thuận, Bình Thuận và Tây Ninh",
+      "4-  Ninh Thuận, Bình Thuận, Hàm Tân và Tây Ninh",
+      "4- Ninh Thuận, Bình Thuận, Hàm Tân và Long Khánh",
+      "3- Ninh Thuận, Bình Thuận, và Long Khánh"
+    ]
+  },
+  {
+    "question": "Chủ trương thực hiện nền kinh tế nhiều thành phần ở Việt Nam hiện nay là sự vận dụng sáng tạo lý luận nào của chủ nghĩa Mác – Lênin?",
+    "answers": [
+      "Lý luận về mối quan hệ giữa tồn tại xã hội và ý thức xã hội",
+      "Lý luận về mối quan hệ giữa lực lượng sản xuất và quan hệ sản xuất",
+      "Lý luận về cách mạng xã hội",
+      "Lý luận về mối quan hệ giữa cơ sở hạ tầng và kiến trúc thượng tầng"
+    ]
+  },
+  {
+    "question": "Đâu là quan niệm của phép biện chứng duy vật về vai trò của các mối liên hệ đối với sự vận động và phát triển của các sự vật và hiện tượng?",
+    "answers": [
+      "Các mối liên hệ có vai trò như nhau",
+      "Các mối liên hệ có vai trò khác nhau",
+      "Các mối liên hệ luôn luôn có vai trò khác nhau",
+      "Các mối liên hệ có vai trò khác nhau tùy theo các điều kiện xác định"
+    ]
+  },
+  {
+    "question": "Theo V.I. Lênin, “hạt nhân” của phép biện chứng duy vật là:",
+    "answers": [
+      "Quy luật thống nhất và đấu tranh của các mặt đối lập",
+      "Hai nguyên lý của phép biện chứng duy vật",
+      "Quy luật từ những thay đổi về lượng dẫn đến những thay đổi về chất và ngược lại",
+      "Quy luật phủ định của phủ định"
+    ]
+  },
+  {
+    "question": "Chọn phương án đúng điền vào khoảng trống trong câu của V.I. Lênin sau đây: “Điểm chủ yếu trong học thuyết Mác là ở chỗ nó làm sáng rõ … của giai cấp vô sản là người xây dựng xã hội xã hội chủ nghĩa”.",
+    "answers": [
+      "Vai trò chủ yếu",
+      "Vai trò lịch sử thế giới",
+      "Vai trò tất yếu",
+      "Vai trò tiên phong"
+    ]
+  },
+  {
+    "question": "Theo quan điểm của triết học Mác – Lênin: Chính trị với tư cách là một hình thái ý thức xã hội, một tiểu hệ thống kiến trúc thượng tầng, nó được quyết định bởi yếu tố kinh tế. Hãy cho biết yếu tố kinh tế ở đây là gì?",
+    "answers": [
+      "Cơ sở hạ tầng",
+      "Kiến trúc thượng tầng",
+      "Công cụ lao động",
+      "Tư liệu sản xuất"
+    ]
+  },
+  {
+    "question": "Nói về vai trò của đạo đức, Hồ Chí Minh viết: “Tuy năng lực và công việc của mỗi người khác nhau, người làm việc to, người làm việc nhỏ; những ai giữ được đạo đức đều là người cao thượng”.\nCâu nói trên được Người viết trong tác phẩm nào sau đây",
+    "answers": [
+      "Đạo đức cách mạng",
+      "Nâng cao đạo đức cách mạng, quét sạch chủ nghĩa cá nhân",
+      "Cần Kiệm Liêm Chính",
+      "Đời sống mới"
+    ]
+  },
+  {
+    "question": "Bác Hồ nói, lúc đầu Người kính yêu Lênin vì lý do gì?",
+    "answers": [
+      "Là người thầy vĩ đại của giai cấp vô sản",
+      "Là người đã chỉ ra con đường giải phóng cho các dân tộc",
+      "Là người yêu nước vĩ đại đã giải phóng đồng bào mình",
+      "Là một lãnh tụ thiên tài"
+    ]
+  },
+  {
+    "question": "Trong quá trình hình thành và phát triển tư tưởng Hồ Chí Minh, thời kỳ nào là thời kỳ tìm tòi con đường cứu nước giải phóng dân tộc?",
+    "answers": [
+      "1911 – 1920",
+      "1921 – 1930",
+      "Trước năm 1911",
+      "1930 – 1945"
+    ]
+  },
+  {
+    "question": "Theo Chủ tịch Hồ Chí Minh, chuẩn mực đạo đức nào là trung tâm trong đạo đức của người cách mạng?",
+    "answers": [
+      "Trung với nước, hiếu với dân",
+      "Tinh thần quốc tế vô sản",
+      "Cần, kiệm, liêm, chính, chí công vô tư",
+      "Yêu thương con người"
+    ]
+  },
+  {
+    "question": "Vùng biển có chiều rộng 12 hải lý tính từ đường cơ sở ra phía biển được gọi là:",
+    "answers": [
+      "Lãnh hải",
+      "Thềm lục địa",
+      "Nội thủy",
+      "Vùng đặc quyền kinh tế"
+    ]
+  },
+  {
+    "question": "Quốc hội đã thông qua Nghị quyết về việc phê chuẩn Hiệp định thương mại nào vào ngày 12/11/2018?",
+    "answers": [
+      "Hiệp định EVFTA",
+      "Hiệp định thương mại Việt - Mỹ",
+      "Hiệp định CPTPP",
+      "Hiệp định thương mại Việt Nam - EU"
+    ]
+  },
+  {
+    "question": "Trung tâm Báo chí Thành phố Hồ Chí Minh chính thức khánh thành và đi vào hoạt động ở địa chỉ nào?",
+    "answers": [
+      "30 đường Trần Hưng Đạo, quận 1",
+      "255 đường Trần Hưng Đạo, quận 1",
+      "136 đường Trần Hưng Đạo, quận 1",
+      "263 – 265, đường Trần Hưng Đạo, quận 1"
+    ]
+  },
+  {
+    "question": "Cùng với việc xẻ dọc Trường Sơn mở Đường mòn Hồ Chí Minh, từ tháng 7-1959, một con đường Bắc - Nam xuyên biển được bí mật chuẩn bị (Đường Hồ Chí Minh trên biển) để làm nhiệm vụ chi viện cho chiến trường miền Nam. Đơn vị được giao nhiệm vụ này là:",
+    "answers": [
+      "Hai thủy đội Sông Lô và Bạch Đằng.",
+      "Đoàn 135.",
+      "Lữ đoàn 147.",
+      "Đoàn 759 (Lữ đoàn 125 ngày nay)."
+    ]
+  },
+  {
+    "question": "Chỉ huy chung trận đánh tòa Đại sứ Mỹ trong đợt 1 Tổng tiến công và nổi dậy xuân Mậu Thân 1968 là ai?",
+    "answers": [
+      "Đ/c Trương Hoàng Thanh",
+      "Đ/c Đỗ Thanh Phong",
+      "Đ/c Nguyễn Văn Tăng",
+      "Đ/c Ngô Thành Vân"
+    ]
+  },
+  {
+    "question": "Tiền giấy xuất hiện đầu tiên ở nước ta vào đời:",
+    "answers": [
+      "Nhà Lý",
+      "Nhà Trần",
+      "Nhà Nguyễn",
+      "Nhà Hồ"
+    ]
+  },
+  {
+    "question": "Chọn phương án đúng điền vào chỗ trống: “Cường độ lao động…, lượng giá trị của một đơn vị hàng hóa…”",
+    "answers": [
+      "Tăng/tăng",
+      "Tăng/không đổi",
+      "Tăng/giảm",
+      "Giảm/không đổi"
+    ]
+  },
+  {
+    "question": "Giá trị sử dụng của hàng hóa sức lao động, có tính chất đặc biệt là khi sử dụng sẽ tạo ra:",
+    "answers": [
+      "Giá trị mới bằng giá trị bản thân nó",
+      "Giá trị sử dụng mới lớn hơn giá trị sử dụng bản thân nó",
+      "Giá trị mới lớn hơn giá trị bản thân nó",
+      "Giá trị mới nhỏ hơn giá trị bản thân nó"
+    ]
+  },
+  {
+    "question": "Ai là Bí thư đầu tiên của An Nam Cộng Sản Đảng?",
+    "answers": [
+      "Hồ Tùng Mậu",
+      "Trần Não",
+      "Ngô Gia Tự",
+      "Châu Văn Liêm"
+    ]
+  },
+  {
+    "question": "Khi nước chuyển từ trạng thái lỏng sang trạng thái khí tại 100 Độ C được gọi là gì trong quy luật lượng - chất?",
+    "answers": [
+      "Độ",
+      "Chuyển hoá",
+      "Tiệm tiến",
+      "Bước nhảy"
+    ]
+  },
+  {
+    "question": "Triết học ra đời từ:",
+    "answers": [
+      "Thời Cổ đại",
+      "Thời Cận đại",
+      "Thời Trung đại",
+      "Cuối thời Cổ đại đến đầu thời Trung đại"
+    ]
+  },
+  {
+    "question": "Phép biện chứng đã trải qua bao nhiêu hình thức? Kể tên các hình thức đó?",
+    "answers": [
+      "3- Phép biện chứng chất phác thời cổ đại, phép biện chứng duy tâm cổ điển Đức và phép biện chứng duy vật của chủ nghĩa Mác – Lê nin",
+      "4- Phép biện chứng chất phác thời cổ đại, phép biện chứng Hy Lạp cổ đại, phép biện chứng duy tâm cổ điển Đức và phép biện chứng duy vật của chủ nghĩa Mác – Lê nin",
+      "4- Phép biện chứng chất phác thời cổ đại, phép biện chứng duy tâm cổ điển Đức, phép biện chứng tự phát và phép biện chứng duy vật của chủ nghĩa Mác – Lê nin",
+      "3- Phép biện chứng Hy Lạp cổ đại, phép biện chứng duy tâm cổ điển Đức và phép biện chứng duy vật của chủ nghĩa Mác – Lê nin"
+    ]
+  },
+  {
+    "question": "Tác phẩm nào mang tên của C.Mác được Lênin đánh giá là “tác phẩm chủ yếu và cơ bản trình bày Chủ nghĩa xã hội khoa học”?",
+    "answers": [
+      "Tư bản",
+      "Phê phán cương lĩnh Gotha",
+      "Làm gì?",
+      "Gia đình thần thánh"
+    ]
+  },
+  {
+    "question": "“Tất cả mọi tôn giáo, chẳng qua chỉ là sự phản ánh hư ảo – vào trong đấu óc của con người – của những lực lượng bên ngoài chi phối cuộc sống hàng ngày của họ…”. Ph. Ăngghen nhận xét về:",
+    "answers": [
+      "Cả ba nội dung trên",
+      "Tính chất của tôn giáo.",
+      "Nguồn gốc tôn giáo.",
+      "Bản chất của tôn giáo."
+    ]
+  },
+  {
+    "question": "Phát hiện nào sau đây của C. Mác và Ph. Ăngghen?",
+    "answers": [
+      "Cả ba đều đúng",
+      "Chủ nghĩa duy vật lịch sử",
+      "Học thuyết giá trị thặng dư",
+      "Sứ mệnh lịch sử của giai cấp công nhân"
+    ]
+  }
+]
