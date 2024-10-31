@@ -11,24 +11,26 @@ const BASED = 500;
   let browser;
   let page;
 
-  for (let i = 0; i < 100; i++) {
+  for (let i = 0; i < 1; i++) {
     const student = await randomStudent();
     browser = await puppeteer.launch({ headless: false });
     page = await browser.newPage();
-    console.log(student)
     try {
       console.log(
         `Bắt đầu đăng ký cho sinh viên ${student.studentId} - ${student.email}`
       );
+      log("process.txt", `Bắt đầu đăng ký cho sinh viên ${student.studentId} - ${student.email}`)
       await register(page, student);
       console.log(
         `Kết thúc đăng ký cho sinh viên ${student.studentId} - ${student.email}`
       );
+      log("process.txt", `Kết thúc đăng ký cho sinh viên ${student.studentId} - ${student.email}`)
       log("accounts.txt", `${student.studentId} - ${student.email}`)
 
       console.log(
         `Bắt đầu xác thực cho sinh viên ${student.studentId} - ${student.email}`
       );
+      log("process.txt", `Bắt đầu xác thực cho sinh viên ${student.studentId} - ${student.email}`)
       const auth = await authorize();
       let confimationLink = null;
       waitedTime = 0;
@@ -50,32 +52,36 @@ const BASED = 500;
       console.log(
         `Kết thúc xác thực cho sinh viên ${student.studentId} - ${student.email}`
       );
+      log("process.txt", `Kết thúc xác thực cho sinh viên ${student.studentId} - ${student.email}`)
 
 
       console.log(
         `Bắt đầu thi cho sinh viên ${student.studentId} - ${student.email}`
       );
+      log("process.txt", `Bắt đầu thi cho sinh viên ${student.studentId} - ${student.email}`)
       await test(page, student);
       console.log(
         `Kết thúc thi cho sinh viên ${student.studentId} - ${student.email}`
       );
+      log("process.txt", `Kết thúc thi cho sinh viên ${student.studentId} - ${student.email}`)
     } catch (error) {
-      console.error(error);
+      console.log(error);
+      log("process.txt", `Xảy ra lỗi cho sinh viên ${student.studentId} - ${student.email}`)
       log("errorStudent.txt", `${student.studentId} - ${student.email}`)
       console.log(
         `Xảy ra lỗi cho sinh viên ${student.studentId} - ${student.email}`
       ); 
     } 
-    finally {
-      if (page) {
-        await page.close();
-      }
-      if (browser) {
-        await browser.close();
-      }
-      console.log(
-        "====================================================================="
-      );
-    }
+    // finally {
+    //   if (page) {
+    //     await page.close();
+    //   }
+    //   if (browser) {
+    //     await browser.close();
+    //   }
+    //   console.log(
+    //     "====================================================================="
+    //   );
+    // }
   }
 })();
