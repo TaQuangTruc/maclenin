@@ -39,7 +39,7 @@ const BASED = 500;
         await delay(BASED * 10);
         waitedTime += BASED * 10;
         confimationLink = await getConfirmationLink(auth, student.email);
-        if (waitedTime > BASED * 50)
+        if (waitedTime > 60000)
           throw new Error("Không tìm thấy email xác nhận");
       } while (!confimationLink);
       const confirmPage = await browser.newPage();
@@ -72,16 +72,16 @@ const BASED = 500;
         `Xảy ra lỗi cho sinh viên ${student.studentId} - ${student.email}`
       ); 
     } 
-    // finally {
-    //   if (page) {
-    //     await page.close();
-    //   }
-    //   if (browser) {
-    //     await browser.close();
-    //   }
-    //   console.log(
-    //     "====================================================================="
-    //   );
-    // }
+    finally {
+       if (page) {
+         await page.close();
+    }
+    if (browser) {
+    await browser.close();
+    }
+    console.log(
+    "====================================================================="
+     );
+    }
   }
 })();
