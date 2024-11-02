@@ -3,7 +3,7 @@ const { register } = require("./utils/register");
 const { test } = require("./utils/test");
 const { randomStudent } = require("./utils/randomStudent");
 const { authorize, getConfirmationLink } = require("./utils/getEmail");
-const { log, delay } = require("./utils/helper");
+const { log, delay, readFile } = require("./utils/helper");
 
 
 const BASED = 500;
@@ -11,7 +11,7 @@ const BASED = 500;
   let browser;
   let page;
 
-  for (let i = 0; i < 50; i++) {
+  for (let i = 0; i < 1; i++) {
     const student = await randomStudent();
     browser = await puppeteer.launch({ headless: true });
     page = await browser.newPage();
@@ -39,7 +39,7 @@ const BASED = 500;
         await delay(BASED * 10);
         waitedTime += BASED * 10;
         confimationLink = await getConfirmationLink(auth, student.email);
-        if (waitedTime > BASED * 50)
+        if (waitedTime > 60000)    
           throw new Error("Không tìm thấy email xác nhận");
       } while (!confimationLink);
       const confirmPage = await browser.newPage();

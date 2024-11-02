@@ -3,7 +3,7 @@ const path = require("path");
 const process = require("process");
 const { authenticate } = require("@google-cloud/local-auth");
 const { google } = require("googleapis");
-const { getLink } = require("./helper");
+const { getLink, delay } = require("./helper");
 
 // If modifying these scopes, delete token.json.
 const SCOPES = ["https://www.googleapis.com/auth/gmail.readonly"];
@@ -43,7 +43,6 @@ async function authorize() {
   if (client) {
     return client;
   }
-  console.log("Creating new token")
   client = await authenticate({
     scopes: SCOPES,
     keyfilePath: CREDENTIALS_PATH,
@@ -66,6 +65,7 @@ async function getConfirmationLink(auth, toEmail) {
     userId: "me",
     id: res.data.messages[0].id,
   });
+
   const body = message.data.payload.parts[1].body.data;
   // var htmlBody = (body.replace(/-/g, '+').replace(/_/g, '/'));
   var htmlBody = Buffer.from(

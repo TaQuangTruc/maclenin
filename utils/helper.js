@@ -178,5 +178,6 @@ module.exports = {
   delay,
   log,
   getQuestionBanks,
-  getRandomInt
+  getRandomInt,
+  readFile
 };
