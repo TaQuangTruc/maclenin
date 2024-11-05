@@ -2,7 +2,7 @@ async function register(page, student) {
   try {
     await page.goto("https://youth-vnuhcm.edu.vn/register/", {
       waitUntil: "networkidle0",
-      timeout: 10000,
+      timeout: 30000,
     });
 
     await page.waitForSelector('input[name="user_login-39"]');

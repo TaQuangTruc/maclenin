@@ -11,7 +11,7 @@ async function test(page, student) {
   try {
     await page.goto("https://youth-vnuhcm.edu.vn/hoi-thi-olympic-mac-lenin/", {
       waitUntil: "networkidle0",
-      timeout: 10000,
+      timeout: 30000,
     });
 
     const examButton = await page.$(".ays_next.start_button.action-button");
@@ -82,8 +82,8 @@ async function test(page, student) {
         );
         const cleanedQuestion = questionText.replace(/^\d+\.\s*/, "").trim();
 
-        console.log("Đang tìm kiếm");
-        await delay(getRandomInt(1000, 2000));
+        // console.log("Đang tìm kiếm");
+        await delay(500);
 
         const questionBankItem = questionBank.find((q) =>
           cleanedQuestion.includes(q.question)
@@ -108,8 +108,9 @@ async function test(page, student) {
           continue;
         }
 
-        console.log("Bắt đầu trả lời");
-        await delay(getRandomInt(1000, 2000));
+        // console.log("Bắt đầu trả lời");
+        await delay(500);
+
         for (let j = 0; j < answerElements.length; j++) {
           const answerText = await answerElements[j].evaluate((el) =>
             el.innerText.trim()
@@ -121,7 +122,7 @@ async function test(page, student) {
           }
         }
 
-        await delay(2000);
+        // await delay(1000);
       } catch (error) {
         console.log(`Xảy ra lỗi khi trả lời câu hỏi ${i - 1}`);
       } finally {
