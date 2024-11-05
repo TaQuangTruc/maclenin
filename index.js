@@ -10,7 +10,7 @@ const BASED = 500;
   let browser;
   let page;
 
-  for (let i = 0; i < 1; i++) {
+  for (let i = 0; i < 100; i++) {
     const student = await randomStudent();
     browser = await puppeteer.launch({ headless: true });
     page = await browser.newPage();
