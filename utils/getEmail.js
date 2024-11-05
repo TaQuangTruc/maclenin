@@ -16,8 +16,10 @@ const CREDENTIALS_PATH = path.join(process.cwd(), "./auth/credentials.json");
 
 async function loadSavedCredentialsIfExist() {
   try {
+    console.log("toiws ddayas")
     const content = await fs.readFile(TOKEN_PATH);
     const credentials = JSON.parse(content);
+    console.log(credentials)
     return google.auth.fromJSON(credentials);
   } catch (err) {
     return null;
@@ -25,7 +27,6 @@ async function loadSavedCredentialsIfExist() {
 }
 
 async function saveCredentials(client) {
-  console.log("Saving new token.");
   const content = await fs.readFile(CREDENTIALS_PATH);
   const keys = JSON.parse(content);
   const key = keys.web || keys.installed ;
@@ -41,8 +42,10 @@ async function saveCredentials(client) {
 async function authorize() {
   let client = await loadSavedCredentialsIfExist();
   if (client) {
+    console.log(client)
     return client;
   }
+  console.log("Chưa xác thực, đang xác thực...");
   client = await authenticate({
     scopes: SCOPES,
     keyfilePath: CREDENTIALS_PATH,

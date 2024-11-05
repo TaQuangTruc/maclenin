@@ -109,7 +109,7 @@ async function test(page, student) {
         }
 
         console.log("Bắt đầu trả lời");
-        await delay(getRandomInt(4000, 6000));
+        await delay(getRandomInt(1000, 2000));
         for (let j = 0; j < answerElements.length; j++) {
           const answerText = await answerElements[j].evaluate((el) =>
             el.innerText.trim()
