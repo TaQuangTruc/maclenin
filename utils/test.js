@@ -83,7 +83,7 @@ async function test(page, student) {
         const cleanedQuestion = questionText.replace(/^\d+\.\s*/, "").trim();
 
         console.log("Đang tìm kiếm");
-        await delay(getRandomInt(6000, 8000));
+        await delay(getRandomInt(1000, 2000));
 
         const questionBankItem = questionBank.find((q) =>
           cleanedQuestion.includes(q.question)
@@ -109,7 +109,7 @@ async function test(page, student) {
         }
 
         console.log("Bắt đầu trả lời");
-        await delay(getRandomInt(5000, 8000));
+        await delay(getRandomInt(4000, 6000));
         for (let j = 0; j < answerElements.length; j++) {
           const answerText = await answerElements[j].evaluate((el) =>
             el.innerText.trim()
