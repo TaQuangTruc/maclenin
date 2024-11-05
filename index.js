@@ -12,7 +12,7 @@ const BASED = 500;
 
   for (let i = 0; i < 1; i++) {
     const student = await randomStudent();
-    browser = await puppeteer.launch({ headless: false });
+    browser = await puppeteer.launch({ headless: true });
     page = await browser.newPage();
     try {
       console.log(

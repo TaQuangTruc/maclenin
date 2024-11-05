@@ -148,7 +148,7 @@ async function test(page, student) {
     const finishButton = await page.$(".ays_next.ays_finish.action-button");
     await finishButton.click();
 
-    await delay(5000);
+    await delay(3000);
   } catch (error) {
     console.log(
       `Lỗi khi thi cho sinh viên ${student.studentId} - ${student.email}`
